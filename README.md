@@ -5,6 +5,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 - [AI](#ai)
 - [Character Controllers 2D](#character-controllers-2d)
 - [Character Controllers 3D](#character-controllers-3d)
+- [Crypto](#crypto)
 - [Editor](#editor)
 - [Framework](#framework)
 - [Input](#input)
@@ -33,10 +34,13 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [SuperCharacterController](https://github.com/IronWarrior/SuperCharacterController) - Custom Character Controller for Unity. Fulfills all common character controller functions such as collision detection and pushback, slope limiting and collider ignoring.
 * [Unity-ThirdPersonController](https://github.com/dbrizov/Unity-ThirdPersonController) - Third Person Controller for Unity (with custom gravity)
 
+## Crypto
+* [Bouncy Castle C# With Unity3d Supports](https://github.com/insthync/bc-csharp) - Bouncy Castle C# With Unity3d Supports
+
 ## Editor
 * [Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet) - Unity-QuickSheet enables you to use spreadsheet file data within Unity editor.
 * [Unity3D Rainbow Folders](https://github.com/PhannGor/unity3d-rainbow-folders) - This asset allows you to set custom icons for any folder in unity project browser.
-* [Reorderable List Editor Field for Unity](https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity)
+* [Reorderable List Editor Field for Unity](https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity) - Reorderable List Editor Field for Unity
 * [Vexe Framework (VFW)](https://github.com/vexe/VFW) - an editor extension that offers much more advance editor extensibility features than what comes out of the box with Unity.
 
 ## Framework
