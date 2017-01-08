@@ -11,6 +11,7 @@ A categorized collection of awesome opensource unity3d repos
 - [Plugins](#plugins)
 - [Services](#services)
 - [Sounds](#sounds)
+- [Tweening](#tweening)
 - [Utilities](#utilities)
 
 ## 2D
@@ -56,11 +57,14 @@ A categorized collection of awesome opensource unity3d repos
 
 ## Services
 
-* ][(https://github.com/playgameservices/play-games-plugin-for-unity) - 
+* [Google Play Games plugin for Unity](https://github.com/playgameservices/play-games-plugin-for-unity) - Google Play Games plugin for Unity
 
 ## Sounds
 * [usfxr](https://github.com/zeh/usfxr) - a C# library used to generate and play game-like procedural audio effects inside Unity. With usfxr, one can easily design and synthesize original sound in real time for actions such as item pickups, jumps, lasers, hits, explosions, and more, without ever leaving the Unity editor.
 * [Unity-Beat-Detection](https://github.com/allanpichardo/Unity-Beat-Detection) - Musical beat detection and audio spectrum analysis for use with the Unity game engine.
+
+## Tweening
+* [DOTween](https://github.com/Demigiant/dotween) - A Unity C# animation engine. HOTween v2
 
 ## Utilities
 * [UniRx](https://github.com/neuecc/UniRx) - Reactive Extensions for Unity
