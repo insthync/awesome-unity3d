@@ -67,6 +67,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 ## Networking
 * [UnitySocketIO](https://github.com/NetEase/UnitySocketIO) - socket.io client for unity3d.
 * [websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
+* [Hazel-Networking](https://github.com/DarkRiftNetworking/Hazel-Networking) - A low level networking library for C# providing connection orientated, message based communication via TCP, UDP and RUDP.
 
 ## Plugins
 * [Reign Unity Plugin](https://github.com/reignstudios/Reign-Unity-Plugin5) - This Reign API is a cross-platform, unified API for the Unity game engine.
