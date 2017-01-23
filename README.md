@@ -103,3 +103,4 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [UniGif](https://github.com/WestHillApps/UniGif) - GIF image decoder for Unity.
 * [unityassets](https://github.com/fholm/unityassets) - Assorted assets previously on sale on the Unity Asset Store, now free on github.
 * [UnityToolbag](https://github.com/nickgravelyn/UnityToolbag) - Variety of Unity scripts and tools.
+* [C-Sharp-Promise](https://github.com/Real-Serious-Games/C-Sharp-Promise) - Promises library for C# for management of asynchronous operations.
