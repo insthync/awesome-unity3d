@@ -74,6 +74,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 * [Hazel-Networking](https://github.com/DarkRiftNetworking/Hazel-Networking) - A low level networking library for C# providing connection orientated, message based communication via TCP, UDP and RUDP.
 * [MassiveNet](https://github.com/jakevn/MassiveNet) - Unity3d UDP networking library focused on high-CCU, multi-server architecture.
+* [unet-hlapi-manager](https://github.com/insthync/unet-hlapi-manager) - The simple network manager based on Unity's NetworkManager without players, scenes stuffs focus on network messages callback handles. Intenly made for multiple server purposes
 
 ## Plugins
 * [Reign Unity Plugin](https://github.com/reignstudios/Reign-Unity-Plugin5) - This Reign API is a cross-platform, unified API for the Unity game engine.
