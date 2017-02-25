@@ -112,3 +112,4 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [C-Sharp-Promise](https://github.com/Real-Serious-Games/C-Sharp-Promise) - Promises library for C# for management of asynchronous operations.
 * [3DMath](https://github.com/GregLukosek/3DMath) - Unity C# 3D Math methods library.
 * [Projeny](https://github.com/modesttree/Projeny) - A project and package manager for Unity.
+* [Unity Size Explorer](https://github.com/aschearer/unitysizeexplorer) - Visualize how much space each asset in your Unity game takes and quickly optimize your game's file size.
