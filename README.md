@@ -50,6 +50,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [Vexe Framework (VFW)](https://github.com/vexe/VFW) - an editor extension that offers much more advance editor extensibility features than what comes out of the box with Unity.
 * [Tidy Up](https://github.com/Nutshell-Hack/Tidy-Up) - Neat little tool! to help you keep your Unity projects organised by throwing assets in their designated folders.
 * [Unity Psd Importer](https://github.com/ChemiKhazi/UnityPsdImporter) - Advanced PSD importer for Unity3D
+* [property-drawer-collection](https://github.com/anchan828/property-drawer-collection)
 
 ## Effect
 * [Time Of Day System Free](https://github.com/ACFILES/TimeOfDaySystemFree) - With this package you can create Basic Day/Night cycle, also it includes a system of curves and gradients to control the parameters of the lighting, sky, moon, stars, fog, etc.
