@@ -51,6 +51,9 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [Tidy Up](https://github.com/Nutshell-Hack/Tidy-Up) - Neat little tool! to help you keep your Unity projects organised by throwing assets in their designated folders.
 * [Unity Psd Importer](https://github.com/ChemiKhazi/UnityPsdImporter) - Advanced PSD importer for Unity3D
 * [property-drawer-collection](https://github.com/anchan828/property-drawer-collection)
+* [unity-symlink-utility](https://github.com/karl-/unity-symlink-utility) - A small extension that adds a menu item to add folders as symlinks in Unity
+* [giles](https://github.com/procore3d/giles) - GILES: A Runtime Level Editor for Unity3D
+* [UnityDefineManager](https://github.com/karl-/UnityDefineManager) - Easily manage global defines in Unity
 
 ## Effect
 * [Time Of Day System Free](https://github.com/ACFILES/TimeOfDaySystemFree) - With this package you can create Basic Day/Night cycle, also it includes a system of curves and gradients to control the parameters of the lighting, sky, moon, stars, fog, etc.
