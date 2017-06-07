@@ -54,6 +54,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [unity-symlink-utility](https://github.com/karl-/unity-symlink-utility) - A small extension that adds a menu item to add folders as symlinks in Unity
 * [giles](https://github.com/procore3d/giles) - GILES: A Runtime Level Editor for Unity3D
 * [UnityDefineManager](https://github.com/karl-/UnityDefineManager) - Easily manage global defines in Unity
+* [consolation]https://github.com/mminer/consolation - In-game debug console for Unity.
 
 ## Effect
 * [Time Of Day System Free](https://github.com/ACFILES/TimeOfDaySystemFree) - With this package you can create Basic Day/Night cycle, also it includes a system of curves and gradients to control the parameters of the lighting, sky, moon, stars, fog, etc.
@@ -61,6 +62,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 ## Framework
 * [Zenject](https://github.com/modesttree/Zenject) - Dependency Injection Framework for Unity3D
 * [UniRx](https://github.com/neuecc/UniRx) - Reactive Extensions for Unity
+* [Fungus](https://github.com/snozbot/fungus) - https://github.com/snozbot/fungus
 
 ## Input
 * [InputManager](https://github.com/daemon3000/InputManager) - Custom InputManager for Unity
