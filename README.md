@@ -22,6 +22,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 - [Tweening](#tweening)
 - [UI](#ui)
 - [Utilities](#utilities)
+- [VR](#vr)
 
 ## 2D
 * [UnityTiled](https://github.com/nickgravelyn/UnityTiled) - Editor tools for working with [Tiled](http://www.mapeditor.org) maps in Unity.
@@ -72,6 +73,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [UniRx](https://github.com/neuecc/UniRx) - Reactive Extensions for Unity
 * [Fungus](https://github.com/snozbot/fungus) - https://github.com/snozbot/fungus
 * [Node_Editor_Framework](https://github.com/Seneral/Node_Editor_Framework) - Node Editor framework for Unity3D
+* [Entitas-CSharp](https://github.com/sschmid/Entitas-CSharp) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
 
 ## Input
 * [InputManager](https://github.com/daemon3000/InputManager) - Custom InputManager for Unity
@@ -152,3 +154,6 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [Spine Runtimes](https://github.com/EsotericSoftware/spine-runtimes) - Collection of Spine runtimes including with Unity3d version.
 * [UnityStudio](https://github.com/RaduMC/UnityStudio) - Unity Studio is a tool for exploring, extracting and exporting assets from Unity games and apps.
 * [InGameReplay](https://github.com/FeNo/InGameReplay) - Allow you to record the transform of any objects to replay it
+
+## VR
+* [VRTK](https://github.com/thestonefox/VRTK) - A productive VR Toolkit for rapidly building VR solutions in Unity3d.
