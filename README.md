@@ -33,6 +33,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 
 ## Camera
 * [Unity Pixel Camera](https://github.com/ChemiKhazi/UnityPixelCamera) - A resolution independent pixel perfect camera for Unity
+* [DeadSimple Pixel-Perfect Camera](https://github.com/cmilr/DeadSimple-Pixel-Perfect-Camera) - An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scenes in Unity. Punch in a few specs and you've got a working pixel perfect camera. It's that easy.
 
 ## Character Controllers 2D
 * [Unity 2D Platformer Controller](https://github.com/cjddmut/Unity-2D-Platformer-Controller) - A customizable 2D platformer motor that handles mechanics such as double jumps, wall jumps, and corner grabs. Includes a player controlled prefab that can be dropped into any scene for immediate support.
@@ -59,6 +60,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [giles](https://github.com/procore3d/giles) - GILES: A Runtime Level Editor for Unity3D
 * [UnityDefineManager](https://github.com/karl-/UnityDefineManager) - Easily manage global defines in Unity
 * [consolation](https://github.com/mminer/consolation) - In-game debug console for Unity.
+* [HexTiles](https://github.com/RoryDungan/HexTiles) - Unity Hex Tile Editor
 
 ## Effect
 * [Time Of Day System Free](https://github.com/ACFILES/TimeOfDaySystemFree) - With this package you can create Basic Day/Night cycle, also it includes a system of curves and gradients to control the parameters of the lighting, sky, moon, stars, fog, etc.
