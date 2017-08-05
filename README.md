@@ -109,6 +109,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 
 ## Procedural Generation Systems
 * [ProceduralToolkit](https://github.com/Syomus/ProceduralToolkit) - Instruments for development of procedural generation systems in Unity game engine
+* [DungeonGenerator](https://github.com/jongallant/DungeonGenerator) - A dungeon generator for Unity
 
 ## Pooling System
 * [Unity-QuickPool](https://github.com/densylkin/QuickPool) - Simple pooling toolkit for Unity game engine
