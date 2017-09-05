@@ -31,6 +31,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 
 ## AI
 * [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai) - A library of common movement AI scripts known as Steering Behaviors. You can use these scripts to help your NPCs move around your game.
+* [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - A Utility AI for C# and Unity
 
 ## Camera
 * [Unity Pixel Camera](https://github.com/ChemiKhazi/UnityPixelCamera) - A resolution independent pixel perfect camera for Unity
