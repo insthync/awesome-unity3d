@@ -6,7 +6,6 @@ A categorized collection of awesome opensource unity3d repos (including with som
 - [Camera](#camera)
 - [Character Controllers 2D](#character-controllers-2d)
 - [Character Controllers 3D](#character-controllers-3d)
-- [Crypto](#crypto)
 - [Editor](#editor)
 - [Effect](#effect)
 - [Framework](#framework)
@@ -45,9 +44,6 @@ A categorized collection of awesome opensource unity3d repos (including with som
 ## Character Controllers 3D
 * [SuperCharacterController](https://github.com/IronWarrior/SuperCharacterController) - Custom Character Controller for Unity. Fulfills all common character controller functions such as collision detection and pushback, slope limiting and collider ignoring.
 * [Unity-ThirdPersonController](https://github.com/dbrizov/Unity-ThirdPersonController) - Third Person Controller for Unity (with custom gravity)
-
-## Crypto
-* [Bouncy Castle C# With Unity3d Supports](https://github.com/insthync/bc-csharp) - Bouncy Castle C# With Unity3d Supports
 
 ## Editor
 * [Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet) - Unity-QuickSheet enables you to use spreadsheet file data within Unity editor.
