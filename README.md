@@ -102,10 +102,6 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [MagicOnion](https://github.com/neuecc/MagicOnion) - gRPC based HTTP/2 RPC Streaming Framework for .NET, .NET Core and Unity.
 * [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP library for Mono and .NET
 * [UNet-Controller](https://github.com/GreenByteSoftware/UNet-Controller) - A CharacterController based controller for Unity's new Networking system
-* [mage](https://github.com/mage/mage-sdk-unity) - MAGE client SDK for Unity (MAGE server - https://github.com/mage/mage)
-* [ArkGameFrame](https://github.com/ArkGame/ArkGameFrame) - ArkGameFrame is a lightweight, agility, scalable, distributed plugin framework written by C++，make it easier and faster to create your own game server, which with Unity3d client. Plan to support UE4, Cocos2dx client
-* [KBEngine](https://github.com/kbengine/kbengine) - A MMOG engine of server
-* [NoahGameFrame](https://github.com/ketoo/NoahGameFrame) - A fast, scalable, distributed game server framework for C++, include actor library, network library,can be used as a real time multiplayer game engine ( MMO RPG/MOBA ), which support C#/Lua script/ Unity3d, Cocos2dx and plan to support Unreal.
 
 
 ## Plugins
