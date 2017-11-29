@@ -158,7 +158,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) - A NuGet Package Manager for Unity
 * [UnityPSDLayoutTool](https://github.com/GlitchEnzo/UnityPSDLayoutTool) - A tool used to import a Photoshop Documents (.psd files) into the Unity Game Engine.
 * [Rant](https://github.com/TheBerkin/rant) - Robust text engine for procedural generation and postprocessing
-* [E7Unity]https://github.com/5argon/E7Unity - Common Unity resources
+* [E7Unity](https://github.com/5argon/E7Unity) - Common Unity resources
 
 ## VR
 * [VRTK](https://github.com/thestonefox/VRTK) - A productive VR Toolkit for rapidly building VR solutions in Unity3d.
