@@ -140,6 +140,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [Unity-UI-Extensions](https://bitbucket.org/UnityUIExtensions/unity-ui-extensions)
 * [EnhancedScrollView](https://github.com/tinyantstudio/EnhancedScrollView) - Cool 3d scoll view for Unity(NGUI 3D UGUI support)
 * [Beautiful Text Outline for Unity UI](https://github.com/n-yoda/unity-vertex-effects) - Beautiful text outline for Unity UI.
+* [uGUI-Effect-Tool](https://github.com/WestHillApps/uGUI-Effect-Tool) - Vertex color UI Effect for Unity UI (uGUI).
 
 ## Utilities
 * [LINQ to GameObject](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ
