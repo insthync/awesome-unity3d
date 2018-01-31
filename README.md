@@ -14,6 +14,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 - [Lua](#lua)
 - [Monetization](#monetization)
 - [Networking](#networking)
+- [Physic](#physic)
 - [Plugins](#plugins)
 - [Procedural Generation Systems](#procedural-generation-systems)
 - [Pooling System](#pooling-system)
@@ -110,6 +111,8 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP library for Mono and .NET
 * [UNet-Controller](https://github.com/GreenByteSoftware/UNet-Controller) - A CharacterController based controller for Unity's new Networking system
 
+## Physic
+* [BulletSharpUnity3d](https://github.com/Phong13/BulletSharpUnity3d) - A fork of the BulletSharp project to make the Bullet Physics Engine usable from C# code in Unity3d
 
 ## Plugins
 * [Reign Unity Plugin](https://github.com/reignstudios/Reign-Unity-Plugin5) - This Reign API is a cross-platform, unified API for the Unity game engine.
