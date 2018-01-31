@@ -9,6 +9,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 - [Editor](#editor)
 - [Effect](#effect)
 - [Framework](#framework)
+- [Graphic](#graphic)
 - [Input](#input)
 - [Lua](#lua)
 - [Monetization](#monetization)
@@ -71,6 +72,9 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [Fungus](https://github.com/snozbot/fungus) - https://github.com/snozbot/fungus
 * [Node_Editor_Framework](https://github.com/Seneral/Node_Editor_Framework) - Node Editor framework for Unity3D
 * [Entitas-CSharp](https://github.com/sschmid/Entitas-CSharp) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
+
+## Graphic
+* [Temporal](https://github.com/playdeadgames/temporal) - Temporal Reprojection Anti-Aliasing for Unity 5.0+
 
 ## Input
 * [InputManager](https://github.com/daemon3000/InputManager) - Custom InputManager for Unity
