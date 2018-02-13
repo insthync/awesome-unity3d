@@ -11,6 +11,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 - [Framework](#framework)
 - [Graphic](#graphic)
 - [Input](#input)
+- [Light](#light)
 - [Lua](#lua)
 - [Monetization](#monetization)
 - [Networking](#networking)
@@ -64,6 +65,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [UnityDefineManager](https://github.com/karl-/UnityDefineManager) - Easily manage global defines in Unity
 * [consolation](https://github.com/mminer/consolation) - In-game debug console for Unity.
 * [HexTiles](https://github.com/RoryDungan/HexTiles) - Unity Hex Tile Editor
+* [Texture3DPreview-for-Unity](https://github.com/raphael-ernaelsten/Texture3DPreview-for-Unity) - This package enables interactive previews of Texture3D assets in Unity's Inspector window.
 
 ## Effect
 * [Time Of Day System Free](https://github.com/ACFILES/TimeOfDaySystemFree) - With this package you can create Basic Day/Night cycle, also it includes a system of curves and gradients to control the parameters of the lighting, sky, moon, stars, fog, etc.
@@ -85,6 +87,9 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [InputBinder](https://github.com/RyanNielson/InputBinder) - Easily bind input events to methods in Unity.
 * [TouchKit](https://github.com/prime31/TouchKit) - Gestures and input handling made sane for Unity
 * [TouchScript (Recommend)](https://github.com/TouchScript/TouchScript) - Complete multitouch solution for Unity: Win8, TUIO, Mobile.
+
+## Light
+* [Aura](https://github.com/raphael-ernaelsten/Aura) - Volumetric Lighting for Unity
 
 ## Lua
 * [slua (Recommend)](https://github.com/pangweiwei/slua) - Fastest lua binding via static code generating for Unity3D and mono.
