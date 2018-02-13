@@ -20,6 +20,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 - [Procedural Generation Systems](#procedural-generation-systems)
 - [Pooling System](#pooling-system)
 - [Services](#services)
+- [Shaders](#shaders)
 - [Sounds](#sounds)
 - [Tweening](#tweening)
 - [UI](#ui)
@@ -66,11 +67,13 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [consolation](https://github.com/mminer/consolation) - In-game debug console for Unity.
 * [HexTiles](https://github.com/RoryDungan/HexTiles) - Unity Hex Tile Editor
 * [Texture3DPreview-for-Unity](https://github.com/raphael-ernaelsten/Texture3DPreview-for-Unity) - This package enables interactive previews of Texture3D assets in Unity's Inspector window.
+* [unity-colourlovers-importer](https://github.com/shelleylowe/unity-colourlovers-importer) - Unity editor tool to load colours and palettes directly from COLOURlovers.com
 
 ## Effect
 * [Time Of Day System Free](https://github.com/ACFILES/TimeOfDaySystemFree) - With this package you can create Basic Day/Night cycle, also it includes a system of curves and gradients to control the parameters of the lighting, sky, moon, stars, fog, etc.
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
 * [Outline-Effect](https://github.com/cakeslice/Outline-Effect) - Outline Image Effect for Unity
+* [unity-frosted-glass](https://github.com/andydbc/unity-frosted-glass) - frosted glass material made in unity
 
 ## Framework
 * [Zenject](https://github.com/modesttree/Zenject) - Dependency Injection Framework for Unity3D
@@ -136,6 +139,9 @@ A categorized collection of awesome opensource unity3d repos (including with som
 
 ## Services
 * [Google Play Games plugin for Unity](https://github.com/playgameservices/play-games-plugin-for-unity) - Google Play Games plugin for Unity
+
+## Shaders
+* [HologramShader](https://github.com/andydbc/HologramShader) - Hologram Shader and Material Editor for Unity
 
 ## Sounds
 * [usfxr](https://github.com/zeh/usfxr) - a C# library used to generate and play game-like procedural audio effects inside Unity. With usfxr, one can easily design and synthesize original sound in real time for actions such as item pickups, jumps, lasers, hits, explosions, and more, without ever leaving the Unity editor.
