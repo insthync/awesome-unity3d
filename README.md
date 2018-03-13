@@ -6,10 +6,10 @@ A categorized collection of awesome opensource unity3d repos (including with som
 - [Camera](#camera)
 - [Character Controllers 2D](#character-controllers-2d)
 - [Character Controllers 3D](#character-controllers-3d)
+- [Database](#database)
 - [Editor](#editor)
 - [Effect](#effect)
 - [Framework](#framework)
-- [Graphic](#graphic)
 - [Input](#input)
 - [Light](#light)
 - [Lua](#lua)
@@ -37,6 +37,10 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - A Utility AI for C# and Unity
 * [EpPathFinding.cs](https://github.com/juhgiyo/EpPathFinding.cs) - A jump point search algorithm for grid based games in C#
 * [EpPathFinding3D.cs](https://github.com/juhgiyo/EpPathFinding3D.cs) - A 3D jump point search algorithm for cube based games in C#
+* [goap](https://github.com/sploreg/goap) - Goal Oriented Action Planning AI in Unity
+* [UnitySteer](https://github.com/ricardojmendez/UnitySteer) - Steering, obstacle avoidance and path following behaviors for the Unity Game Engine 
+* [A Star Pathfinding for Unity](https://github.com/sharpaccent/Astar-for-Unity) - A Star Pathfinder, 3 axis, multithreaded for Unity
+* [openpath](https://github.com/mrzapp/openpath) - Open source pathfinding for Unity
 
 ## Camera
 * [Unity Pixel Camera](https://github.com/ChemiKhazi/UnityPixelCamera) - A resolution independent pixel perfect camera for Unity
@@ -51,6 +55,9 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [SuperCharacterController](https://github.com/IronWarrior/SuperCharacterController) - Custom Character Controller for Unity. Fulfills all common character controller functions such as collision detection and pushback, slope limiting and collider ignoring.
 * [Unity-ThirdPersonController](https://github.com/dbrizov/Unity-ThirdPersonController) - Third Person Controller for Unity (with custom gravity)
 * [Advanced Rigidbody FirstPerson Controller](https://github.com/Moe-Baker/Advanced-Rigidbody-FirstPerson-Controller) - Rigidbody Based FirstPerson Controller
+
+## Database
+* [SQLite4Unity3d](https://github.com/codecoding/SQLite4Unity3d) - SQLite made easy for Unity3d
 
 ## Editor
 * [Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet) - Unity-QuickSheet enables you to use spreadsheet file data within Unity editor.
@@ -75,15 +82,17 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [Outline-Effect](https://github.com/cakeslice/Outline-Effect) - Outline Image Effect for Unity
 * [unity-frosted-glass](https://github.com/andydbc/unity-frosted-glass) - frosted glass material made in unity
 * [unity-delaunay](https://github.com/OskarSigvardsson/unity-delaunay) - A Delaunay/Voronoi library for Unity, and a simple destruction effect
+* [SSMS](https://github.com/OCASM/SSMS) - Screen space multiple scattering for Unity
+* [KinoGlitch](https://github.com/keijiro/KinoGlitch) - Video glitch effects for Unity
+* [Temporal](https://github.com/playdeadgames/temporal) - Temporal Reprojection Anti-Aliasing for Unity 5.0+
+* [SMAA](https://github.com/Chman/SMAA) - A highly customizable implementation of Subpixel Morphological Antialiasing for Unity
+* [Typogenic](https://github.com/Chman/Typogenic) - Signed-distance field text rendering for Unity
 
 ## Framework
 * [Zenject](https://github.com/modesttree/Zenject) - Dependency Injection Framework for Unity3D
 * [Fungus](https://github.com/snozbot/fungus) - https://github.com/snozbot/fungus
 * [Node_Editor_Framework](https://github.com/Seneral/Node_Editor_Framework) - Node Editor framework for Unity3D
 * [Entitas-CSharp](https://github.com/sschmid/Entitas-CSharp) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
-
-## Graphic
-* [Temporal](https://github.com/playdeadgames/temporal) - Temporal Reprojection Anti-Aliasing for Unity 5.0+
 
 ## Input
 * [InputManager](https://github.com/daemon3000/InputManager) - Custom InputManager for Unity
@@ -94,6 +103,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 
 ## Light
 * [Aura](https://github.com/raphael-ernaelsten/Aura) - Volumetric Lighting for Unity
+* [Simple Light Probe Placer](https://github.com/AlexanderVorobyov/simple-light-probe-placer) - it is simple tool for Unity3d and it help you easily place Light Probes in your scene
 
 ## Lua
 * [slua (Recommend)](https://github.com/pangweiwei/slua) - Fastest lua binding via static code generating for Unity3D and mono.
@@ -119,6 +129,8 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [MagicOnion](https://github.com/neuecc/MagicOnion) - gRPC based HTTP/2 RPC Streaming Framework for .NET, .NET Core and Unity.
 * [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP library for Mono and .NET
 * [UNet-Controller](https://github.com/GreenByteSoftware/UNet-Controller) - A CharacterController based controller for Unity's new Networking system
+* [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET) - Steamworks wrapper for Unity / C#
+* [UnityHTTP](https://github.com/andyburke/UnityHTTP) - A TcpClient-based HTTP library for Unity
 
 ## Physic
 * [BulletSharpUnity3d](https://github.com/Phong13/BulletSharpUnity3d) - A fork of the BulletSharp project to make the Bullet Physics Engine usable from C# code in Unity3d
@@ -126,14 +138,17 @@ A categorized collection of awesome opensource unity3d repos (including with som
 ## Plugins
 * [Reign Unity Plugin](https://github.com/reignstudios/Reign-Unity-Plugin5) - This Reign API is a cross-platform, unified API for the Unity game engine.
 * [unity-webview](https://github.com/gree/unity-webview) - A plugin for Unity 5 that overlays WebView components on Unity view. It works on Android, iOS, Unity Web Player, and OS X (Windows is not supported for now).
+* [google-analytics-plugin-for-unity](https://github.com/googleanalytics/google-analytics-plugin-for-unity) - Google Analytics plugin for the Unity game creation system
 
 ## Procedural Generation Systems
 * [ProceduralToolkit](https://github.com/Syomus/ProceduralToolkit) - Instruments for development of procedural generation systems in Unity game engine
 * [DungeonGenerator](https://github.com/jongallant/DungeonGenerator) - A dungeon generator for Unity
+* [Procedural-Cave-Generator](https://github.com/AK-Saigyouji/Procedural-Cave-Generator) - Unity scripts that procedurally generate ready-to-use cave meshes.
 
 ## Pooling System
 * [Unity-QuickPool](https://github.com/densylkin/QuickPool) - Simple pooling toolkit for Unity game engine
 * [RecyclerKit](https://github.com/prime31/RecyclerKit) - Object pool manager for Unity
+* [ObjectPool](https://github.com/UnityPatterns/ObjectPool) - Instead of creating and destroying new objects all the time, this script reduces garbage by pooling instances, allowing you to seemingly create hundreds of new objects while only actually using a recycled few.
 
 ## Profobuf
 * [protobuf-net](https://github.com/mgravell/protobuf-net) - Protocol Buffers library for idiomatic .NET
@@ -143,10 +158,15 @@ A categorized collection of awesome opensource unity3d repos (including with som
 
 ## Shaders
 * [HologramShader](https://github.com/andydbc/HologramShader) - Hologram Shader and Material Editor for Unity
+* [ShaderlabVS](https://github.com/wudixiaop/ShaderlabVS) - ShaderlabVS is a Visual Studio plugin for Unity Shaderlab programming
+* [Kamakura Shaders](https://github.com/kayac/kamakura-shaders) - Kamakura Shaders is a collection of shaders and components focusing on Non-Photorealistic Rendering for Unity with a bunch of features and adjustable parameters in a user-friendly interface.
+* [ShaderProject](https://github.com/ellioman/ShaderProject) - A container for all sorts of handy shaders.
 
 ## Sounds
 * [usfxr](https://github.com/zeh/usfxr) - a C# library used to generate and play game-like procedural audio effects inside Unity. With usfxr, one can easily design and synthesize original sound in real time for actions such as item pickups, jumps, lasers, hits, explosions, and more, without ever leaving the Unity editor.
 * [Unity-Beat-Detection](https://github.com/allanpichardo/Unity-Beat-Detection) - Musical beat detection and audio spectrum analysis for use with the Unity game engine.
+* [LibNoise.Unity](https://github.com/ricardojmendez/LibNoise.Unity) - Coherent noise library for Unity, a port of LibNoise
+* [Reaktion](https://github.com/keijiro/Reaktion) - Audio reactive animation toolkit for Unity
 
 ## Tweening
 * [DOTween (Recommend)](https://github.com/Demigiant/dotween) - A Unity C# animation engine. HOTween v2
@@ -166,6 +186,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 ## Utilities
 * [LINQ to GameObject](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ
 * [Moments](https://github.com/Chman/Moments) - A quick GIF replay recorder for Unity
+* [FrameCapture](https://github.com/Chman/FrameCapture) - A simple frame-by-frame capture tool for Unity to record perfectly smooth, supersampled replays or cinematics.
 * [UniGif](https://github.com/WestHillApps/UniGif) - GIF image decoder for Unity.
 * [unityassets](https://github.com/fholm/unityassets) - Assorted assets previously on sale on the Unity Asset Store, now free on github.
 * [UnityToolbag](https://github.com/nickgravelyn/UnityToolbag) - Variety of Unity scripts and tools.
@@ -187,3 +208,6 @@ A categorized collection of awesome opensource unity3d repos (including with som
 
 ## VR
 * [VRTK](https://github.com/thestonefox/VRTK) - A productive VR Toolkit for rapidly building VR solutions in Unity3d.
+* [NewtonVR](https://github.com/TomorrowTodayLabs/NewtonVR) - A virtual reality interaction system for unity based on physics.
+* [MixedRealityToolkit-Unity](https://github.com/Microsoft/MixedRealityToolkit-Unity) - MixedRealityToolkit-Unity uses code from the base MixedRealityToolkit repository and makes it easier to consume in Unity.
+* [Google VR SDK for Unity](https://github.com/googlevr/gvr-unity-sdk) - Google VR SDK for Unity http://developers.google.com/vr/unity/
