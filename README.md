@@ -128,6 +128,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Another fucking c# Steamworks implementation
 * [MagicOnion](https://github.com/neuecc/MagicOnion) - gRPC based HTTP/2 RPC Streaming Framework for .NET, .NET Core and Unity.
 * [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP library for Mono and .NET
+* [LiteNetLibManager](https://github.com/insthync/LiteNetLibManager) - Higher level implementation for LiteNetLib
 * [UNet-Controller](https://github.com/GreenByteSoftware/UNet-Controller) - A CharacterController based controller for Unity's new Networking system
 * [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET) - Steamworks wrapper for Unity / C#
 * [UnityHTTP](https://github.com/andyburke/UnityHTTP) - A TcpClient-based HTTP library for Unity
