@@ -41,6 +41,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [UnitySteer](https://github.com/ricardojmendez/UnitySteer) - Steering, obstacle avoidance and path following behaviors for the Unity Game Engine 
 * [A Star Pathfinding for Unity](https://github.com/sharpaccent/Astar-for-Unity) - A Star Pathfinder, 3 axis, multithreaded for Unity
 * [openpath](https://github.com/mrzapp/openpath) - Open source pathfinding for Unity
+* [unity-path-finding](https://github.com/mattatz/unity-path-finding) - Shortest path finding with Dijkstra's algorithm for Unity.
 
 ## Camera
 * [Unity Pixel Camera](https://github.com/ChemiKhazi/UnityPixelCamera) - A resolution independent pixel perfect camera for Unity
@@ -145,6 +146,8 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [ProceduralToolkit](https://github.com/Syomus/ProceduralToolkit) - Instruments for development of procedural generation systems in Unity game engine
 * [DungeonGenerator](https://github.com/jongallant/DungeonGenerator) - A dungeon generator for Unity
 * [Procedural-Cave-Generator](https://github.com/AK-Saigyouji/Procedural-Cave-Generator) - Unity scripts that procedurally generate ready-to-use cave meshes.
+* [unity-procedural-tree](https://github.com/mattatz/unity-procedural-tree) - Procedural tree builder for Unity.
+* [unity-procedural-flower](https://github.com/mattatz/unity-procedural-flower) - Procedural flower generator for Unity.
 
 ## Pooling System
 * [Unity-QuickPool](https://github.com/densylkin/QuickPool) - Simple pooling toolkit for Unity game engine
