@@ -159,6 +159,9 @@ A categorized collection of awesome opensource unity3d repos (including with som
 ## Profobuf
 * [protobuf-net](https://github.com/mgravell/protobuf-net) - Protocol Buffers library for idiomatic .NET
 
+## Resources
+* [Curated Unity Resources](https://hackr.io/tutorials/learn-unity) - Programming Community Curated Resources for learning Unity
+
 ## Services
 * [Google Play Games plugin for Unity](https://github.com/playgameservices/play-games-plugin-for-unity) - Google Play Games plugin for Unity
 
