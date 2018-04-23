@@ -77,6 +77,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [Texture3DPreview-for-Unity](https://github.com/raphael-ernaelsten/Texture3DPreview-for-Unity) - This package enables interactive previews of Texture3D assets in Unity's Inspector window.
 * [unity-colourlovers-importer](https://github.com/shelleylowe/unity-colourlovers-importer) - Unity editor tool to load colours and palettes directly from COLOURlovers.com
 * [UnityTile3D](https://github.com/NoelFB/UnityTile3D) - Simple 3D Tile Editor
+* [shortcuter](https://github.com/intentor/shortcuter) - Shortcut utility for Unity
 
 ## Effect
 * [Time Of Day System Free](https://github.com/ACFILES/TimeOfDaySystemFree) - With this package you can create Basic Day/Night cycle, also it includes a system of curves and gradients to control the parameters of the lighting, sky, moon, stars, fog, etc.
@@ -95,6 +96,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [Fungus](https://github.com/snozbot/fungus) - https://github.com/snozbot/fungus
 * [Node_Editor_Framework](https://github.com/Seneral/Node_Editor_Framework) - Node Editor framework for Unity3D
 * [Entitas-CSharp](https://github.com/sschmid/Entitas-CSharp) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
+* [adic](https://github.com/intentor/adic) - Lightweight dependency injection container for Unity
 
 ## Input
 * [InputManager](https://github.com/daemon3000/InputManager) - Custom InputManager for Unity
