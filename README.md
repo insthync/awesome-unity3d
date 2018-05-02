@@ -13,6 +13,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 - [Input](#input)
 - [Light](#light)
 - [Lua](#lua)
+- [Meshes](#meshes)
 - [Monetization](#monetization)
 - [Networking](#networking)
 - [Physic](#physic)
@@ -115,6 +116,10 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [UniLua](https://github.com/xebecnan/UniLua) - A pure C# implementation of Lua 5.2 focus on compatibility with Unity3D.
 * [MoonSharp](https://github.com/xanathar/moonsharp/) - An interpreter for the Lua language, written entirely in C# for the .NET, Mono, Xamarin and Unity3D platforms, including handy remote debugger facilities
 
+## Meshes
+* [UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier) - Mesh simplification for Unity.
+* [MeshDecimator](https://github.com/Whinarn/MeshDecimator) - A mesh decimation library for .NET and Unity.
+
 ## Monetization
 * [unity3d-levelup](https://github.com/soomla/unity3d-levelup) - Unity3D F2P game progression library - worlds, levels, missions, scores, records and more. Part of The SOOMLA Framework - for game design, economy modeling and faster development.
 * [unity3d-store](https://github.com/soomla/unity3d-store) - Unity in-app purchase & virtual economy library. Part of The SOOMLA Framework - for game design, economy modeling and faster development.
@@ -160,6 +165,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 
 ## Profobuf
 * [protobuf-net](https://github.com/mgravell/protobuf-net) - Protocol Buffers library for idiomatic .NET
+* [protobuf-unity](https://github.com/5argon/protobuf-unity) - Automatic .proto files compilation in Unity project to C# as you edit them
 
 ## Resources
 * [Curated Unity Resources](https://hackr.io/tutorials/learn-unity) - Programming Community Curated Resources for learning Unity
