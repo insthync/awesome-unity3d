@@ -98,6 +98,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [Node_Editor_Framework](https://github.com/Seneral/Node_Editor_Framework) - Node Editor framework for Unity3D
 * [Entitas-CSharp](https://github.com/sschmid/Entitas-CSharp) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
 * [adic](https://github.com/intentor/adic) - Lightweight dependency injection container for Unity
+* [uFrame.Complete](https://github.com/uFrame/uFrame.Complete) - All in one repo, includes: Kernel, Designer, Architect, MVVM, ECS
 
 ## Input
 * [InputManager](https://github.com/daemon3000/InputManager) - Custom InputManager for Unity
