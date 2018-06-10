@@ -143,6 +143,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET) - Steamworks wrapper for Unity / C#
 * [UnityHTTP](https://github.com/andyburke/UnityHTTP) - A TcpClient-based HTTP library for Unity
 * [SocketIoClientDotNet](https://github.com/Quobject/SocketIoClientDotNet) - Socket.IO Client Library for .Net
+* [MLAPI](https://github.com/MidLevel/MLAPI) - A game networking framework built for the Unity Engine to abstract game networking concepts
 
 ## Physic
 * [BulletSharpUnity3d](https://github.com/Phong13/BulletSharpUnity3d) - A fork of the BulletSharp project to make the Bullet Physics Engine usable from C# code in Unity3d
