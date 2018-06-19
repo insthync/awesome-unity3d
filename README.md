@@ -228,6 +228,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [Unity.Library.eppz](https://github.com/eppz/Unity.Library.eppz) - Collection of libraries for Unity
 * [yaSingleton](https://github.com/jedybg/yaSingleton) - A singleton pattern implementation for Unity3d. Based on ScriptableObjects instead of the conventional MonoBehaviour approach.
 * [Alchemy-Circles-Generator](https://github.com/CiaccoDavide/Alchemy-Circles-Generator) - A simple procedural generator of alchemy circles
+* [odin-serializer](https://github.com/TeamSirenix/odin-serializer) - Fast, robust, powerful and extendible .NET serializer built for Unity
 
 ## VR
 * [VRTK](https://github.com/thestonefox/VRTK) - A productive VR Toolkit for rapidly building VR solutions in Unity3d.
