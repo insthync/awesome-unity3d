@@ -43,6 +43,10 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [A Star Pathfinding for Unity](https://github.com/sharpaccent/Astar-for-Unity) - A Star Pathfinder, 3 axis, multithreaded for Unity
 * [openpath](https://github.com/mrzapp/openpath) - Open source pathfinding for Unity
 * [unity-path-finding](https://github.com/mattatz/unity-path-finding) - Shortest path finding with Dijkstra's algorithm for Unity.
+* [NPBehave](https://github.com/meniku/NPBehave) - Event Driven Behavior Trees for Unity 3D
+* [fluid-behavior-tree](https://github.com/ashblue/fluid-behavior-tree) - A pure code behavior tree micro-framework built for Unity3D projects. Granting developers the power to dictate their GUI presentation
+* [Unity3d-Finite-State-Machine](https://github.com/thefuntastic/Unity3d-Finite-State-Machine) - 
+An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on usability, without sacrificing utility
 
 ## Camera
 * [Unity Pixel Camera](https://github.com/ChemiKhazi/UnityPixelCamera) - A resolution independent pixel perfect camera for Unity
