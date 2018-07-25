@@ -238,7 +238,8 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [UnityAsyncRoutines](https://github.com/TorVestergaard/UnityAsyncRoutines) - An extremely lightweight Unity library for creating and managing asynchronous coroutines for easy, straight-forward multi-threading and parallellism
 * [fullserializer](https://github.com/jacobdufault/fullserializer) - A robust JSON serialization framework that just works with support for all major Unity export platforms
 * [IMP](https://github.com/xraxra/IMP) - billboard imposter baking for Unity
-* [UDBase](https://github.com/KonH/UDBase) - module-based game template for Unity. Modules in UDBase are called Controllers, their implementation can be replaced without changing your project source code.
+* [UDBase](https://github.com/KonH/UDBase) - module-based game template for Unity. Modules in UDBase are called Controllers, their implementation can be replaced without changing your project source code
+* [graphy](https://github.com/Tayx94/graphy) - Graphy is the ultimate, easy to use, feature packed stats monitor and debugger for your Unity project
 
 
 ## VR
