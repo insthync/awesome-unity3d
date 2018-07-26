@@ -84,6 +84,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [UnityTile3D](https://github.com/NoelFB/UnityTile3D) - Simple 3D Tile Editor
 * [shortcuter](https://github.com/intentor/shortcuter) - Shortcut utility for Unity
 * [unity-editor-spotlight](https://github.com/marijnz/unity-editor-spotlight) - MacOS-like Spotlight file search in Unity
+* [Unity-Reorderable-List](https://github.com/cfoulston/Unity-Reorderable-List) - Extended version of the Reorderable List in Unity
 
 ## Effect
 * [Time Of Day System Free](https://github.com/ACFILES/TimeOfDaySystemFree) - With this package you can create Basic Day/Night cycle, also it includes a system of curves and gradients to control the parameters of the lighting, sky, moon, stars, fog, etc.
@@ -240,6 +241,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [IMP](https://github.com/xraxra/IMP) - billboard imposter baking for Unity
 * [UDBase](https://github.com/KonH/UDBase) - module-based game template for Unity. Modules in UDBase are called Controllers, their implementation can be replaced without changing your project source code
 * [graphy](https://github.com/Tayx94/graphy) - Graphy is the ultimate, easy to use, feature packed stats monitor and debugger for your Unity project
+* [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) - A NuGet Package Manager for Unity
 
 
 ## VR
