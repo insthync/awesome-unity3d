@@ -20,6 +20,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 - [Plugins](#plugins)
 - [Procedural Generation Systems](#procedural-generation-systems)
 - [Pooling System](#pooling-system)
+- [Scriptings](#scriptings)
 - [Services](#services)
 - [Shaders](#shaders)
 - [Sounds](#sounds)
@@ -178,6 +179,9 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [protobuf-net](https://github.com/mgravell/protobuf-net) - Protocol Buffers library for idiomatic .NET
 * [protobuf-unity](https://github.com/5argon/protobuf-unity) - Automatic .proto files compilation in Unity project to C# as you edit them
 
+## Scriptings
+* [UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) - Unity Scripting in C++
+
 ## Services
 * [Google Play Games plugin for Unity](https://github.com/playgameservices/play-games-plugin-for-unity) - Google Play Games plugin for Unity
 
@@ -242,6 +246,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [UDBase](https://github.com/KonH/UDBase) - module-based game template for Unity. Modules in UDBase are called Controllers, their implementation can be replaced without changing your project source code
 * [graphy](https://github.com/Tayx94/graphy) - Graphy is the ultimate, easy to use, feature packed stats monitor and debugger for your Unity project
 * [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) - A NuGet Package Manager for Unity
+* [GoogleSheetsUnity](https://github.com/5argon/GoogleSheetsUnity) - Get data from your private Google Sheets to Unity!! (Read-only)
 
 
 ## VR
