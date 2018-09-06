@@ -101,6 +101,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [VolumetricLights](https://github.com/SlightlyMad/VolumetricLights) - Volumetric Lights for Unity
 * [AtmosphericScattering](https://github.com/SlightlyMad/AtmosphericScattering) - Atmospheric Scattering for Unity
 * [Facepunch.Highlight](https://github.com/Facepunch/Facepunch.Highlight) - Mesh outline effect
+* [crest-oceanrender](https://github.com/huwb/crest-oceanrender) - An advanced ocean system implemented in Unity3D
 
 ## Framework
 * [Zenject](https://github.com/modesttree/Zenject) - Dependency Injection Framework for Unity3D
