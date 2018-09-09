@@ -254,6 +254,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [GoogleSheetsUnity](https://github.com/5argon/GoogleSheetsUnity) - Get data from your private Google Sheets to Unity!! (Read-only)
 * [unity-routines](https://github.com/tomblind/unity-routines) - Replacement for Unity coroutines that supports hierarchical routines and pooling
 * [CropTexture](https://github.com/natsupy/CropTexture) - Crop and resize texture in unity editor! Open it: Press F1
+* [demilib](https://github.com/Demigiant/demilib) - A library of various utilities and tools for Unity (alpha)
 
 ## VR
 * [VRTK](https://github.com/thestonefox/VRTK) - A productive VR Toolkit for rapidly building VR solutions in Unity3d.
