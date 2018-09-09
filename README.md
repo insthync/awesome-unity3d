@@ -88,7 +88,6 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Unity-Reorderable-List](https://github.com/cfoulston/Unity-Reorderable-List) - Extended version of the Reorderable List in Unity
 
 ## Effect
-* [Time Of Day System Free](https://github.com/ACFILES/TimeOfDaySystemFree) - With this package you can create Basic Day/Night cycle, also it includes a system of curves and gradients to control the parameters of the lighting, sky, moon, stars, fog, etc.
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
 * [Outline-Effect](https://github.com/cakeslice/Outline-Effect) - Outline Image Effect for Unity
 * [unity-frosted-glass](https://github.com/andydbc/unity-frosted-glass) - frosted glass material made in unity
