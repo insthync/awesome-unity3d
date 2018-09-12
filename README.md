@@ -217,6 +217,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Beautiful Text Outline for Unity UI](https://github.com/n-yoda/unity-vertex-effects) - Beautiful text outline for Unity UI.
 * [uGUI-Effect-Tool](https://github.com/WestHillApps/uGUI-Effect-Tool) - Vertex color UI Effect for Unity UI (uGUI).
 * [Unity-UI-Polygon](https://github.com/CiaccoDavide/Unity-UI-Polygon) - Polygon renderer for the new Unity UI
+* [muip](https://github.com/Michsky/muip) - Modern UI Pack for Unity engine
 
 ## Utilities
 * [LINQ to GameObject](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ
