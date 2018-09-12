@@ -258,6 +258,8 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [unity-routines](https://github.com/tomblind/unity-routines) - Replacement for Unity coroutines that supports hierarchical routines and pooling
 * [CropTexture](https://github.com/natsupy/CropTexture) - Crop and resize texture in unity editor! Open it: Press F1
 * [demilib](https://github.com/Demigiant/demilib) - A library of various utilities and tools for Unity (alpha)
+* [xNode](https://github.com/Siccity/xNode) - Lets you view and edit node graphs inside Unity
+* [SerializableCallback](https://github.com/Siccity/SerializableCallback) - UnityEvent and System.Func had a child
 
 ## VR
 * [VRTK](https://github.com/thestonefox/VRTK) - A productive VR Toolkit for rapidly building VR solutions in Unity3d.
