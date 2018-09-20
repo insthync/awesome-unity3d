@@ -260,6 +260,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [demilib](https://github.com/Demigiant/demilib) - A library of various utilities and tools for Unity (alpha)
 * [xNode](https://github.com/Siccity/xNode) - Lets you view and edit node graphs inside Unity
 * [SerializableCallback](https://github.com/Siccity/SerializableCallback) - UnityEvent and System.Func had a child
+* [bitstrap](https://github.com/bitcake/bitstrap) - BitStrap is BitCake's collection of Unity tools that improve our workflow
 
 ## VR
 * [VRTK](https://github.com/thestonefox/VRTK) - A productive VR Toolkit for rapidly building VR solutions in Unity3d.
