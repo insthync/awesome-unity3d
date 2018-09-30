@@ -172,7 +172,6 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Unity3D Android notification plugin](https://github.com/Agasper/unity-android-notifications) - Unity3D Plugin for Android local notifications with example project
 
 ## Procedural Generation Systems
-* [ProceduralToolkit](https://github.com/Syomus/ProceduralToolkit) - Instruments for development of procedural generation systems in Unity game engine
 * [DungeonGenerator](https://github.com/jongallant/DungeonGenerator) - A dungeon generator for Unity
 * [Procedural-Cave-Generator](https://github.com/AK-Saigyouji/Procedural-Cave-Generator) - Unity scripts that procedurally generate ready-to-use cave meshes.
 * [unity-procedural-tree](https://github.com/mattatz/unity-procedural-tree) - Procedural tree builder for Unity.
