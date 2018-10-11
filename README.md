@@ -37,6 +37,7 @@ A categorized collection of awesome opensource unity3d repos (including with som
 * [DeadSimple-Pixel-Perfect-Camera](https://github.com/cmilr/DeadSimple-Pixel-Perfect-Camera) - An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scenes in Unity. Punch in a few specs and you've got a working pixel perfect camera. It's that easy
 * [StaticBluredScreen](https://github.com/mob-sakai/StaticBluredScreen) - Non-realtime (=static) screen blur for Unity. Easy to use background for dialogs
 * [AtlasImage](https://github.com/mob-sakai/AtlasImage) - AtlasImage is a graphic component use SpriteAtlas for uGUI. In addition, add useful sprite selector and border editor to the inspector
+* [SpriteDicing](https://github.com/Elringus/SpriteDicing) - Extension for Unity game engine to work with diced sprites
 
 ## AI
 * [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai) - A library of common movement AI scripts known as Steering Behaviors. You can use these scripts to help your NPCs move around your game.
@@ -105,6 +106,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [AtmosphericScattering](https://github.com/SlightlyMad/AtmosphericScattering) - Atmospheric Scattering for Unity
 * [Facepunch.Highlight](https://github.com/Facepunch/Facepunch.Highlight) - Mesh outline effect
 * [crest-oceanrender](https://github.com/huwb/crest-oceanrender) - An advanced ocean system implemented in Unity3D
+* [SpriteGlow](https://github.com/Elringus/SpriteGlow) - A sprite glow effect for Unity game engine
 
 ## Framework
 * [Zenject](https://github.com/modesttree/Zenject) - Dependency Injection Framework for Unity3D
