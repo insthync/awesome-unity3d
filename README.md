@@ -214,6 +214,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [ShaderProject](https://github.com/ellioman/ShaderProject) - A container for all sorts of handy shaders.
 * [ShaderForge](https://github.com/FreyaHolmer/ShaderForge) - Shader visual scripting
 * [Ocean_Community_Next_Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) - Next gen iteration of the unity community ocean shader
+* [Texture Panner](https://github.com/AdultLink/TexturePanner) - Awesome shader collection
 
 ### Sounds
 * [usfxr](https://github.com/zeh/usfxr) - a C# library used to generate and play game-like procedural audio effects inside Unity. With usfxr, one can easily design and synthesize original sound in real time for actions such as item pickups, jumps, lasers, hits, explosions, and more, without ever leaving the Unity editor.
