@@ -1,6 +1,7 @@
 # awesome-unity3d
 A categorized collection of awesome opensource unity3d resources (including some projects related to game development)
 
+[**Open Source Repositories**](#open-source-repositories)
 - [2D](#2d)
 - [AI](#ai)
 - [Camera](#camera)
@@ -28,6 +29,10 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [UI](#ui)
 - [Utilities](#utilities)
 - [VR](#vr)
+
+[**Articles**](#articles)
+
+[**Books**](#books)
 
 ## Open Source Repositories
 ### 2D
@@ -209,6 +214,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [ShaderProject](https://github.com/ellioman/ShaderProject) - A container for all sorts of handy shaders.
 * [ShaderForge](https://github.com/FreyaHolmer/ShaderForge) - Shader visual scripting
 * [Ocean_Community_Next_Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) - Next gen iteration of the unity community ocean shader
+* [Texture Panner](https://github.com/AdultLink/TexturePanner) - Awesome shader collection
 
 ### Sounds
 * [usfxr](https://github.com/zeh/usfxr) - a C# library used to generate and play game-like procedural audio effects inside Unity. With usfxr, one can easily design and synthesize original sound in real time for actions such as item pickups, jumps, lasers, hits, explosions, and more, without ever leaving the Unity editor.
@@ -290,3 +296,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [NewtonVR](https://github.com/TomorrowTodayLabs/NewtonVR) - A virtual reality interaction system for unity based on physics.
 * [MixedRealityToolkit-Unity](https://github.com/Microsoft/MixedRealityToolkit-Unity) - MixedRealityToolkit-Unity uses code from the base MixedRealityToolkit repository and makes it easier to consume in Unity.
 * [Google VR SDK for Unity](https://github.com/googlevr/gvr-unity-sdk) - Google VR SDK for Unity http://developers.google.com/vr/unity/
+
+## Articles
+* [50 Tips and Best Practices for Unity (2016 Edition)](https://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php)
+## Books
+* [Game Programming Patters](http://gameprogrammingpatterns.com/) Free and Paid available
