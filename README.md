@@ -4,6 +4,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 [**Open Source Repositories**](#open-source-repositories)
 - [2D](#2d)
 - [AI](#ai)
+- [Animation](#animation)
 - [Asset Bundle](#asset-bundle)
 - [Camera](#camera)
 - [Character Controllers 2D](#character-controllers-2d)
@@ -60,6 +61,9 @@ A categorized collection of awesome opensource unity3d resources (including some
 * [fluid-behavior-tree](https://github.com/ashblue/fluid-behavior-tree) - A pure code behavior tree micro-framework built for Unity3D projects. Granting developers the power to dictate their GUI presentation
 * [Unity3d-Finite-State-Machine](https://github.com/thefuntastic/Unity3d-Finite-State-Machine) - 
 An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on usability, without sacrificing utility
+
+### Animation
+* [unity-animator-helpers](https://github.com/ashblue/unity-animator-helpers) - A micro-framework for changing Unity 3D's Animator parameters with ScriptableObject(s). Designed to make going from custom scripts to Animator parameters easy. Works with 2D or 3D projects
 
 ### Asset Bundle
 * [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager) - An asset bundle manager for Unity
