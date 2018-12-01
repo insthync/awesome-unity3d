@@ -10,6 +10,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Character Controllers 2D](#character-controllers-2d)
 - [Character Controllers 3D](#character-controllers-3d)
 - [Database](#database)
+- [ECS](#ecs)
 - [Editor](#editor)
 - [Effect](#effect)
 - [Framework](#framework)
@@ -84,6 +85,10 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 ### Database
 * [SQLite4Unity3d](https://github.com/codecoding/SQLite4Unity3d) - SQLite made easy for Unity3d
+
+### ECS
+* [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
+* [ECS-Tween](https://github.com/Xerios/ECS-Tween) - Simple Unity tweening system using ECS that works with GameObjects!
 
 ### Editor
 * [Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet) - Unity-QuickSheet enables you to use spreadsheet file data within Unity editor.
@@ -223,6 +228,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [ShaderForge](https://github.com/FreyaHolmer/ShaderForge) - Shader visual scripting
 * [Ocean_Community_Next_Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) - Next gen iteration of the unity community ocean shader
 * [Texture Panner](https://github.com/AdultLink/TexturePanner) - Awesome shader collection
+* [ToonShading](https://github.com/Kink3d/ToonShading) - A collection of "Toon" shaders for Unity based on a stepped PBR approximation.
+* [AnisotropicStandardShader](https://github.com/Kink3d/AnisotropicStandardShader) - A modified version of Unity's Standard Shader using an Anisotropic GGX BRDF.
 
 ### Sounds
 * [usfxr](https://github.com/zeh/usfxr) - a C# library used to generate and play game-like procedural audio effects inside Unity. With usfxr, one can easily design and synthesize original sound in real time for actions such as item pickups, jumps, lasers, hits, explosions, and more, without ever leaving the Unity editor.
