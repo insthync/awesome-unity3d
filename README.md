@@ -12,7 +12,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Database](#database)
 - [ECS](#ecs)
 - [Editor](#editor)
-- [Effect](#effect)
+- [Effect](#effect-and-shaders)
 - [Framework](#framework)
 - [Input](#input)
 - [Light](#light)
@@ -26,7 +26,6 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Pooling System](#pooling-system)
 - [Scriptings](#scriptings)
 - [Services](#services)
-- [Shaders](#shaders)
 - [Sounds](#sounds)
 - [Tweening](#tweening)
 - [UI](#ui)
@@ -111,7 +110,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [unity-editor-spotlight](https://github.com/marijnz/unity-editor-spotlight) - MacOS-like Spotlight file search in Unity
 * [Unity-Reorderable-List](https://github.com/cfoulston/Unity-Reorderable-List) - Extended version of the Reorderable List in Unity
 
-### Effect
+### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
 * [Outline-Effect](https://github.com/cakeslice/Outline-Effect) - Outline Image Effect for Unity
 * [unity-frosted-glass](https://github.com/andydbc/unity-frosted-glass) - frosted glass material made in unity
@@ -125,7 +124,22 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [AtmosphericScattering](https://github.com/SlightlyMad/AtmosphericScattering) - Atmospheric Scattering for Unity
 * [Facepunch.Highlight](https://github.com/Facepunch/Facepunch.Highlight) - Mesh outline effect
 * [crest-oceanrender](https://github.com/huwb/crest-oceanrender) - An advanced ocean system implemented in Unity3D
+* [HologramShader](https://github.com/andydbc/HologramShader) - Hologram Shader and Material Editor for Unity
+* [ShaderlabVS](https://github.com/wudixiaop/ShaderlabVS) - ShaderlabVS is a Visual Studio plugin for Unity Shaderlab programming
+* [Kamakura Shaders](https://github.com/kayac/kamakura-shaders) - Kamakura Shaders is a collection of shaders and components focusing on Non-Photorealistic Rendering for Unity with a bunch of features and adjustable parameters in a user-friendly interface.
+* [ShaderProject](https://github.com/ellioman/ShaderProject) - A container for all sorts of handy shaders.
+* [ShaderForge](https://github.com/FreyaHolmer/ShaderForge) - Shader visual scripting
+* [Ocean_Community_Next_Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) - Next gen iteration of the unity community ocean shader
+* [Texture Panner](https://github.com/AdultLink/TexturePanner) - Awesome shader collection
+* [ToonShading](https://github.com/Kink3d/ToonShading) - A collection of "Toon" shaders for Unity based on a stepped PBR approximation.
+* [AnisotropicStandardShader](https://github.com/Kink3d/AnisotropicStandardShader) - A modified version of Unity's Standard Shader using an Anisotropic GGX BRDF.
 * [SpriteGlow](https://github.com/Elringus/SpriteGlow) - A sprite glow effect for Unity game engine
+* [HoloShield](https://github.com/AdultLink/HoloShield) - Highly customizable sci-fi shield / force field shader for Unity3D. Allows you to set edge power & color, inner texture scrolling, waviness, scale pulsation and procedural intensity noise. Implements tessellation for low-poly base meshes.
+* [Rimlight](https://github.com/AdultLink/Rimlight) - Customizable rimlight shader for Unity that includes pulsation and noise scrolling. Give your scenes that extra oomph!
+* [VerticalDissolve](https://github.com/AdultLink/VerticalDissolve) - Procedural vertical dissolve shader. Highly customizable. Tweak edge color, noisiness & waviness, rim light, emission scrolling and more.
+* [SphereDissolve](https://github.com/AdultLink/SphereDissolve) - Customizable procedural spherical dissolve shader for Unity3D, for all your customizable procedural spherical dissolve needs!
+* [TexturePanner](https://github.com/AdultLink/TexturePanner) - This repository hosts a shader for Unity3D whose main goal is to facilitate the creation of neon-like signs, conveyor belts and basically whatever based on scrolling textures
+* [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar) - Customizable radial progress bar shader for Unity3D. Allows you to set arc range, minimum and maximum colors, textures, radius, and a few more things. Create HP Bars, Speedometers, rank progress, etc!
 
 ### Framework
 * [Zenject](https://github.com/modesttree/Zenject) - Dependency Injection Framework for Unity3D
@@ -219,17 +233,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 ### Services
 * [Google Play Games plugin for Unity](https://github.com/playgameservices/play-games-plugin-for-unity) - Google Play Games plugin for Unity
-
-### Shaders
-* [HologramShader](https://github.com/andydbc/HologramShader) - Hologram Shader and Material Editor for Unity
-* [ShaderlabVS](https://github.com/wudixiaop/ShaderlabVS) - ShaderlabVS is a Visual Studio plugin for Unity Shaderlab programming
-* [Kamakura Shaders](https://github.com/kayac/kamakura-shaders) - Kamakura Shaders is a collection of shaders and components focusing on Non-Photorealistic Rendering for Unity with a bunch of features and adjustable parameters in a user-friendly interface.
-* [ShaderProject](https://github.com/ellioman/ShaderProject) - A container for all sorts of handy shaders.
-* [ShaderForge](https://github.com/FreyaHolmer/ShaderForge) - Shader visual scripting
-* [Ocean_Community_Next_Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) - Next gen iteration of the unity community ocean shader
-* [Texture Panner](https://github.com/AdultLink/TexturePanner) - Awesome shader collection
-* [ToonShading](https://github.com/Kink3d/ToonShading) - A collection of "Toon" shaders for Unity based on a stepped PBR approximation.
-* [AnisotropicStandardShader](https://github.com/Kink3d/AnisotropicStandardShader) - A modified version of Unity's Standard Shader using an Anisotropic GGX BRDF.
 
 ### Sounds
 * [usfxr](https://github.com/zeh/usfxr) - a C# library used to generate and play game-like procedural audio effects inside Unity. With usfxr, one can easily design and synthesize original sound in real time for actions such as item pickups, jumps, lasers, hits, explosions, and more, without ever leaving the Unity editor.
