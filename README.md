@@ -310,5 +310,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 ## Articles
 * [50 Tips and Best Practices for Unity (2016 Edition)](https://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php)
+* [Unity Package Manager 2018.3+](https://blogs.unity3d.com/2018/05/09/unity-packages-life-cycle/)
 ## Books
 * [Game Programming Patters](http://gameprogrammingpatterns.com/) Free and Paid available
