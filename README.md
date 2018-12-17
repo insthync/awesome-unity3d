@@ -114,6 +114,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [SMAA](https://github.com/Chman/SMAA) - A highly customizable implementation of Subpixel Morphological Antialiasing for Unity
 * [Typogenic](https://github.com/Chman/Typogenic) - Signed-distance field text rendering for Unity
 * [VolumetricLights](https://github.com/SlightlyMad/VolumetricLights) - Volumetric Lights for Unity
+* [VolumetricLightning](https://github.com/raphael-ernaelsten/Aura) - Volumetric Lighting for Unity
 * [AtmosphericScattering](https://github.com/SlightlyMad/AtmosphericScattering) - Atmospheric Scattering for Unity
 * [Facepunch.Highlight](https://github.com/Facepunch/Facepunch.Highlight) - Mesh outline effect
 * [crest-oceanrender](https://github.com/huwb/crest-oceanrender) - An advanced ocean system implemented in Unity3D
