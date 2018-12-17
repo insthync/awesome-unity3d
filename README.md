@@ -107,6 +107,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Outline-Effect](https://github.com/cakeslice/Outline-Effect) - Outline Image Effect for Unity
 * [unity-frosted-glass](https://github.com/andydbc/unity-frosted-glass) - frosted glass material made in unity
 * [unity-delaunay](https://github.com/OskarSigvardsson/unity-delaunay) - A Delaunay/Voronoi library for Unity, and a simple destruction effect
+* [Helicopter effect](https://twitter.com/unity3dexpert/status/1050240849085431808)
 * [SSMS](https://github.com/OCASM/SSMS) - Screen space multiple scattering for Unity
 * [KinoGlitch](https://github.com/keijiro/KinoGlitch) - Video glitch effects for Unity
 * [Temporal](https://github.com/playdeadgames/temporal) - Temporal Reprojection Anti-Aliasing for Unity 5.0+
