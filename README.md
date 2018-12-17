@@ -7,6 +7,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Camera](#camera)
 - [Character Controllers 2D](#character-controllers-2d)
 - [Character Controllers 3D](#character-controllers-3d)
+- [Controller Mappings](#controller-mappings)
 - [Database](#database)
 - [Editor](#editor)
 - [Effect](#effect)
@@ -73,6 +74,9 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [SuperCharacterController](https://github.com/IronWarrior/SuperCharacterController) - Custom Character Controller for Unity. Fulfills all common character controller functions such as collision detection and pushback, slope limiting and collider ignoring.
 * [Unity-ThirdPersonController](https://github.com/dbrizov/Unity-ThirdPersonController) - Third Person Controller for Unity (with custom gravity)
 * [Advanced Rigidbody FirstPerson Controller](https://github.com/Moe-Baker/Advanced-Rigidbody-FirstPerson-Controller) - Rigidbody Based FirstPerson Controller
+
+### Controller Mappings
+* [PS4 Controller Mapping](https://twitter.com/erik_tellier/status/1071457079854944256)
 
 ### Database
 * [SQLite4Unity3d](https://github.com/codecoding/SQLite4Unity3d) - SQLite made easy for Unity3d
