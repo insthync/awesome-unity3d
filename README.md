@@ -78,7 +78,10 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 ### Controller Mappings
 * [Dualshock 3 (PS3)](https://forum.unity.com/threads/ps3-button-map.89288/)
 * [Dualshock 4 (PS4)](https://twitter.com/erik_tellier/status/1071457079854944256)
+* [Nintendo Joy Con](https://www.reddit.com/r/Unity3D/comments/60wh7g/nintendo_switch_joycon_controller_mapped_for_unity/)
+* [Nintendo Pro Controller](https://answers.unity.com/questions/1419842/nintendo-switch-pro-controller-mapping.html)
 * [Xbox 360](http://wiki.unity3d.com/index.php?title=Xbox360Controller)
+* [Xbox One](https://answers.unity.com/questions/1350081/xbox-one-controller-mapping-solved.html)
 
 ### Database
 * [SQLite4Unity3d](https://github.com/codecoding/SQLite4Unity3d) - SQLite made easy for Unity3d
