@@ -76,7 +76,9 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Advanced Rigidbody FirstPerson Controller](https://github.com/Moe-Baker/Advanced-Rigidbody-FirstPerson-Controller) - Rigidbody Based FirstPerson Controller
 
 ### Controller Mappings
-* [PS4 Controller Mapping](https://twitter.com/erik_tellier/status/1071457079854944256)
+* [Dualshock 3 (PS3)](https://forum.unity.com/threads/ps3-button-map.89288/)
+* [Dualshock 4 (PS4)](https://twitter.com/erik_tellier/status/1071457079854944256)
+* [Xbox 360](http://wiki.unity3d.com/index.php?title=Xbox360Controller)
 
 ### Database
 * [SQLite4Unity3d](https://github.com/codecoding/SQLite4Unity3d) - SQLite made easy for Unity3d
