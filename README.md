@@ -33,6 +33,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 [**Assets**](#assets)
 - [Icons](#icons)
+- [Collections / Forums](#collections)
 
 [**Articles**](#articles)
 
@@ -316,6 +317,11 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 ### Icons
 
 * [I made 700+ RPG icons free for use for your game](https://www.reddit.com/r/IndieGaming/comments/ifmie/i_made_700_rpg_icons_free_for_use_/) - 700+ RPG Icons(The _filesonic_ URL ending with "Lorc_RPG_icons.zip" still works)
+
+### Collections / Forums
+
+* [Unitylist](https://unitylist.com/) - Search for everything
+* [Armedunity](https://armedunity.com/) - Shooter focused forum
 
 ## Articles
 * [50 Tips and Best Practices for Unity (2016 Edition)](https://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php)
