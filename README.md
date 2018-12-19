@@ -31,6 +31,9 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Utilities](#utilities)
 - [VR](#vr)
 
+[**Assets**](#assets)
+- [Icons](#icons)
+
 [**Articles**](#articles)
 
 [**Books**](#books)
@@ -307,6 +310,12 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [NewtonVR](https://github.com/TomorrowTodayLabs/NewtonVR) - A virtual reality interaction system for unity based on physics.
 * [MixedRealityToolkit-Unity](https://github.com/Microsoft/MixedRealityToolkit-Unity) - MixedRealityToolkit-Unity uses code from the base MixedRealityToolkit repository and makes it easier to consume in Unity.
 * [Google VR SDK for Unity](https://github.com/googlevr/gvr-unity-sdk) - Google VR SDK for Unity http://developers.google.com/vr/unity/
+
+## Assets
+
+### Icons
+
+* [I made 700+ RPG icons free for use for your game](https://www.reddit.com/r/IndieGaming/comments/ifmie/i_made_700_rpg_icons_free_for_use_/) - 700+ RPG Icons(The _filesonic_ URL ending with "Lorc_RPG_icons.zip" still works)
 
 ## Articles
 * [50 Tips and Best Practices for Unity (2016 Edition)](https://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php)
