@@ -76,7 +76,6 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager) - An asset bundle manager for Unity
 
 ### Camera
-* [Cinemachine](https://docs.unity3d.com/Packages/com.unity.cinemachine@2.1/manual/index.html) - Control your camera easily to the most extend. Included in the unity package manager.
 * [Unity Pixel Camera](https://github.com/ChemiKhazi/UnityPixelCamera) - A resolution independent pixel perfect camera for Unity
 * [DeadSimple Pixel-Perfect Camera](https://github.com/cmilr/DeadSimple-Pixel-Perfect-Camera) - An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scenes in Unity. Punch in a few specs and you've got a working pixel perfect camera. It's that easy.
 
@@ -106,7 +105,6 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [ECS-Tween](https://github.com/Xerios/ECS-Tween) - Simple Unity tweening system using ECS that works with GameObjects!
 
 ### Editor
-* [Amplify Shader Editor](https://assetstore.unity.com/packages/tools/visual-scripting/amplify-shader-editor-68570) - Paid Shader Editor. Alternative to unitys shader graph.
 * [Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet) - Unity-QuickSheet enables you to use spreadsheet file data within Unity editor.
 * [Unity3D Rainbow Folders](https://github.com/PhannGor/unity3d-rainbow-folders) - This asset allows you to set custom icons for any folder in unity project browser.
 * [Reorderable List Editor Field for Unity](https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity) - Reorderable List Editor Field for Unity
@@ -255,7 +253,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [protobuf-unity](https://github.com/5argon/protobuf-unity) - Automatic .proto files compilation in Unity project to C# as you edit them
 
 ### Scriptings
-* [Odin](http://www.sirenix.net/odininspector) - Custom serializer for unity.
 * [UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) - Unity Scripting in C++
 
 ### Services
