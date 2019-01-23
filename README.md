@@ -35,7 +35,8 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 [**Assets**](#assets)
 - [Icons](#icons)
-- [Collections / Forums](#collections)
+- [Collections / Forums](#collections--forums)
+- [Creation Tools](#creation-tools)
 
 [**Articles**](#articles)
 
@@ -352,6 +353,11 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 * [Unitylist](https://unitylist.com/) - Search for everything
 * [Armedunity](https://armedunity.com/) - Shooter focused forum
+
+### Tools
+
+* [AssetForge](https://kenney.itch.io/assetforge) - Easily create simple assets in seconds (Paid).
+* [Mixamo](https://www.mixamo.com/) - Free to use animation mixing tool with free animations. Not allowed to use in open source projects.
 
 ## Articles
 * [50 Tips and Best Practices for Unity (2016 Edition)](https://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php)
