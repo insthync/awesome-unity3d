@@ -76,6 +76,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager) - An asset bundle manager for Unity
 
 ### Camera
+* [Cinemachine](https://docs.unity3d.com/Packages/com.unity.cinemachine@2.1/manual/index.html) - Control your camera easily to the most extend. Included in the unity package manager.
 * [Unity Pixel Camera](https://github.com/ChemiKhazi/UnityPixelCamera) - A resolution independent pixel perfect camera for Unity
 * [DeadSimple Pixel-Perfect Camera](https://github.com/cmilr/DeadSimple-Pixel-Perfect-Camera) - An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scenes in Unity. Punch in a few specs and you've got a working pixel perfect camera. It's that easy.
 
@@ -254,6 +255,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [protobuf-unity](https://github.com/5argon/protobuf-unity) - Automatic .proto files compilation in Unity project to C# as you edit them
 
 ### Scriptings
+* [Odin](http://www.sirenix.net/odininspector) - Custom serializer for unity.
 * [UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) - Unity Scripting in C++
 
 ### Services
@@ -348,16 +350,22 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 * [I made 700+ RPG icons free for use for your game](https://www.reddit.com/r/IndieGaming/comments/ifmie/i_made_700_rpg_icons_free_for_use_/) - 700+ RPG Icons(The _filesonic_ URL ending with "Lorc_RPG_icons.zip" still works)
 * [game-icons.net](https://game-icons.net) 3443+ Game Icons licensed under CC BY 3.0
+* [EffectCore's VFX Packs](https://assetstore.unity.com/publishers/25749) - Paid AAA visual effects.
 
 ### Collections / Forums
 
 * [Unitylist](https://unitylist.com/) - Search for everything
 * [Armedunity](https://armedunity.com/) - Shooter focused forum
+* [Unity Assetstore](https://assetstore.unity.com/) - Official asset store for unity.
 
-### Tools
+### Creation Tools
 
+* [Aseprite](https://www.aseprite.org/) - Animated sprite editor & pixel art tool.
 * [AssetForge](https://kenney.itch.io/assetforge) - Easily create simple assets in seconds (Paid).
+* [BFXR](https://www.bfxr.net/) - Make sound effects for computer games (Flash required)
+* [MagicaVoxel](https://ephtracy.github.io/) Free to use Voxel editor (even for commercial).
 * [Mixamo](https://www.mixamo.com/) - Free to use animation mixing tool with free animations. Not allowed to use in open source projects.
+
 
 ## Articles
 * [50 Tips and Best Practices for Unity (2016 Edition)](https://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php)
