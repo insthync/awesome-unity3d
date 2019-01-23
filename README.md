@@ -9,6 +9,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Camera](#camera)
 - [Character Controllers 2D](#character-controllers-2d)
 - [Character Controllers 3D](#character-controllers-3d)
+- [Controller Mappings](#controller-mappings)
 - [Database](#database)
 - [ECS](#ecs)
 - [Editor](#editor)
@@ -32,6 +33,11 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Utilities](#utilities)
 - [VR](#vr)
 
+[**Assets**](#assets)
+- [Icons](#icons)
+- [Collections / Forums](#collections--forums)
+- [Creation Tools](#creation-tools)
+
 [**Articles**](#articles)
 
 [**Books**](#books)
@@ -54,13 +60,13 @@ A categorized collection of awesome opensource unity3d resources (including some
 * [EpPathFinding.cs](https://github.com/juhgiyo/EpPathFinding.cs) - A jump point search algorithm for grid based games in C#
 * [EpPathFinding3D.cs](https://github.com/juhgiyo/EpPathFinding3D.cs) - A 3D jump point search algorithm for cube based games in C#
 * [goap](https://github.com/sploreg/goap) - Goal Oriented Action Planning AI in Unity
-* [UnitySteer](https://github.com/ricardojmendez/UnitySteer) - Steering, obstacle avoidance and path following behaviors for the Unity Game Engine 
+* [UnitySteer](https://github.com/ricardojmendez/UnitySteer) - Steering, obstacle avoidance and path following behaviors for the Unity Game Engine
 * [A Star Pathfinding for Unity](https://github.com/sharpaccent/Astar-for-Unity) - A Star Pathfinder, 3 axis, multithreaded for Unity
 * [openpath](https://github.com/mrzapp/openpath) - Open source pathfinding for Unity
 * [unity-path-finding](https://github.com/mattatz/unity-path-finding) - Shortest path finding with Dijkstra's algorithm for Unity.
 * [NPBehave](https://github.com/meniku/NPBehave) - Event Driven Behavior Trees for Unity 3D
 * [fluid-behavior-tree](https://github.com/ashblue/fluid-behavior-tree) - A pure code behavior tree micro-framework built for Unity3D projects. Granting developers the power to dictate their GUI presentation
-* [Unity3d-Finite-State-Machine](https://github.com/thefuntastic/Unity3d-Finite-State-Machine) - 
+* [Unity3d-Finite-State-Machine](https://github.com/thefuntastic/Unity3d-Finite-State-Machine) -
 An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on usability, without sacrificing utility
 
 ### Animation
@@ -82,6 +88,14 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [SuperCharacterController](https://github.com/IronWarrior/SuperCharacterController) - Custom Character Controller for Unity. Fulfills all common character controller functions such as collision detection and pushback, slope limiting and collider ignoring.
 * [NaughtyCharacter](https://github.com/dbrizov/NaughtyCharacter) - Third Person Controller for Unity
 * [Advanced Rigidbody FirstPerson Controller](https://github.com/Moe-Baker/Advanced-Rigidbody-FirstPerson-Controller) - Rigidbody Based FirstPerson Controller
+
+### Controller Mappings
+* [Dualshock 3 (PS3)](https://forum.unity.com/threads/ps3-button-map.89288/)
+* [Dualshock 4 (PS4)](https://twitter.com/erik_tellier/status/1071457079854944256)
+* [Nintendo Joy Con](https://www.reddit.com/r/Unity3D/comments/60wh7g/nintendo_switch_joycon_controller_mapped_for_unity/)
+* [Nintendo Pro Controller](https://answers.unity.com/questions/1419842/nintendo-switch-pro-controller-mapping.html)
+* [Xbox 360](http://wiki.unity3d.com/index.php?title=Xbox360Controller)
+* [Xbox One](https://answers.unity.com/questions/1350081/xbox-one-controller-mapping-solved.html)
 
 ### Database
 * [SQLite4Unity3d](https://github.com/codecoding/SQLite4Unity3d) - SQLite made easy for Unity3d
@@ -118,12 +132,14 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Outline-Effect](https://github.com/cakeslice/Outline-Effect) - Outline Image Effect for Unity
 * [unity-frosted-glass](https://github.com/andydbc/unity-frosted-glass) - frosted glass material made in unity
 * [unity-delaunay](https://github.com/OskarSigvardsson/unity-delaunay) - A Delaunay/Voronoi library for Unity, and a simple destruction effect
+* [Helicopter effect](https://twitter.com/unity3dexpert/status/1050240849085431808)
 * [SSMS](https://github.com/OCASM/SSMS) - Screen space multiple scattering for Unity
 * [KinoGlitch](https://github.com/keijiro/KinoGlitch) - Video glitch effects for Unity
 * [Temporal](https://github.com/playdeadgames/temporal) - Temporal Reprojection Anti-Aliasing for Unity 5.0+
 * [SMAA](https://github.com/Chman/SMAA) - A highly customizable implementation of Subpixel Morphological Antialiasing for Unity
 * [Typogenic](https://github.com/Chman/Typogenic) - Signed-distance field text rendering for Unity
 * [VolumetricLights](https://github.com/SlightlyMad/VolumetricLights) - Volumetric Lights for Unity
+* [VolumetricLightning](https://github.com/raphael-ernaelsten/Aura) - Volumetric Lighting for Unity
 * [AtmosphericScattering](https://github.com/SlightlyMad/AtmosphericScattering) - Atmospheric Scattering for Unity
 * [Facepunch.Highlight](https://github.com/Facepunch/Facepunch.Highlight) - Mesh outline effect
 * [crest-oceanrender](https://github.com/huwb/crest-oceanrender) - An advanced ocean system implemented in Unity3D
@@ -137,6 +153,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [ToonShading](https://github.com/Kink3d/ToonShading) - A collection of "Toon" shaders for Unity based on a stepped PBR approximation.
 * [AnisotropicStandardShader](https://github.com/Kink3d/AnisotropicStandardShader) - A modified version of Unity's Standard Shader using an Anisotropic GGX BRDF.
 * [SpriteGlow](https://github.com/Elringus/SpriteGlow) - A sprite glow effect for Unity game engine
+* [Mirror (Script)](https://github.com/nkjzm/Mirror) - A mirror script
 * [HoloShield](https://github.com/AdultLink/HoloShield) - Highly customizable sci-fi shield / force field shader for Unity3D. Allows you to set edge power & color, inner texture scrolling, waviness, scale pulsation and procedural intensity noise. Implements tessellation for low-poly base meshes.
 * [Rimlight](https://github.com/AdultLink/Rimlight) - Customizable rimlight shader for Unity that includes pulsation and noise scrolling. Give your scenes that extra oomph!
 * [VerticalDissolve](https://github.com/AdultLink/VerticalDissolve) - Procedural vertical dissolve shader. Highly customizable. Tweak edge color, noisiness & waviness, rim light, emission scrolling and more.
@@ -200,7 +217,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [UnityHTTP](https://github.com/andyburke/UnityHTTP) - A TcpClient-based HTTP library for Unity
 * [SocketIoClientDotNet](https://github.com/Quobject/SocketIoClientDotNet) - Socket.IO Client Library for .Net
 * [MLAPI](https://github.com/MidLevel/MLAPI) - A game networking framework built for the Unity Engine to abstract game networking concepts
-* [Networker](https://github.com/MarkioE/Networker) - 
+* [Networker](https://github.com/MarkioE/Networker) -
 A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [SmartFoxServer 2X](http://docs2x.smartfoxserver.com/ExamplesUnity/introduction) - A comprehensive SDK for rapidly developing multiplayer games and applications with Adobe Flash/Flex/Air, Unity, HTML5, iOS, Windows Phone 8, Android, Java, Windows 8, C++ and more
 * [Colyseus](http://colyseus.io/) - Multiplayer Game Server for Node.js. [Demo with Unity3D](https://github.com/gamestdio/colyseus-unity3d)
@@ -312,7 +329,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [bitstrap](https://github.com/bitcake/bitstrap) - BitStrap is BitCake's collection of Unity tools that improve our workflow
 * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) - Attribute Extensions for Unity
 * [Unity3DRuntimeTransformGizmo](https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo) - A runtime transform gizmo similar to unitys editor so you can translate (move, rotate, scale) objects at runtime
-* [UnityPack](https://github.com/HearthSim/UnityPack) - Python deserialization library for Unity3D Asset format 
+* [UnityPack](https://github.com/HearthSim/UnityPack) - Python deserialization library for Unity3D Asset format
 * [UnityOctree](https://github.com/Nition/UnityOctree) - A dynamic, loose octree implementation for Unity written in C#
 * [MathUtilities](https://github.com/zalo/MathUtilities) - A collection of some of the neat math and physics tricks that I've collected over the last few years.
 * [CoroutineChain](https://github.com/geniikw/CoroutineChain) - Unity3d, Coroutine, scripting
@@ -324,7 +341,32 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [MixedRealityToolkit-Unity](https://github.com/Microsoft/MixedRealityToolkit-Unity) - MixedRealityToolkit-Unity uses code from the base MixedRealityToolkit repository and makes it easier to consume in Unity.
 * [Google VR SDK for Unity](https://github.com/googlevr/gvr-unity-sdk) - Google VR SDK for Unity http://developers.google.com/vr/unity/
 
+## Assets
+
+### Icons
+
+* [I made 700+ RPG icons free for use for your game](https://www.reddit.com/r/IndieGaming/comments/ifmie/i_made_700_rpg_icons_free_for_use_/) - 700+ RPG Icons(The _filesonic_ URL ending with "Lorc_RPG_icons.zip" still works)
+* [game-icons.net](https://game-icons.net) 3443+ Game Icons licensed under CC BY 3.0
+* [EffectCore's VFX Packs](https://assetstore.unity.com/publishers/25749) - Paid AAA visual effects.
+
+### Collections / Forums
+
+* [Unitylist](https://unitylist.com/) - Search for everything
+* [Armedunity](https://armedunity.com/) - Shooter focused forum
+* [Unity Assetstore](https://assetstore.unity.com/) - Official asset store for unity.
+
+### Creation Tools
+
+* [Aseprite](https://www.aseprite.org/) - Animated sprite editor & pixel art tool.
+* [AssetForge](https://kenney.itch.io/assetforge) - Easily create simple assets in seconds (Paid).
+* [BFXR](https://www.bfxr.net/) - Make sound effects for computer games (Flash required)
+* [MagicaVoxel](https://ephtracy.github.io/) Free to use Voxel editor (even for commercial).
+* [Mixamo](https://www.mixamo.com/) - Free to use animation mixing tool with free animations. Not allowed to use in open source projects.
+
+
 ## Articles
 * [50 Tips and Best Practices for Unity (2016 Edition)](https://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php)
+* [Unity Package Manager 2018.3+](https://blogs.unity3d.com/2018/05/09/unity-packages-life-cycle/)
+* [Cracked Ice Shader](https://80.lv/articles/how-to-build-cracked-ice-in-material-editor/)
 ## Books
 * [Game Programming Patters](http://gameprogrammingpatterns.com/) Free and Paid available
