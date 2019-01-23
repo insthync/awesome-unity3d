@@ -104,6 +104,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [ECS-Tween](https://github.com/Xerios/ECS-Tween) - Simple Unity tweening system using ECS that works with GameObjects!
 
 ### Editor
+* [Amplify Shader Editor](https://assetstore.unity.com/packages/tools/visual-scripting/amplify-shader-editor-68570) - Paid Shader Editor. Alternative to unitys shader graph.
 * [Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet) - Unity-QuickSheet enables you to use spreadsheet file data within Unity editor.
 * [Unity3D Rainbow Folders](https://github.com/PhannGor/unity3d-rainbow-folders) - This asset allows you to set custom icons for any folder in unity project browser.
 * [Reorderable List Editor Field for Unity](https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity) - Reorderable List Editor Field for Unity
@@ -345,6 +346,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 ### Icons
 
 * [I made 700+ RPG icons free for use for your game](https://www.reddit.com/r/IndieGaming/comments/ifmie/i_made_700_rpg_icons_free_for_use_/) - 700+ RPG Icons(The _filesonic_ URL ending with "Lorc_RPG_icons.zip" still works)
+* [game-icons.net](https://game-icons.net) 3443+ Game Icons licensed under CC BY 3.0
 
 ### Collections / Forums
 
