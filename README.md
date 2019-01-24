@@ -35,7 +35,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 [**Assets**](#assets)
 - [Icons](#icons)
-- [Collections / Forums](#collections--forums)
+- [Collections / Forums](#collections--forums--shops)
 - [Creation Tools](#creation-tools)
 
 [**Articles**](#articles)
@@ -349,11 +349,15 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [game-icons.net](https://game-icons.net) 3443+ Game Icons licensed under CC BY 3.0
 * [EffectCore's VFX Packs](https://assetstore.unity.com/publishers/25749) - Paid AAA visual effects.
 
-### Collections / Forums
+### Collections / Forums / Shops
 
-* [Unitylist](https://unitylist.com/) - Search for everything
 * [Armedunity](https://armedunity.com/) - Shooter focused forum
+* [itch.io](https://itch.io/game-assets)
+* [Game Assets](https://game-asset.net/)
+* [Game Dev Market](https://www.gamedevmarket.net/)
+* [Open Game Art](https://opengameart.org/)
 * [Unity Assetstore](https://assetstore.unity.com/) - Official asset store for unity.
+* [Unitylist](https://unitylist.com/) - Search for everything.
 
 ### Creation Tools
 
@@ -369,4 +373,4 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Unity Package Manager 2018.3+](https://blogs.unity3d.com/2018/05/09/unity-packages-life-cycle/)
 * [Cracked Ice Shader](https://80.lv/articles/how-to-build-cracked-ice-in-material-editor/)
 ## Books
-* [Game Programming Patters](http://gameprogrammingpatterns.com/) Free and Paid available
+* [Game Programming Patterns](http://gameprogrammingpatterns.com/) Free and Paid available
