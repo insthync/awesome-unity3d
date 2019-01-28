@@ -13,7 +13,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Database](#database)
 - [ECS](#ecs)
 - [Editor](#editor)
-- [Effect](#effect-and-shaders)
+- [Effect and Shaders](#effect-and-shaders)
 - [Framework](#framework)
 - [Input](#input)
 - [Light](#light)
@@ -165,6 +165,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar) - Customizable radial progress bar shader for Unity3D. Allows you to set arc range, minimum and maximum colors, textures, radius, and a few more things. Create HP Bars, Speedometers, rank progress, etc!
 * [Unity-ShaderSketches](https://github.com/setchi/Unity-ShaderSketches) - Sketches made with ShaderLab in Unity.
 * [Arktoon-Shaders](https://github.com/synqark/Arktoon-Shaders) - Alternative Unity shaders made by synqark
+* [Unity-Shaders](https://github.com/knapeczadam/Unity-Shaders) - Shader demo - More than 300 examples
 
 ### Framework
 * [Zenject](https://github.com/modesttree/Zenject) - Dependency Injection Framework for Unity3D
