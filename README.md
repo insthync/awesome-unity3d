@@ -31,6 +31,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Tweening](#tweening)
 - [UI](#ui)
 - [Utilities](#utilities)
+- [Video](#video)
 - [VR](#vr)
 
 [**Assets**](#assets)
@@ -342,6 +343,9 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [CoroutineChain](https://github.com/geniikw/CoroutineChain) - Unity3d, Coroutine, scripting
 * [disruptor-unity3d](https://github.com/dave-hillier/disruptor-unity3d) - Basic implementation of Disruptor for Unity3d
 * [uREPL](https://github.com/hecomi/uREPL) - In-game powerful REPL environment for Unity3D
+
+### Video
+* [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
 
 ### VR
 * [VRTK](https://github.com/thestonefox/VRTK) - A productive VR Toolkit for rapidly building VR solutions in Unity3d.
