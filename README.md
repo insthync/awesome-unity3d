@@ -13,7 +13,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Database](#database)
 - [ECS](#ecs)
 - [Editor](#editor)
-- [Effect](#effect-and-shaders)
+- [Effect and Shaders](#effect-and-shaders)
 - [Framework](#framework)
 - [Input](#input)
 - [Light](#light)
@@ -31,6 +31,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Tweening](#tweening)
 - [UI](#ui)
 - [Utilities](#utilities)
+- [Video](#video)
 - [VR](#vr)
 
 [**Assets**](#assets)
@@ -68,6 +69,9 @@ A categorized collection of awesome opensource unity3d resources (including some
 * [fluid-behavior-tree](https://github.com/ashblue/fluid-behavior-tree) - A pure code behavior tree micro-framework built for Unity3D projects. Granting developers the power to dictate their GUI presentation
 * [Unity3d-Finite-State-Machine](https://github.com/thefuntastic/Unity3d-Finite-State-Machine) -
 An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on usability, without sacrificing utility
+* [Path-Creator](https://github.com/SebLague/Path-Creator) - Path creation asset for Unity game development
+* [NavMeshPlus](https://github.com/h8man/NavMeshPlus) - Unity NavMesh 2D Pathfinding
+* [NavMeshSurface2DBaker](https://github.com/SharlatanY/NavMeshSurface2DBaker) - NavMeshSurface2DBaker is a Unity Package that provides functionality to bake 2D colliders into NavMeshSurface components.
 
 ### Animation
 * [unity-animator-helpers](https://github.com/ashblue/unity-animator-helpers) - A micro-framework for changing Unity 3D's Animator parameters with ScriptableObject(s). Designed to make going from custom scripts to Animator parameters easy. Works with 2D or 3D projects
@@ -78,6 +82,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 ### Camera
 * [Unity Pixel Camera](https://github.com/ChemiKhazi/UnityPixelCamera) - A resolution independent pixel perfect camera for Unity
 * [DeadSimple Pixel-Perfect Camera](https://github.com/cmilr/DeadSimple-Pixel-Perfect-Camera) - An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scenes in Unity. Punch in a few specs and you've got a working pixel perfect camera. It's that easy.
+* [Dynamic Multi Target Camera for Unity](https://github.com/lopespm/unity-camera-multi-target) - Concise Unity library which dynamically keeps a set of objects (e.g. players and important objects) in view.
 
 ### Character Controllers 2D
 * [Unity 2D Platformer Controller](https://github.com/cjddmut/Unity-2D-Platformer-Controller) - A customizable 2D platformer motor that handles mechanics such as double jumps, wall jumps, and corner grabs. Includes a player controlled prefab that can be dropped into any scene for immediate support.
@@ -162,6 +167,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar) - Customizable radial progress bar shader for Unity3D. Allows you to set arc range, minimum and maximum colors, textures, radius, and a few more things. Create HP Bars, Speedometers, rank progress, etc!
 * [Unity-ShaderSketches](https://github.com/setchi/Unity-ShaderSketches) - Sketches made with ShaderLab in Unity.
 * [Arktoon-Shaders](https://github.com/synqark/Arktoon-Shaders) - Alternative Unity shaders made by synqark
+* [Unity-Shaders](https://github.com/knapeczadam/Unity-Shaders) - Shader demo - More than 300 examples
 
 ### Framework
 * [Zenject](https://github.com/modesttree/Zenject) - Dependency Injection Framework for Unity3D
@@ -193,6 +199,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 ### Meshes
 * [UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier) - Mesh simplification for Unity.
 * [MeshDecimator](https://github.com/Whinarn/MeshDecimator) - A mesh decimation library for .NET and Unity.
+* [SplineMesh](https://github.com/benoit-dumas/SplineMesh) - A Unity plugin to create curved content in real-time with bézier curves
 
 ### Monetization
 * [unity3d-levelup](https://github.com/soomla/unity3d-levelup) - Unity3D F2P game progression library - worlds, levels, missions, scores, records and more. Part of The SOOMLA Framework - for game design, economy modeling and faster development.
@@ -223,6 +230,10 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Colyseus](http://colyseus.io/) - Multiplayer Game Server for Node.js. [Demo with Unity3D](https://github.com/gamestdio/colyseus-unity3d)
 * [UnityWebSocket](https://github.com/Unity3dAzure/UnityWebSocket) - Web Socket client for Unity
 * [RESTClient](https://github.com/Unity3dAzure/RESTClient) - REST Client for Unity with JSON and XML parsing. (Features JSON helper to handle nested arrays and deserializing abstract types)
+* [SpeedDate](https://github.com/proepkes/SpeedDate) - SpeedDate Masterserver: Connecting Players
+* [UnityLockstep](https://github.com/proepkes/UnityLockstep) - Deterministic Lockstep with serverside framerate for Unity
+* [ET](https://github.com/egametang/ET) - Unity3D Client And C# Server Framework
+* [unity-fastpacedmultiplayer](https://github.com/JoaoBorks/unity-fastpacedmultiplayer) - Features a Networking Framework to be used on top of Unity Networking, in order to implement an Authoritative Server with Lag Compensation, Client-Side Prediction/Server Reconciliation and Entity Interpolation
 
 ### Physic
 * [BulletSharpUnity3d](https://github.com/Phong13/BulletSharpUnity3d) - A fork of the BulletSharp project to make the Bullet Physics Engine usable from C# code in Unity3d
@@ -257,6 +268,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 ### Services
 * [Google Play Games plugin for Unity](https://github.com/playgameservices/play-games-plugin-for-unity) - Google Play Games plugin for Unity
+* [line-sdk-unity](https://github.com/line/line-sdk-unity) - Provides a modern way of implementing LINE APIs in Unity games, for iOS and Android.
 
 ### Sounds
 * [usfxr](https://github.com/zeh/usfxr) - a C# library used to generate and play game-like procedural audio effects inside Unity. With usfxr, one can easily design and synthesize original sound in real time for actions such as item pickups, jumps, lasers, hits, explosions, and more, without ever leaving the Unity editor.
@@ -334,6 +346,12 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [MathUtilities](https://github.com/zalo/MathUtilities) - A collection of some of the neat math and physics tricks that I've collected over the last few years.
 * [CoroutineChain](https://github.com/geniikw/CoroutineChain) - Unity3d, Coroutine, scripting
 * [disruptor-unity3d](https://github.com/dave-hillier/disruptor-unity3d) - Basic implementation of Disruptor for Unity3d
+* [uREPL](https://github.com/hecomi/uREPL) - In-game powerful REPL environment for Unity3D
+* [RuntimeUnityEditor](https://github.com/ManlyMarco/RuntimeUnityEditor) - In-game inspector and debugging tools for applications made with Unity3D game engine
+
+
+### Video
+* [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
 
 ### VR
 * [VRTK](https://github.com/thestonefox/VRTK) - A productive VR Toolkit for rapidly building VR solutions in Unity3d.
