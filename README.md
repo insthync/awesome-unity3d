@@ -38,6 +38,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Icons](#icons)
 - [Collections / Forums](#collections--forums--shops)
 - [Creation Tools](#creation-tools)
+- [Audio](#audio)
 
 [**Articles**](#articles)
 
@@ -384,6 +385,10 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [BFXR](https://www.bfxr.net/) - Make sound effects for computer games (Flash required)
 * [MagicaVoxel](https://ephtracy.github.io/) Free to use Voxel editor (even for commercial).
 * [Mixamo](https://www.mixamo.com/) - Free to use animation mixing tool with free animations. Not allowed to use in open source projects.
+
+### Audio
+
+* [Sonniss GDC 2018 Pack](https://sonniss.com/gameaudiogdc18/) - Free to use 30GB worth of audio files
 
 
 ## Articles
