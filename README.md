@@ -350,6 +350,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [uREPL](https://github.com/hecomi/uREPL) - In-game powerful REPL environment for Unity3D
 * [RuntimeUnityEditor](https://github.com/ManlyMarco/RuntimeUnityEditor) - In-game inspector and debugging tools for applications made with Unity3D game engine
 * [Deform](https://github.com/keenanwoodall/Deform) - A fully-featured deformer system for Unity
+* [OnionRingUnity](https://github.com/kyubuns/OnionRingUnity) - Auto 9 slice sprite generator
 
 
 ### Video
