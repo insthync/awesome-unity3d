@@ -360,6 +360,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [OnionRingUnity](https://github.com/kyubuns/OnionRingUnity) - Auto 9 slice sprite generator
 * [UnityMultiBuild](https://github.com/sinbad/UnityMultiBuild) - Batch build for multiple platforms from within the Unity editor
 * [UnityCsvUtil](https://github.com/sinbad/UnityCsvUtil) - Lightweight but type safe CSV serialise/deserialise of objects
+* [InkPainter](https://github.com/EsProgram/InkPainter) - Texture-Paint on Unity
+* [WaveformProvider](https://github.com/EsProgram/WaveformProvider) - Provide a texture to simulate waves with Unity. Require InkPainter.
 
 ### Video
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
