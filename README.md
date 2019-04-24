@@ -272,6 +272,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 ### Scriptings
 * [UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) - Unity Scripting in C++
+* [unity-python](https://github.com/exodrifter/unity-python) - Python plugin for Unity3D
 
 ### Services
 * [Google Play Games plugin for Unity](https://github.com/playgameservices/play-games-plugin-for-unity) - Google Play Games plugin for Unity
