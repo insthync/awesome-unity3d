@@ -362,6 +362,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [UnityCsvUtil](https://github.com/sinbad/UnityCsvUtil) - Lightweight but type safe CSV serialise/deserialise of objects
 * [InkPainter](https://github.com/EsProgram/InkPainter) - Texture-Paint on Unity
 * [WaveformProvider](https://github.com/EsProgram/WaveformProvider) - Provide a texture to simulate waves with Unity. Require InkPainter.
+* [DataBind](https://github.com/tinrab/DataBind) - Simple data binding for Unity
 
 ### Video
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
