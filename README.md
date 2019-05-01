@@ -363,6 +363,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [InkPainter](https://github.com/EsProgram/InkPainter) - Texture-Paint on Unity
 * [WaveformProvider](https://github.com/EsProgram/WaveformProvider) - Provide a texture to simulate waves with Unity. Require InkPainter.
 * [DataBind](https://github.com/tinrab/DataBind) - Simple data binding for Unity
+* [GradientGenerator](https://github.com/5argon/GradientGenerator) - A Unity script to generate multiple variants of evenly distributed `Gradient` based on input `AnimationCurve`.
+
 
 ### Video
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
