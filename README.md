@@ -288,6 +288,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [DOTween (Recommend)](https://github.com/Demigiant/dotween) - A Unity C# animation engine. HOTween v2
 * [LeanTween](https://github.com/dentedpixel/LeanTween) - LeanTween is an efficient animation engine for Unity
 * [GoKit](https://github.com/prime31/GoKit) - Lightweight tween library for Unity
+* [Uween](https://github.com/beinteractive/Uween) - Lightweight tween library for Unity
 
 ### UI
 * [FairyGUI-unity](https://github.com/fairygui/FairyGUI-unity) - A flexible UI framework for Unity
