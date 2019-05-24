@@ -3,6 +3,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 [**Open Source Repositories**](#open-source-repositories)
 - [2D](#2d)
+- [2D Bones](#2d-bones)
 - [AI](#ai)
 - [Animation](#animation)
 - [Asset Bundle](#asset-bundle)
@@ -28,6 +29,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Scriptings](#scriptings)
 - [Services](#services)
 - [Sounds](#sounds)
+- [Timeline](#timeline)
 - [Tweening](#tweening)
 - [UI](#ui)
 - [Utilities](#utilities)
@@ -56,6 +58,10 @@ A categorized collection of awesome opensource unity3d resources (including some
 * [SpriteDicing](https://github.com/Elringus/SpriteDicing) - Extension for Unity game engine to work with diced sprites
 * [DataRenderer2D](https://github.com/geniikw/DataRenderer2D) - make mesh like line, polygon, etc in unity3d
 * [UnitySpline2D](https://github.com/sinbad/UnitySpline2D) - 2D spline utility for Unity
+
+### 2D Bones
+* [DragonBonesCSharp](https://github.com/DragonBones/DragonBonesCSharp) - DragonBones C# Runtime
+* [Spine Runtimes](https://github.com/EsotericSoftware/spine-runtimes) - Collection of Spine runtimes including with Unity3d version.
 
 ### AI
 * [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai) - A library of common movement AI scripts known as Steering Behaviors. You can use these scripts to help your NPCs move around your game.
@@ -285,6 +291,9 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [LibNoise.Unity](https://github.com/ricardojmendez/LibNoise.Unity) - Coherent noise library for Unity, a port of LibNoise
 * [Reaktion](https://github.com/keijiro/Reaktion) - Audio reactive animation toolkit for Unity
 
+### Timeline
+* [SpineTimeline](https://github.com/5argon/SpineTimeline) - Animate SkeletonAnimation or SkeletonGraphic with Unity's Timeline
+
 ### Tweening
 * [DOTween (Recommend)](https://github.com/Demigiant/dotween) - A Unity C# animation engine. HOTween v2
 * [LeanTween](https://github.com/dentedpixel/LeanTween) - LeanTween is an efficient animation engine for Unity
@@ -321,7 +330,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [3DMath](https://github.com/GregLukosek/3DMath) - Unity C# 3D Math methods library.
 * [Projeny](https://github.com/modesttree/Projeny) - A project and package manager for Unity.
 * [Unity Size Explorer](https://github.com/aschearer/unitysizeexplorer) - Visualize how much space each asset in your Unity game takes and quickly optimize your game's file size.
-* [Spine Runtimes](https://github.com/EsotericSoftware/spine-runtimes) - Collection of Spine runtimes including with Unity3d version.
 * [UnityStudio](https://github.com/RaduMC/UnityStudio) - Unity Studio is a tool for exploring, extracting and exporting assets from Unity games and apps.
 * [InGameReplay](https://github.com/FeNo/InGameReplay) - Allow you to record the transform of any objects to replay it
 * [UniRx](https://github.com/neuecc/UniRx) - Reactive Extensions for Unity
@@ -330,7 +338,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [UnityPSDLayoutTool](https://github.com/GlitchEnzo/UnityPSDLayoutTool) - A tool used to import a Photoshop Documents (.psd files) into the Unity Game Engine.
 * [Rant](https://github.com/TheBerkin/rant) - Robust text engine for procedural generation and postprocessing
 * [E7Unity](https://github.com/5argon/E7Unity) - Common Unity resources
-* [DragonBonesCSharp](https://github.com/DragonBones/DragonBonesCSharp) - DragonBones C# Runtime
 * [mmd-for-unity](https://github.com/mmd-for-unity-proj/mmd-for-unity) - MikuMikuDance for Unity
 * [Unity.Library.eppz](https://github.com/eppz/Unity.Library.eppz) - Collection of libraries for Unity
 * [yaSingleton](https://github.com/jedybg/yaSingleton) - A singleton pattern implementation for Unity3d. Based on ScriptableObjects instead of the conventional MonoBehaviour approach.
