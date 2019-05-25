@@ -16,6 +16,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Editor](#editor)
 - [Effect and Shaders](#effect-and-shaders)
 - [Framework](#framework)
+- [Gameplay](#gameplay)
 - [Input](#input)
 - [Light](#light)
 - [Lua](#lua)
@@ -191,6 +192,9 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [uFrame.Complete](https://github.com/uFrame/uFrame.Complete) - All in one repo, includes: Kernel, Designer, Architect, MVVM, ECS
 * [QFramework](https://github.com/liangxiegame/QFramework) - Your first K.I.S.S Unity 3D Framework
 * [ecsrx.unity](https://github.com/EcsRx/ecsrx.unity) - A simple framework for unity using the ECS paradigm but with unirx for fully reactive systems
+
+### Gameplay
+* [roadbuilder](https://github.com/guotata1996/roadbuilder) - Easy-to-build realistic roads in Unity. Foundation of any simcity game
 
 ### Input
 * [InputManager](https://github.com/daemon3000/InputManager) - Custom InputManager for Unity
