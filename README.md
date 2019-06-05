@@ -383,6 +383,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Dialogue](https://github.com/Siccity/Dialogue) - Node based dialogue system
 * [Unity-EasingLibraryVisualisation](https://github.com/noisecrime/Unity-EasingLibraryVisualisation) - Front end visualisation of 40 common easing equations.
 * [UnityGoogleDrive](https://github.com/Elringus/UnityGoogleDrive) - Google Drive SDK for Unity game engine 
+* [unity-mulligan-renamer](https://github.com/redbluegames/unity-mulligan-renamer) - Mulligan Renamer tool for the Unity Editor allows for quick and safe renaming of many assets and gameobjects at once
+
 
 
 ### Video
