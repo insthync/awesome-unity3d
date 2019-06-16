@@ -3,6 +3,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 [**Open Source Repositories**](#open-source-repositories)
 - [2D](#2d)
+- [2D Bones](#2d-bones)
 - [AI](#ai)
 - [Animation](#animation)
 - [Asset Bundle](#asset-bundle)
@@ -15,6 +16,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Editor](#editor)
 - [Effect and Shaders](#effect-and-shaders)
 - [Framework](#framework)
+- [Gameplay](#gameplay)
 - [Input](#input)
 - [Light](#light)
 - [Lua](#lua)
@@ -28,6 +30,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Scriptings](#scriptings)
 - [Services](#services)
 - [Sounds](#sounds)
+- [Timeline](#timeline)
 - [Tweening](#tweening)
 - [UI](#ui)
 - [Utilities](#utilities)
@@ -54,7 +57,12 @@ A categorized collection of awesome opensource unity3d resources (including some
 * [StaticBluredScreen](https://github.com/mob-sakai/StaticBluredScreen) - Non-realtime (=static) screen blur for Unity. Easy to use background for dialogs
 * [AtlasImage](https://github.com/mob-sakai/AtlasImage) - AtlasImage is a graphic component use SpriteAtlas for uGUI. In addition, add useful sprite selector and border editor to the inspector
 * [SpriteDicing](https://github.com/Elringus/SpriteDicing) - Extension for Unity game engine to work with diced sprites
-- [DataRenderer2D](https://github.com/geniikw/DataRenderer2D) - make mesh like line, polygon, etc in unity3d
+* [DataRenderer2D](https://github.com/geniikw/DataRenderer2D) - make mesh like line, polygon, etc in unity3d
+* [UnitySpline2D](https://github.com/sinbad/UnitySpline2D) - 2D spline utility for Unity
+
+### 2D Bones
+* [DragonBonesCSharp](https://github.com/DragonBones/DragonBonesCSharp) - DragonBones C# Runtime
+* [Spine Runtimes](https://github.com/EsotericSoftware/spine-runtimes) - Collection of Spine runtimes including with Unity3d version.
 
 ### AI
 * [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai) - A library of common movement AI scripts known as Steering Behaviors. You can use these scripts to help your NPCs move around your game.
@@ -73,6 +81,8 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Path-Creator](https://github.com/SebLague/Path-Creator) - Path creation asset for Unity game development
 * [NavMeshPlus](https://github.com/h8man/NavMeshPlus) - Unity NavMesh 2D Pathfinding
 * [NavMeshSurface2DBaker](https://github.com/SharlatanY/NavMeshSurface2DBaker) - NavMeshSurface2DBaker is a Unity Package that provides functionality to bake 2D colliders into NavMeshSurface components.
+* [Brainiac](https://github.com/daemon3000/Brainiac) - Behaviour tree editor for Unity3D
+* [behaviac](https://github.com/Tencent/behaviac) - behaviac is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN)
 
 ### Animation
 * [unity-animator-helpers](https://github.com/ashblue/unity-animator-helpers) - A micro-framework for changing Unity 3D's Animator parameters with ScriptableObject(s). Designed to make going from custom scripts to Animator parameters easy. Works with 2D or 3D projects
@@ -109,6 +119,9 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 ### ECS
 * [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
 * [ECS-Tween](https://github.com/Xerios/ECS-Tween) - Simple Unity tweening system using ECS that works with GameObjects!
+* [PlasticTween](https://github.com/PlasticApps/PlasticTween) - Tween Library for Unity3D(ECS+JOBS)
+* [unity-jtween](https://github.com/jeffcampbellmakesgames/unity-jtween) - A job-based tween library for Unity
+* [KNN](https://github.com/ArthurBrussee/KNN) - Fast K-Nearest Neighbour Library for Unity DOTS
 
 ### Editor
 * [Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet) - Unity-QuickSheet enables you to use spreadsheet file data within Unity editor.
@@ -132,6 +145,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Unity-Reorderable-List](https://github.com/cfoulston/Unity-Reorderable-List) - Extended version of the Reorderable List in Unity
 * [UnityEditorJunkie](https://github.com/roboryantron/UnityEditorJunkie) - Editor scripts to make working with the Unity Editor better
 * [UniOmni](https://github.com/lochrist/UniOmni) - Global search for Unity
+* [floorplan](https://github.com/alexismorin/floorplan) - A Sims-Like Unity Level Design Plugin
 
 ### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
@@ -169,6 +183,9 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Unity-ShaderSketches](https://github.com/setchi/Unity-ShaderSketches) - Sketches made with ShaderLab in Unity.
 * [Arktoon-Shaders](https://github.com/synqark/Arktoon-Shaders) - Alternative Unity shaders made by synqark
 * [Unity-Shaders](https://github.com/knapeczadam/Unity-Shaders) - Shader demo - More than 300 examples
+* [UltimateOutline](https://github.com/Shrimpey/UltimateOutline) - The easiest way to achieve outlines in unity.
+* [Outlined-Diffuse-Shader-Fixed](https://github.com/Shrimpey/Outlined-Diffuse-Shader-Fixed) - This is a fixed version of diffused outline shader from http://wiki.unity3d.com/index.php/Outlined_Diffuse_3
+* [unity-delaunay](https://github.com/OskarSigvardsson/unity-delaunay) - A Delaunay/Voronoi library for Unity, and a simple destruction effect
 
 ### Framework
 * [Zenject](https://github.com/modesttree/Zenject) - Dependency Injection Framework for Unity3D
@@ -179,6 +196,10 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [uFrame.Complete](https://github.com/uFrame/uFrame.Complete) - All in one repo, includes: Kernel, Designer, Architect, MVVM, ECS
 * [QFramework](https://github.com/liangxiegame/QFramework) - Your first K.I.S.S Unity 3D Framework
 * [ecsrx.unity](https://github.com/EcsRx/ecsrx.unity) - A simple framework for unity using the ECS paradigm but with unirx for fully reactive systems
+
+### Gameplay
+* [roadbuilder](https://github.com/guotata1996/roadbuilder) - Easy-to-build realistic roads in Unity. Foundation of any simcity game
+* [Tork](https://github.com/adrenak/Tork) - Vehicle system for Unity
 
 ### Input
 * [InputManager](https://github.com/daemon3000/InputManager) - Custom InputManager for Unity
@@ -201,6 +222,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier) - Mesh simplification for Unity.
 * [MeshDecimator](https://github.com/Whinarn/MeshDecimator) - A mesh decimation library for .NET and Unity.
 * [SplineMesh](https://github.com/benoit-dumas/SplineMesh) - A Unity plugin to create curved content in real-time with bézier curves
+* [roadcreator](https://github.com/MCrafterzz/roadcreator) - A free road creation tool for unity
 
 ### Monetization
 * [unity3d-levelup](https://github.com/soomla/unity3d-levelup) - Unity3D F2P game progression library - worlds, levels, missions, scores, records and more. Part of The SOOMLA Framework - for game design, economy modeling and faster development.
@@ -212,7 +234,6 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 * [Hazel-Networking](https://github.com/DarkRiftNetworking/Hazel-Networking) - A low level networking library for C# providing connection orientated, message based communication via TCP, UDP and RUDP.
 * [MassiveNet](https://github.com/jakevn/MassiveNet) - Unity3d UDP networking library focused on high-CCU, multi-server architecture.
-* [unet-hlapi-manager](https://github.com/insthync/unet-hlapi-manager) - The simple network manager based on Unity's NetworkManager without players, scenes stuffs focus on network messages callback handles. Intenly made for multiple server purposes
 * [Nakama](https://github.com/heroiclabs/nakama) - An open-source distributed social and realtime server for games and apps by [Heroic Labs](https://heroiclabs.com). It includes a large set of services for users, data storage, and realtime client/server communication; as well as specialized APIs like realtime multiplayer, groups/guilds, and chat.
 * [Barebones Master Server](https://github.com/alvyxaz/barebones-masterserver) - Master Server framework for Unity
 * [Forge Networking Remastered](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) - In short, Forge Networking is a free and open source multiplayer game (multi-user) networking system that has a very good integration with the Unity game engine. You wanna make a multiplayer game or real time multi-user application? This is the library for you.
@@ -266,6 +287,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 ### Scriptings
 * [UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) - Unity Scripting in C++
+* [unity-python](https://github.com/exodrifter/unity-python) - Python plugin for Unity3D
 
 ### Services
 * [Google Play Games plugin for Unity](https://github.com/playgameservices/play-games-plugin-for-unity) - Google Play Games plugin for Unity
@@ -277,10 +299,14 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [LibNoise.Unity](https://github.com/ricardojmendez/LibNoise.Unity) - Coherent noise library for Unity, a port of LibNoise
 * [Reaktion](https://github.com/keijiro/Reaktion) - Audio reactive animation toolkit for Unity
 
+### Timeline
+* [SpineTimeline](https://github.com/5argon/SpineTimeline) - Animate SkeletonAnimation or SkeletonGraphic with Unity's Timeline
+
 ### Tweening
 * [DOTween (Recommend)](https://github.com/Demigiant/dotween) - A Unity C# animation engine. HOTween v2
 * [LeanTween](https://github.com/dentedpixel/LeanTween) - LeanTween is an efficient animation engine for Unity
 * [GoKit](https://github.com/prime31/GoKit) - Lightweight tween library for Unity
+* [Uween](https://github.com/beinteractive/Uween) - Lightweight tween library for Unity
 
 ### UI
 * [FairyGUI-unity](https://github.com/fairygui/FairyGUI-unity) - A flexible UI framework for Unity
@@ -301,6 +327,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [ShinyEffectForUGUI](https://github.com/mob-sakai/ShinyEffectForUGUI) - Shiny effect of uGUI, which does not need mask or normal map
 * [FancyScrollView](https://github.com/setchi/FancyScrollView) - A scrollview component that can be implemented flexible flexible animation
 * [Juicy Healthbar](https://twitter.com/AntonPantev/status/1140063685655826432) - "I made the Juicy Health Bar from @reuno’s Unite LA talk. It’s pretty great!"
+* [UIWidgets](https://github.com/UnityTech/UIWidgets) - UIWidget is a Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps.
 
 ### Utilities
 * [LINQ to GameObject](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ
@@ -313,7 +340,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [3DMath](https://github.com/GregLukosek/3DMath) - Unity C# 3D Math methods library.
 * [Projeny](https://github.com/modesttree/Projeny) - A project and package manager for Unity.
 * [Unity Size Explorer](https://github.com/aschearer/unitysizeexplorer) - Visualize how much space each asset in your Unity game takes and quickly optimize your game's file size.
-* [Spine Runtimes](https://github.com/EsotericSoftware/spine-runtimes) - Collection of Spine runtimes including with Unity3d version.
 * [UnityStudio](https://github.com/RaduMC/UnityStudio) - Unity Studio is a tool for exploring, extracting and exporting assets from Unity games and apps.
 * [InGameReplay](https://github.com/FeNo/InGameReplay) - Allow you to record the transform of any objects to replay it
 * [UniRx](https://github.com/neuecc/UniRx) - Reactive Extensions for Unity
@@ -322,7 +348,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [UnityPSDLayoutTool](https://github.com/GlitchEnzo/UnityPSDLayoutTool) - A tool used to import a Photoshop Documents (.psd files) into the Unity Game Engine.
 * [Rant](https://github.com/TheBerkin/rant) - Robust text engine for procedural generation and postprocessing
 * [E7Unity](https://github.com/5argon/E7Unity) - Common Unity resources
-* [DragonBonesCSharp](https://github.com/DragonBones/DragonBonesCSharp) - DragonBones C# Runtime
 * [mmd-for-unity](https://github.com/mmd-for-unity-proj/mmd-for-unity) - MikuMikuDance for Unity
 * [Unity.Library.eppz](https://github.com/eppz/Unity.Library.eppz) - Collection of libraries for Unity
 * [yaSingleton](https://github.com/jedybg/yaSingleton) - A singleton pattern implementation for Unity3d. Based on ScriptableObjects instead of the conventional MonoBehaviour approach.
@@ -350,7 +375,19 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [disruptor-unity3d](https://github.com/dave-hillier/disruptor-unity3d) - Basic implementation of Disruptor for Unity3d
 * [uREPL](https://github.com/hecomi/uREPL) - In-game powerful REPL environment for Unity3D
 * [RuntimeUnityEditor](https://github.com/ManlyMarco/RuntimeUnityEditor) - In-game inspector and debugging tools for applications made with Unity3D game engine
-
+* [Deform](https://github.com/keenanwoodall/Deform) - A fully-featured deformer system for Unity
+* [OnionRingUnity](https://github.com/kyubuns/OnionRingUnity) - Auto 9 slice sprite generator
+* [UnityMultiBuild](https://github.com/sinbad/UnityMultiBuild) - Batch build for multiple platforms from within the Unity editor
+* [UnityCsvUtil](https://github.com/sinbad/UnityCsvUtil) - Lightweight but type safe CSV serialise/deserialise of objects
+* [InkPainter](https://github.com/EsProgram/InkPainter) - Texture-Paint on Unity
+* [WaveformProvider](https://github.com/EsProgram/WaveformProvider) - Provide a texture to simulate waves with Unity. Require InkPainter.
+* [DataBind](https://github.com/tinrab/DataBind) - Simple data binding for Unity
+* [GradientGenerator](https://github.com/5argon/GradientGenerator) - A Unity script to generate multiple variants of evenly distributed `Gradient` based on input `AnimationCurve`.
+* [Dialogue](https://github.com/Siccity/Dialogue) - Node based dialogue system
+* [Unity-EasingLibraryVisualisation](https://github.com/noisecrime/Unity-EasingLibraryVisualisation) - Front end visualisation of 40 common easing equations.
+* [UnityGoogleDrive](https://github.com/Elringus/UnityGoogleDrive) - Google Drive SDK for Unity game engine
+* [unity-mulligan-renamer](https://github.com/redbluegames/unity-mulligan-renamer) - Mulligan Renamer tool for the Unity Editor allows for quick and safe renaming of many assets and gameobjects at once
+* [Xamarin.Forms.Unity](https://github.com/aosoft/Xamarin.Forms.Unity) - Xamarin.Forms for Unity (Platform implementation for Unity Game Engine)
 
 ### Video
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
