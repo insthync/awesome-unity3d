@@ -300,6 +300,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) - This plugin provide a component to render particle effect for uGUI in Unity 2018.2+. The particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas
 * [ShinyEffectForUGUI](https://github.com/mob-sakai/ShinyEffectForUGUI) - Shiny effect of uGUI, which does not need mask or normal map
 * [FancyScrollView](https://github.com/setchi/FancyScrollView) - A scrollview component that can be implemented flexible flexible animation
+* [Juicy Healthbar](https://twitter.com/AntonPantev/status/1140063685655826432) - "I made the Juicy Health Bar from @reuno’s Unite LA talk. It’s pretty great!"
 
 ### Utilities
 * [LINQ to GameObject](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ
