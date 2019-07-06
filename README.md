@@ -20,6 +20,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Input](#input)
 - [Light](#light)
 - [Lua](#lua)
+- [Lua Utilities](#lua-utilities)
 - [Meshes](#meshes)
 - [Monetization](#monetization)
 - [Networking](#networking)
@@ -218,6 +219,9 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [xLua (Recommend)](https://github.com/Tencent/xLua) - xLua is a hot-fix solution plugin for Unity3D, it supports android, ios, windows, osx, etc.
 * [UniLua](https://github.com/xebecnan/UniLua) - A pure C# implementation of Lua 5.2 focus on compatibility with Unity3D.
 * [MoonSharp](https://github.com/xanathar/moonsharp/) - An interpreter for the Lua language, written entirely in C# for the .NET, Mono, Xamarin and Unity3D platforms, including handy remote debugger facilities
+
+### Lua Utilities
+* [LuaProfiler-For-Unity](https://github.com/ElPsyCongree/LuaProfiler-For-Unity) - LuaProfiler-For-Unity
 
 ### Meshes
 * [UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier) - Mesh simplification for Unity.
