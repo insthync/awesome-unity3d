@@ -15,6 +15,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [ECS](#ecs)
 - [Editor](#editor)
 - [Effect and Shaders](#effect-and-shaders)
+- [Environment](#environment)
 - [Framework](#framework)
 - [Gameplay](#gameplay)
 - [Input](#input)
@@ -33,6 +34,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Sounds](#sounds)
 - [Timeline](#timeline)
 - [Tweening](#tweening)
+- [Vehicle](#vehicle)
 - [UI](#ui)
 - [Utilities](#utilities)
 - [Video](#video)
@@ -189,6 +191,10 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Outlined-Diffuse-Shader-Fixed](https://github.com/Shrimpey/Outlined-Diffuse-Shader-Fixed) - This is a fixed version of diffused outline shader from http://wiki.unity3d.com/index.php/Outlined_Diffuse_3
 * [unity-delaunay](https://github.com/OskarSigvardsson/unity-delaunay) - A Delaunay/Voronoi library for Unity, and a simple destruction effect
 
+### Environment
+* [roadbuilder](https://github.com/guotata1996/roadbuilder) - Easy-to-build realistic roads in Unity. Foundation of any simcity game
+* [hedera](https://github.com/radiatoryang/hedera)
+
 ### Framework
 * [Zenject](https://github.com/modesttree/Zenject) - Dependency Injection Framework for Unity3D
 * [Fungus](https://github.com/snozbot/fungus) - https://github.com/snozbot/fungus
@@ -198,10 +204,6 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [uFrame.Complete](https://github.com/uFrame/uFrame.Complete) - All in one repo, includes: Kernel, Designer, Architect, MVVM, ECS
 * [QFramework](https://github.com/liangxiegame/QFramework) - Your first K.I.S.S Unity 3D Framework
 * [ecsrx.unity](https://github.com/EcsRx/ecsrx.unity) - A simple framework for unity using the ECS paradigm but with unirx for fully reactive systems
-
-### Gameplay
-* [roadbuilder](https://github.com/guotata1996/roadbuilder) - Easy-to-build realistic roads in Unity. Foundation of any simcity game
-* [Tork](https://github.com/adrenak/Tork) - Vehicle system for Unity
 
 ### Input
 * [InputManager](https://github.com/daemon3000/InputManager) - Custom InputManager for Unity
@@ -313,6 +315,9 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [GoKit](https://github.com/prime31/GoKit) - Lightweight tween library for Unity
 * [Uween](https://github.com/beinteractive/Uween) - Lightweight tween library for Unity
 * [ZestKit](https://github.com/prime31/ZestKit) - Tween library for Unity. The best of GoKit and GoKitLite combined in an easy to use API
+
+### Vehicle
+* [Tork](https://github.com/adrenak/Tork) - Vehicle system for Unity
 
 ### UI
 * [FairyGUI-unity](https://github.com/fairygui/FairyGUI-unity) - A flexible UI framework for Unity
