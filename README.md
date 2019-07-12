@@ -340,6 +340,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [FancyScrollView](https://github.com/setchi/FancyScrollView) - A scrollview component that can be implemented flexible flexible animation
 * [Juicy Healthbar](https://twitter.com/AntonPantev/status/1140063685655826432) - "I made the Juicy Health Bar from @reuno’s Unite LA talk. It’s pretty great!"
 * [UIWidgets](https://github.com/UnityTech/UIWidgets) - UIWidget is a Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps.
+* [PageTurningUIEffect](https://github.com/lobeyjon/PageTurningUIEffect) - A page turning UI effect made with unity, the paper deformation is determined by the pins' position on it
 
 ### Utilities
 * [LINQ to GameObject](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ
