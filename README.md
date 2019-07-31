@@ -11,6 +11,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Character Controllers 2D](#character-controllers-2d)
 - [Character Controllers 3D](#character-controllers-3d)
 - [Controller Mappings](#controller-mappings)
+- [Console](#console)
 - [Database](#database)
 - [ECS](#ecs)
 - [Editor](#editor)
@@ -116,6 +117,10 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Xbox 360](http://wiki.unity3d.com/index.php?title=Xbox360Controller)
 * [Xbox One](https://answers.unity.com/questions/1350081/xbox-one-controller-mapping-solved.html)
 
+### Console
+* [Unity3d-BeastConsole](https://github.com/pointcache/Unity3d-BeastConsole) - Console for all your unity needs
+* [consolation](https://github.com/mminer/consolation) - In-game debug console for Unity.
+
 ### Database
 * [SQLite4Unity3d](https://github.com/codecoding/SQLite4Unity3d) - SQLite made easy for Unity3d
 
@@ -139,7 +144,6 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [unity-symlink-utility](https://github.com/karl-/unity-symlink-utility) - A small extension that adds a menu item to add folders as symlinks in Unity
 * [giles](https://github.com/procore3d/giles) - GILES: A Runtime Level Editor for Unity3D
 * [UnityDefineManager](https://github.com/karl-/UnityDefineManager) - Easily manage global defines in Unity
-* [consolation](https://github.com/mminer/consolation) - In-game debug console for Unity.
 * [HexTiles](https://github.com/RoryDungan/HexTiles) - Unity Hex Tile Editor
 * [Texture3DPreview-for-Unity](https://github.com/raphael-ernaelsten/Texture3DPreview-for-Unity) - This package enables interactive previews of Texture3D assets in Unity's Inspector window.
 * [unity-colourlovers-importer](https://github.com/shelleylowe/unity-colourlovers-importer) - Unity editor tool to load colours and palettes directly from COLOURlovers.com
