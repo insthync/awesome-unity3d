@@ -350,6 +350,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [PageTurningUIEffect](https://github.com/lobeyjon/PageTurningUIEffect) - A page turning UI effect made with unity, the paper deformation is determined by the pins' position on it
 * [Unity-WinForms](https://github.com/Meragon/Unity-WinForms) - Windows Forms wrapper for Unity
 * [Delight](https://github.com/delight-dev/Delight) - Component-oriented UI framework for Unity https://delight-dev.github.io/
+* [CharTweener](https://github.com/mdechatech/CharTweener) - Unity3D - DOTween extensions for tweening TextMeshPro characters
 
 ### Utilities
 * [LINQ to GameObject](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ
