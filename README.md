@@ -414,6 +414,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Xamarin.Forms.Unity](https://github.com/aosoft/Xamarin.Forms.Unity) - Xamarin.Forms for Unity (Platform implementation for Unity Game Engine)
 * [WhatUsesThis](https://github.com/Facepunch/WhatUsesThis) - Right click an asset and get a list of assets that use it
 * [UnityTimer](https://github.com/akbiggs/UnityTimer) - Powerful and convenient library for running actions after a delay in Unity3D
+* [PixelSpriteGenerator-Unity](https://github.com/Shogan/PixelSpriteGenerator-Unity) - A port of the PixelSpriteGenerator to C# for use with the Unity3D game engine
+
 
 ### Video
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
