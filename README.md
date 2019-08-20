@@ -197,6 +197,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [UltimateOutline](https://github.com/Shrimpey/UltimateOutline) - The easiest way to achieve outlines in unity.
 * [Outlined-Diffuse-Shader-Fixed](https://github.com/Shrimpey/Outlined-Diffuse-Shader-Fixed) - This is a fixed version of diffused outline shader from http://wiki.unity3d.com/index.php/Outlined_Diffuse_3
 * [unity-delaunay](https://github.com/OskarSigvardsson/unity-delaunay) - A Delaunay/Voronoi library for Unity, and a simple destruction effect
+* [BNAO](https://github.com/Fewes/BNAO) - A tiny, GPU-based Bent Normal and Ambient Occlusion baker for Unity.
 
 ### Environment
 * [roadbuilder](https://github.com/guotata1996/roadbuilder) - Easy-to-build realistic roads in Unity. Foundation of any simcity game
