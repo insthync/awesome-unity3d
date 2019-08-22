@@ -98,6 +98,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Unity Pixel Camera](https://github.com/ChemiKhazi/UnityPixelCamera) - A resolution independent pixel perfect camera for Unity
 * [DeadSimple Pixel-Perfect Camera](https://github.com/cmilr/DeadSimple-Pixel-Perfect-Camera) - An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scenes in Unity. Punch in a few specs and you've got a working pixel perfect camera. It's that easy.
 * [Dynamic Multi Target Camera for Unity](https://github.com/lopespm/unity-camera-multi-target) - Concise Unity library which dynamically keeps a set of objects (e.g. players and important objects) in view.
+* [FulldomeCameraForUnity](https://github.com/rsodre/FulldomeCameraForUnity) - Fulldome Camera for Unity 2019
 
 ### Character Controllers 2D
 * [Unity 2D Platformer Controller](https://github.com/cjddmut/Unity-2D-Platformer-Controller) - A customizable 2D platformer motor that handles mechanics such as double jumps, wall jumps, and corner grabs. Includes a player controlled prefab that can be dropped into any scene for immediate support.
