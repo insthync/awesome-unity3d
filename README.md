@@ -18,7 +18,6 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Effect and Shaders](#effect-and-shaders)
 - [Environment](#environment)
 - [Framework](#framework)
-- [Gameplay](#gameplay)
 - [Input](#input)
 - [Light](#light)
 - [Lua](#lua)
@@ -199,6 +198,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Outlined-Diffuse-Shader-Fixed](https://github.com/Shrimpey/Outlined-Diffuse-Shader-Fixed) - This is a fixed version of diffused outline shader from http://wiki.unity3d.com/index.php/Outlined_Diffuse_3
 * [unity-delaunay](https://github.com/OskarSigvardsson/unity-delaunay) - A Delaunay/Voronoi library for Unity, and a simple destruction effect
 * [BNAO](https://github.com/Fewes/BNAO) - A tiny, GPU-based Bent Normal and Ambient Occlusion baker for Unity.
+* [ezy-slice](https://github.com/DavidArayan/ezy-slice) - An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
 
 ### Environment
 * [roadbuilder](https://github.com/guotata1996/roadbuilder) - Easy-to-build realistic roads in Unity. Foundation of any simcity game
