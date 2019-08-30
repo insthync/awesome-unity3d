@@ -417,6 +417,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [WhatUsesThis](https://github.com/Facepunch/WhatUsesThis) - Right click an asset and get a list of assets that use it
 * [UnityTimer](https://github.com/akbiggs/UnityTimer) - Powerful and convenient library for running actions after a delay in Unity3D
 * [PixelSpriteGenerator-Unity](https://github.com/Shogan/PixelSpriteGenerator-Unity) - A port of the PixelSpriteGenerator to C# for use with the Unity3D game engine
+* [WeightedRandomSelector](https://github.com/viliwonka/WeightedRandomSelector) - Very fast C# class for weighted random picking.
 
 
 ### Video
