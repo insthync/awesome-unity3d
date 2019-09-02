@@ -199,6 +199,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [unity-delaunay](https://github.com/OskarSigvardsson/unity-delaunay) - A Delaunay/Voronoi library for Unity, and a simple destruction effect
 * [BNAO](https://github.com/Fewes/BNAO) - A tiny, GPU-based Bent Normal and Ambient Occlusion baker for Unity.
 * [ezy-slice](https://github.com/DavidArayan/ezy-slice) - An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
+* [UnityPCSS](https://github.com/TheMasonX/UnityPCSS) - Nvidia's PCSS soft shadow algorithm implemented in Unity
 
 ### Environment
 * [roadbuilder](https://github.com/guotata1996/roadbuilder) - Easy-to-build realistic roads in Unity. Foundation of any simcity game
