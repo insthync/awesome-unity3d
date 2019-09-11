@@ -158,6 +158,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [floorplan](https://github.com/alexismorin/floorplan) - A Sims-Like Unity Level Design Plugin
 * [Readme](https://github.com/TinyPhoenix/Readme) - Readme component for Unity, attachable to any GameObject to document what you can't in a script or the file system
 * [Unity-AssetDependencyGraph](https://github.com/Unity-Harry/Unity-AssetDependencyGraph) - An Asset Dependency Graph for Unity
+* [MyBox](https://github.com/Deadcows/MyBox) - MyBox is a set of attributes, tools and extensions for Unity 
 
 ### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
