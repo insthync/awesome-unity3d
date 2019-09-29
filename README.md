@@ -18,6 +18,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Effect and Shaders](#effect-and-shaders)
 - [Environment](#environment)
 - [Framework](#framework)
+- [Gameplay](#gameplay)
 - [Input](#input)
 - [Light](#light)
 - [Lua](#lua)
@@ -217,6 +218,11 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [uFrame.Complete](https://github.com/uFrame/uFrame.Complete) - All in one repo, includes: Kernel, Designer, Architect, MVVM, ECS
 * [QFramework](https://github.com/liangxiegame/QFramework) - Your first K.I.S.S Unity 3D Framework
 * [ecsrx.unity](https://github.com/EcsRx/ecsrx.unity) - A simple framework for unity using the ECS paradigm but with unirx for fully reactive systems
+* [GameFramework](https://github.com/FlipWebApps/GameFramework) - A free framework for Unity that will help drastically increase the development speed and feature set of your games.
+
+### Gameplay
+* [UnityArcRayCast](https://github.com/williamrjackson/UnityArcRayCast) - Arc raycast utility using projectile formulas
+* [UnityGameplayAbilitySystem](https://github.com/sjai013/UnityGameplayAbilitySystem) - A unified framework for implementing ability systems in Unity
 
 ### Input
 * [InputManager](https://github.com/daemon3000/InputManager) - Custom InputManager for Unity
@@ -421,7 +427,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [UnityTimer](https://github.com/akbiggs/UnityTimer) - Powerful and convenient library for running actions after a delay in Unity3D
 * [PixelSpriteGenerator-Unity](https://github.com/Shogan/PixelSpriteGenerator-Unity) - A port of the PixelSpriteGenerator to C# for use with the Unity3D game engine
 * [WeightedRandomSelector](https://github.com/viliwonka/WeightedRandomSelector) - Very fast C# class for weighted random picking.
-
+* [SmartAssembler](https://github.com/Electronic-Brain/SmartAssembler) - Smartly Assembly your Project
 
 ### Video
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
