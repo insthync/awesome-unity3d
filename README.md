@@ -223,6 +223,9 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 ### Gameplay
 * [UnityArcRayCast](https://github.com/williamrjackson/UnityArcRayCast) - Arc raycast utility using projectile formulas
 * [UnityGameplayAbilitySystem](https://github.com/sjai013/UnityGameplayAbilitySystem) - A unified framework for implementing ability systems in Unity
+* [Inventory-Pro](https://github.com/devdogio/Inventory-Pro) - The best-selling Inventory System for Unity - now free and open-source!
+* [Quest-System-Pro](https://github.com/devdogio/Quest-System-Pro) - The powerful Quest and Conversation Tree System for Unity - now free and open-source!
+* [lospro](https://github.com/devdogio/lospro) - The Lightweigt Line-of-Sight & Hearing System for Unity - now free and open-source!
 
 ### Input
 * [InputManager](https://github.com/daemon3000/InputManager) - Custom InputManager for Unity
@@ -365,6 +368,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Delight](https://github.com/delight-dev/Delight) - Component-oriented UI framework for Unity https://delight-dev.github.io/
 * [CharTweener](https://github.com/mdechatech/CharTweener) - Unity3D - DOTween extensions for tweening TextMeshPro characters
 * [UnityRecyclingListView](https://github.com/sinbad/UnityRecyclingListView) - A fast scrolling list component for Unity UI which recycles its child elements
+* [sci-fi-ui](https://github.com/devdogio/sci-fi-ui) - The uGUI Sci-Fi UI Design for Unity - now free and open-source!
 
 ### Utilities
 * [LINQ to GameObject](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ
