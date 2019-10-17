@@ -268,6 +268,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Forge Networking Remastered](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) - In short, Forge Networking is a free and open source multiplayer game (multi-user) networking system that has a very good integration with the Unity game engine. You wanna make a multiplayer game or real time multi-user application? This is the library for you.
 * [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Another fucking c# Steamworks implementation
 * [MagicOnion](https://github.com/neuecc/MagicOnion) - gRPC based HTTP/2 RPC Streaming Framework for .NET, .NET Core and Unity.
+* [lidgren-network-gen3](https://github.com/lidgren/lidgren-network-gen3) - Lidgren.Network is a networking library for .NET framework, which uses a single UDP socket to deliver a simple API for connecting a client to a server, reading and sending messages.
 * [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP library for Mono and .NET
 * [LiteNetLibManager](https://github.com/insthync/LiteNetLibManager) - Higher level implementation for LiteNetLib
 * [UNet-Controller](https://github.com/GreenByteSoftware/UNet-Controller) - A CharacterController based controller for Unity's new Networking system
