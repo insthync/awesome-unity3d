@@ -438,6 +438,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [SmartAssembler](https://github.com/Electronic-Brain/SmartAssembler) - Smartly Assembly your Project
 * [ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture) - Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy
 * [GetComponentAttribute](https://github.com/m3rt32/GetComponentAttribute) - A simple DI plugin for getting MonoBehaviour components just with an attribute over fields.
+* [unity-utils](https://github.com/nubick/unity-utils) - Different help scripts for Unity engine.
 
 
 ### Video
