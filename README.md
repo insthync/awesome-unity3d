@@ -451,6 +451,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [MixedRealityToolkit-Unity](https://github.com/Microsoft/MixedRealityToolkit-Unity) - MixedRealityToolkit-Unity uses code from the base MixedRealityToolkit repository and makes it easier to consume in Unity.
 * [Google VR SDK for Unity](https://github.com/googlevr/gvr-unity-sdk) - Google VR SDK for Unity http://developers.google.com/vr/unity/
 * [TButt](https://github.com/turbobutton/tbutt-vr) - A lightweight multiplatform VR interface for Unity
+* [VRWorksAudio-Unity](https://github.com/Andy260/VRWorksAudio-Unity) - Unofficial implementation of NVIDIA's VRWorks - Audio for Unity3D
+* [Lightweight-VR](https://github.com/Spatial-Cinematics/Lightweight-VR) - An open sourced, light weight, VR input framework. This is basically an empty Unity project that's been setup for easy VR integration without having to pull down any packages. No need for Steam VR or OVR plugins.
 
 ## Assets
 
