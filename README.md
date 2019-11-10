@@ -54,9 +54,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 ## Open Source Repositories
 ### 2D
-* [UnityTiled](https://github.com/nickgravelyn/UnityTiled) - Editor tools for working with [Tiled](http://www.mapeditor.org) maps in Unity.
 * [Unity2D-Components](https://github.com/cmilr/Unity2D-Components) - A constantly evolving array of Unity C# components for 2D games, including classes for pixel art cameras, events & messaging, saving & loading game data, collision handlers, object pools, and more.
-* [2DTileMapLevelEditor](https://github.com/GracesGames/2DTileMapLevelEditor) - 2D Tile Map Level Editor for Unity
 * [DeadSimple-Pixel-Perfect-Camera](https://github.com/cmilr/DeadSimple-Pixel-Perfect-Camera) - An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scenes in Unity. Punch in a few specs and you've got a working pixel perfect camera. It's that easy
 * [StaticBluredScreen](https://github.com/mob-sakai/StaticBluredScreen) - Non-realtime (=static) screen blur for Unity. Easy to use background for dialogs
 * [AtlasImage](https://github.com/mob-sakai/AtlasImage) - AtlasImage is a graphic component use SpriteAtlas for uGUI. In addition, add useful sprite selector and border editor to the inspector
@@ -170,8 +168,6 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Temporal](https://github.com/playdeadgames/temporal) - Temporal Reprojection Anti-Aliasing for Unity 5.0+
 * [SMAA](https://github.com/Chman/SMAA) - A highly customizable implementation of Subpixel Morphological Antialiasing for Unity
 * [Typogenic](https://github.com/Chman/Typogenic) - Signed-distance field text rendering for Unity
-* [VolumetricLights](https://github.com/SlightlyMad/VolumetricLights) - Volumetric Lights for Unity
-* [VolumetricLightning](https://github.com/raphael-ernaelsten/Aura) - Volumetric Lighting for Unity
 * [AtmosphericScattering](https://github.com/SlightlyMad/AtmosphericScattering) - Atmospheric Scattering for Unity
 * [Facepunch.Highlight](https://github.com/Facepunch/Facepunch.Highlight) - Mesh outline effect
 * [crest-oceanrender](https://github.com/huwb/crest-oceanrender) - An advanced ocean system implemented in Unity3D
@@ -187,7 +183,6 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [SpriteGlow](https://github.com/Elringus/SpriteGlow) - A sprite glow effect for Unity game engine
 * [Mirror (Script)](https://github.com/nkjzm/Mirror) - A mirror script
 * [HoloShield](https://github.com/AdultLink/HoloShield) - Highly customizable sci-fi shield / force field shader for Unity3D. Allows you to set edge power & color, inner texture scrolling, waviness, scale pulsation and procedural intensity noise. Implements tessellation for low-poly base meshes.
-* [Rimlight](https://github.com/AdultLink/Rimlight) - Customizable rimlight shader for Unity that includes pulsation and noise scrolling. Give your scenes that extra oomph!
 * [VerticalDissolve](https://github.com/AdultLink/VerticalDissolve) - Procedural vertical dissolve shader. Highly customizable. Tweak edge color, noisiness & waviness, rim light, emission scrolling and more.
 * [SphereDissolve](https://github.com/AdultLink/SphereDissolve) - Customizable procedural spherical dissolve shader for Unity3D, for all your customizable procedural spherical dissolve needs!
 * [TexturePanner](https://github.com/AdultLink/TexturePanner) - This repository hosts a shader for Unity3D whose main goal is to facilitate the creation of neon-like signs, conveyor belts and basically whatever based on scrolling textures
@@ -234,7 +229,9 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [TouchScript (Recommend)](https://github.com/TouchScript/TouchScript) - Complete multitouch solution for Unity: Win8, TUIO, Mobile.
 
 ### Level Editor
+* [Tiled2Unity](https://github.com/Seanba/Tiled2Unity) - Export Tiled Map Editor (TMX) files into Unity
 * [UnityTile3D](https://github.com/NoelFB/UnityTile3D) - Simple 3D Tile Editor
+* [2DTileMapLevelEditor](https://github.com/GracesGames/2DTileMapLevelEditor) - 2D Tile Map Level Editor for Unity
 * [HexTiles](https://github.com/RoryDungan/HexTiles) - Unity Hex Tile Editor
 * [giles](https://github.com/procore3d/giles) - GILES: A Runtime Level Editor for Unity3D
 * [floorplan](https://github.com/alexismorin/floorplan) - A Sims-Like Unity Level Design Plugin
@@ -243,6 +240,8 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 ### Light
 * [Aura](https://github.com/raphael-ernaelsten/Aura) - Volumetric Lighting for Unity
 * [Simple Light Probe Placer](https://github.com/AlexanderVorobyov/simple-light-probe-placer) - it is simple tool for Unity3d and it help you easily place Light Probes in your scene
+* [VolumetricLights](https://github.com/SlightlyMad/VolumetricLights) - Volumetric Lights for Unity
+* [Rimlight](https://github.com/AdultLink/Rimlight) - Customizable rimlight shader for Unity that includes pulsation and noise scrolling. Give your scenes that extra oomph!
 
 ### Lua
 * [slua (Recommend)](https://github.com/pangweiwei/slua) - Fastest lua binding via static code generating for Unity3D and mono.
