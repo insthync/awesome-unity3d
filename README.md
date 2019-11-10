@@ -20,6 +20,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Framework](#framework)
 - [Gameplay](#gameplay)
 - [Input](#input)
+- [Level Editor](#level-editor)
 - [Light](#light)
 - [Lua](#lua)
 - [Lua Utilities](#lua-utilities)
@@ -146,18 +147,14 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Unity Psd Importer](https://github.com/ChemiKhazi/UnityPsdImporter) - Advanced PSD importer for Unity3D
 * [property-drawer-collection](https://github.com/anchan828/property-drawer-collection)
 * [unity-symlink-utility](https://github.com/karl-/unity-symlink-utility) - A small extension that adds a menu item to add folders as symlinks in Unity
-* [giles](https://github.com/procore3d/giles) - GILES: A Runtime Level Editor for Unity3D
 * [UnityDefineManager](https://github.com/karl-/UnityDefineManager) - Easily manage global defines in Unity
-* [HexTiles](https://github.com/RoryDungan/HexTiles) - Unity Hex Tile Editor
 * [Texture3DPreview-for-Unity](https://github.com/raphael-ernaelsten/Texture3DPreview-for-Unity) - This package enables interactive previews of Texture3D assets in Unity's Inspector window.
 * [unity-colourlovers-importer](https://github.com/shelleylowe/unity-colourlovers-importer) - Unity editor tool to load colours and palettes directly from COLOURlovers.com
-* [UnityTile3D](https://github.com/NoelFB/UnityTile3D) - Simple 3D Tile Editor
 * [shortcuter](https://github.com/intentor/shortcuter) - Shortcut utility for Unity
 * [unity-editor-spotlight](https://github.com/marijnz/unity-editor-spotlight) - MacOS-like Spotlight file search in Unity
 * [Unity-Reorderable-List](https://github.com/cfoulston/Unity-Reorderable-List) - Extended version of the Reorderable List in Unity
 * [UnityEditorJunkie](https://github.com/roboryantron/UnityEditorJunkie) - Editor scripts to make working with the Unity Editor better
 * [UniOmni](https://github.com/lochrist/UniOmni) - Global search for Unity
-* [floorplan](https://github.com/alexismorin/floorplan) - A Sims-Like Unity Level Design Plugin
 * [Readme](https://github.com/TinyPhoenix/Readme) - Readme component for Unity, attachable to any GameObject to document what you can't in a script or the file system
 * [Unity-AssetDependencyGraph](https://github.com/Unity-Harry/Unity-AssetDependencyGraph) - An Asset Dependency Graph for Unity
 * [MyBox](https://github.com/Deadcows/MyBox) - MyBox is a set of attributes, tools and extensions for Unity 
@@ -235,6 +232,13 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [InputBinder](https://github.com/RyanNielson/InputBinder) - Easily bind input events to methods in Unity.
 * [TouchKit](https://github.com/prime31/TouchKit) - Gestures and input handling made sane for Unity
 * [TouchScript (Recommend)](https://github.com/TouchScript/TouchScript) - Complete multitouch solution for Unity: Win8, TUIO, Mobile.
+
+### Level Editor
+* [UnityTile3D](https://github.com/NoelFB/UnityTile3D) - Simple 3D Tile Editor
+* [HexTiles](https://github.com/RoryDungan/HexTiles) - Unity Hex Tile Editor
+* [giles](https://github.com/procore3d/giles) - GILES: A Runtime Level Editor for Unity3D
+* [floorplan](https://github.com/alexismorin/floorplan) - A Sims-Like Unity Level Design Plugin
+* [realtime-CSG-for-unity](https://github.com/LogicalError/realtime-CSG-for-unity) - Realtime-CSG, CSG level editor for Unity 
 
 ### Light
 * [Aura](https://github.com/raphael-ernaelsten/Aura) - Volumetric Lighting for Unity
