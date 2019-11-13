@@ -119,6 +119,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 ### Console
 * [Unity3d-BeastConsole](https://github.com/pointcache/Unity3d-BeastConsole) - Console for all your unity needs
 * [consolation](https://github.com/mminer/consolation) - In-game debug console for Unity.
+* [Lunar Unity Mobile Console](https://github.com/SpaceMadness/lunar-unity-console) - High-performance Unity iOS/Android logger built with native platform UI 
 
 ### Database
 * [SQLite4Unity3d](https://github.com/codecoding/SQLite4Unity3d) - SQLite made easy for Unity3d
@@ -443,7 +444,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture) - Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy
 * [GetComponentAttribute](https://github.com/m3rt32/GetComponentAttribute) - A simple DI plugin for getting MonoBehaviour components just with an attribute over fields.
 * [unity-utils](https://github.com/nubick/unity-utils) - Different help scripts for Unity engine.
-
 
 ### Video
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
