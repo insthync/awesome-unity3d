@@ -222,6 +222,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Inventory-Pro](https://github.com/devdogio/Inventory-Pro) - The best-selling Inventory System for Unity - now free and open-source!
 * [Quest-System-Pro](https://github.com/devdogio/Quest-System-Pro) - The powerful Quest and Conversation Tree System for Unity - now free and open-source!
 * [lospro](https://github.com/devdogio/lospro) - The Lightweigt Line-of-Sight & Hearing System for Unity - now free and open-source!
+* [Inventory](https://github.com/FarrokhGames/Inventory) - A Diablo 2-style inventory system for Unity3D
 
 ### Input
 * [InputManager](https://github.com/daemon3000/InputManager) - Custom InputManager for Unity
