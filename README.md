@@ -446,6 +446,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture) - Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy
 * [GetComponentAttribute](https://github.com/m3rt32/GetComponentAttribute) - A simple DI plugin for getting MonoBehaviour components just with an attribute over fields.
 * [unity-utils](https://github.com/nubick/unity-utils) - Different help scripts for Unity engine.
+* [UnityDoorstop](https://github.com/NeighTools/UnityDoorstop) - Doorstop -- run C# before Unity does!
 
 ### Video
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
