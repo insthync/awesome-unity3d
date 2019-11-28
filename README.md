@@ -378,6 +378,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [CharTweener](https://github.com/mdechatech/CharTweener) - Unity3D - DOTween extensions for tweening TextMeshPro characters
 * [UnityRecyclingListView](https://github.com/sinbad/UnityRecyclingListView) - A fast scrolling list component for Unity UI which recycles its child elements
 * [sci-fi-ui](https://github.com/devdogio/sci-fi-ui) - The uGUI Sci-Fi UI Design for Unity - now free and open-source!
+* [LiquidSwipeUnity](https://github.com/FaizanDurrani/LiquidSwipeUnity) - Butter smooth full page swiping animation with a masked wave effect in Unity
 
 ### Utilities
 * [LINQ to GameObject](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ
