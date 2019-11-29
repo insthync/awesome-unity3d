@@ -296,6 +296,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [ET](https://github.com/egametang/ET) - Unity3D Client And C# Server Framework
 * [unity-fastpacedmultiplayer](https://github.com/JoaoBorks/unity-fastpacedmultiplayer) - Features a Networking Framework to be used on top of Unity Networking, in order to implement an Authoritative Server with Lag Compensation, Client-Side Prediction/Server Reconciliation and Entity Interpolation
 * [Entitas-Sync-Framework](https://github.com/RomanZhu/Entitas-Sync-Framework) - Networking framework for Entitas ECS. Targeted at turnbased games or other slow-paced genres
+* [RestClient](https://github.com/proyecto26/RestClient) - Simple HTTP and REST client for Unity based on Promises, also supports Callbacks! 
 
 ### Physic
 * [BulletSharpUnity3d](https://github.com/Phong13/BulletSharpUnity3d) - A fork of the BulletSharp project to make the Bullet Physics Engine usable from C# code in Unity3d
