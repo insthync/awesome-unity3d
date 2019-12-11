@@ -381,6 +381,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [UnityRecyclingListView](https://github.com/sinbad/UnityRecyclingListView) - A fast scrolling list component for Unity UI which recycles its child elements
 * [sci-fi-ui](https://github.com/devdogio/sci-fi-ui) - The uGUI Sci-Fi UI Design for Unity - now free and open-source!
 * [LiquidSwipeUnity](https://github.com/FaizanDurrani/LiquidSwipeUnity) - Butter smooth full page swiping animation with a masked wave effect in Unity
+* [Unity-UI-Rounded-Corners](https://github.com/Nobinator/Unity-UI-Rounded-Corners) - This components and shaders allows you to add rounded corners to UI element
 
 ### Utilities
 * [LINQ to GameObject](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ
