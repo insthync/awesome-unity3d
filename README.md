@@ -458,7 +458,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [unity-utils](https://github.com/nubick/unity-utils) - Different help scripts for Unity engine.
 * [UnityDoorstop](https://github.com/NeighTools/UnityDoorstop) - Doorstop -- run C# before Unity does!
 * [csharp-eval-unity3d](https://github.com/deniszykov/csharp-eval-unity3d) - C# Expression Parser for Unity3D
-
+* [unity-addressable-importer](https://github.com/favoyang/unity-addressable-importer) - A rule based addressable asset importer
 
 ### Video
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
