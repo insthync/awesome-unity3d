@@ -222,6 +222,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [ecsrx.unity](https://github.com/EcsRx/ecsrx.unity) - A simple framework for unity using the ECS paradigm but with unirx for fully reactive systems
 * [GameFramework](https://github.com/FlipWebApps/GameFramework) - A free framework for Unity that will help drastically increase the development speed and feature set of your games.
 * [gocs](https://github.com/lazlo-bonin/gocs) - GameObject Component System for Unity
+* [actors](https://github.com/PixeyeHQ/actors) - The Entity Component System framework for Unity. Ease the pain of decoupling data from behaviors
 
 ### Gameplay
 * [UnityArcRayCast](https://github.com/williamrjackson/UnityArcRayCast) - Arc raycast utility using projectile formulas
