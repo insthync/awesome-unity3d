@@ -142,6 +142,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview.
 * [Hydrogen.Entities](https://github.com/periodyctom/Hydrogen.Entities) - A collection of helpers for work with Unity's ECS framework, used in our games.
 * [Unity-2D-Pathfinding-Grid-ECS-Job](https://github.com/Omniaffix-Dave/Unity-2D-Pathfinding-Grid-ECS-Job) - ECS Burst Job System 2D Pathfinding
+* [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview
 
 ### Editor
 * [Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet) - Unity-QuickSheet enables you to use spreadsheet file data within Unity editor.
