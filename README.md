@@ -165,6 +165,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Readme](https://github.com/TinyPhoenix/Readme) - Readme component for Unity, attachable to any GameObject to document what you can't in a script or the file system
 * [Unity-AssetDependencyGraph](https://github.com/Unity-Harry/Unity-AssetDependencyGraph) - An Asset Dependency Graph for Unity
 * [MyBox](https://github.com/Deadcows/MyBox) - MyBox is a set of attributes, tools and extensions for Unity 
+* [Unity-Finder](https://github.com/litefeel/Unity-Finder) - Find Asset in Unity.
 
 ### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
@@ -317,6 +318,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [google-analytics-plugin-for-unity](https://github.com/googleanalytics/google-analytics-plugin-for-unity) - Google Analytics plugin for the Unity game creation system
 * [unity-native-sharing](https://github.com/ChrisMaire/unity-native-sharing) - A Unity plugin to open native sharing dialogs on iOS and Android, primarily for sharing screenshots.
 * [Unity3D Android notification plugin](https://github.com/Agasper/unity-android-notifications) - Unity3D Plugin for Android local notifications with example project
+* [PuppeteerSharp.Unity3D](https://github.com/uta-org/PuppeteerSharp.Unity3D) - Puppeteer Sharp is a .NET port of the official
 
 ### Procedural Generation Systems
 * [DungeonGenerator](https://github.com/jongallant/DungeonGenerator) - A dungeon generator for Unity
