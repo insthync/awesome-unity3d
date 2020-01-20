@@ -14,7 +14,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Controller Mappings](#controller-mappings)
 - [Console](#console)
 - [Database](#database)
-- [ECS](#ecs)
+- [DOTS](#dots)
 - [Editor](#editor)
 - [Effect and Shaders](#effect-and-shaders)
 - [Environment](#environment)
@@ -66,6 +66,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 ### 2D Bones / IK
 * [DragonBonesCSharp](https://github.com/DragonBones/DragonBonesCSharp) - DragonBones C# Runtime
 * [Spine Runtimes](https://github.com/EsotericSoftware/spine-runtimes) - Collection of Spine runtimes including with Unity3d version.
+* [UnityVoxelTools](https://github.com/meniku/UnityVoxelTools) - Collection of Voxel Utilities for Unity
 
 ### 3D Bones / IK
 * [EZSoftBone](https://github.com/EZhex1991/EZSoftBone) - A simple kinetic simulator for Unity, you can use it to simulate hair/tail/breast/skirt and other soft objects
@@ -131,7 +132,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 ### Database
 * [SQLite4Unity3d](https://github.com/codecoding/SQLite4Unity3d) - SQLite made easy for Unity3d
 
-### ECS
+### DOTS
 * [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
 * [ECS-Tween](https://github.com/Xerios/ECS-Tween) - Simple Unity tweening system using ECS that works with GameObjects!
 * [PlasticTween](https://github.com/PlasticApps/PlasticTween) - Tween Library for Unity3D(ECS+JOBS)
@@ -143,6 +144,8 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Hydrogen.Entities](https://github.com/periodyctom/Hydrogen.Entities) - A collection of helpers for work with Unity's ECS framework, used in our games.
 * [Unity-2D-Pathfinding-Grid-ECS-Job](https://github.com/Omniaffix-Dave/Unity-2D-Pathfinding-Grid-ECS-Job) - ECS Burst Job System 2D Pathfinding
 * [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview
+* [Easy-Road-3D-ECS-Traffic](https://github.com/Blissgig/Easy-Road-3D-ECS-Traffic) - Unity DOTS/ECS traffic using Easy Roads 3D for the data
+
 
 ### Editor
 * [Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet) - Unity-QuickSheet enables you to use spreadsheet file data within Unity editor.
@@ -166,6 +169,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Unity-AssetDependencyGraph](https://github.com/Unity-Harry/Unity-AssetDependencyGraph) - An Asset Dependency Graph for Unity
 * [MyBox](https://github.com/Deadcows/MyBox) - MyBox is a set of attributes, tools and extensions for Unity 
 * [Unity-Finder](https://github.com/litefeel/Unity-Finder) - Find Asset in Unity.
+* [Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox) - Tools, custom attributes, drawers and extensions for Unity Editor.
 
 ### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
@@ -226,6 +230,10 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [GameFramework](https://github.com/FlipWebApps/GameFramework) - A free framework for Unity that will help drastically increase the development speed and feature set of your games.
 * [gocs](https://github.com/lazlo-bonin/gocs) - GameObject Component System for Unity
 * [actors](https://github.com/PixeyeHQ/actors) - The Entity Component System framework for Unity. Ease the pain of decoupling data from behaviors
+* [ecs](https://github.com/chromealex/ecs) - ECS for Unity with full game state automatic rollbacks
+* [Scriptable-Framework](https://github.com/pablothedolphin/Scriptable-Framework) - A Unity Framework for modular app creation based on ScriptableObject architecture, data oriented design and event driven programming to help programmers and designers adhere to the 5 SOLID programming principals.
+* [CatLib](https://github.com/CatLib/CatLib) - CatLib lightweight dependency injection container
+* [Zinnia.Unity](https://github.com/ExtendRealityLtd/Zinnia.Unity) - A collection of design patterns for solving common problems. 
 
 ### Gameplay
 * [UnityArcRayCast](https://github.com/williamrjackson/UnityArcRayCast) - Arc raycast utility using projectile formulas
@@ -469,6 +477,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [AtreeboosterDI](https://github.com/kubpica/AtreeboosterDI) - The Hierarchy-based Dependency Injection tool for Unity game engine. Intuitivly manage dependencies of your MonoBehaviours with simple but powerfull [Attributes]
 * [meshpreview](https://github.com/AscendingMan/meshpreview)
 * [Baum2](https://github.com/kyubuns/Baum2) - Psd to Unity UI(uGUI)
+* [UnityRuntimeInspector](https://github.com/yasirkula/UnityRuntimeInspector) - Runtime Inspector and Hierarchy solution for Unity for debugging and runtime editing purposes
 
 ### Video
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
