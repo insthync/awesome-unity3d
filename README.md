@@ -32,6 +32,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Plugins](#plugins)
 - [Procedural Generation Systems](#procedural-generation-systems)
 - [Pooling System](#pooling-system)
+- [Scriptable Object](#scriptable-object)
 - [Scriptings](#scriptings)
 - [Services](#services)
 - [Sounds](#sounds)
@@ -231,10 +232,9 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [gocs](https://github.com/lazlo-bonin/gocs) - GameObject Component System for Unity
 * [actors](https://github.com/PixeyeHQ/actors) - The Entity Component System framework for Unity. Ease the pain of decoupling data from behaviors
 * [ecs](https://github.com/chromealex/ecs) - ECS for Unity with full game state automatic rollbacks
-* [Scriptable-Framework](https://github.com/pablothedolphin/Scriptable-Framework) - A Unity Framework for modular app creation based on ScriptableObject architecture, data oriented design and event driven programming to help programmers and designers adhere to the 5 SOLID programming principals.
+
 * [CatLib](https://github.com/CatLib/CatLib) - CatLib lightweight dependency injection container
-* [Zinnia.Unity](https://github.com/ExtendRealityLtd/Zinnia.Unity) - A collection of design patterns for solving common problems. 
-* [unity-atoms](https://github.com/AdamRamberg/unity-atoms) - Tiny modular pieces utilizing the power of Scriptable Objects
+* [Zinnia.Unity](https://github.com/ExtendRealityLtd/Zinnia.Unity) - A collection of design patterns for solving common problems.
 
 ### Gameplay
 * [UnityArcRayCast](https://github.com/williamrjackson/UnityArcRayCast) - Arc raycast utility using projectile formulas
@@ -348,6 +348,13 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [protobuf-net](https://github.com/mgravell/protobuf-net) - Protocol Buffers library for idiomatic .NET
 * [protobuf-unity](https://github.com/5argon/protobuf-unity) - Automatic .proto files compilation in Unity project to C# as you edit them
 
+### Scriptable Object
+* [unity-atoms](https://github.com/AdamRamberg/unity-atoms) - Tiny modular pieces utilizing the power of Scriptable Objects
+* [Scriptable-Framework](https://github.com/pablothedolphin/Scriptable-Framework) - A Unity Framework for modular app creation based on ScriptableObject architecture, data oriented design and event driven programming to help programmers and designers adhere to the 5 SOLID programming principals.
+* [yaSingleton](https://github.com/jedybg/yaSingleton) - A singleton pattern implementation for Unity3d. Based on ScriptableObjects instead of the conventional MonoBehaviour approach.
+* [SOFlow](https://github.com/BLUDRAG/SOFlow) - A ScriptableObject oriented design SDK.
+* [ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture) - Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy
+
 ### Scriptings
 * [UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) - Unity Scripting in C++
 * [unity-python](https://github.com/exodrifter/unity-python) - Python plugin for Unity3D
@@ -426,7 +433,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [E7Unity](https://github.com/5argon/E7Unity) - Common Unity resources
 * [mmd-for-unity](https://github.com/mmd-for-unity-proj/mmd-for-unity) - MikuMikuDance for Unity
 * [Unity.Library.eppz](https://github.com/eppz/Unity.Library.eppz) - Collection of libraries for Unity
-* [yaSingleton](https://github.com/jedybg/yaSingleton) - A singleton pattern implementation for Unity3d. Based on ScriptableObjects instead of the conventional MonoBehaviour approach.
 * [Alchemy-Circles-Generator](https://github.com/CiaccoDavide/Alchemy-Circles-Generator) - A simple procedural generator of alchemy circles
 * [odin-serializer](https://github.com/TeamSirenix/odin-serializer) - Fast, robust, powerful and extendible .NET serializer built for Unity
 * [UnityAsyncRoutines](https://github.com/TorVestergaard/UnityAsyncRoutines) - An extremely lightweight Unity library for creating and managing asynchronous coroutines for easy, straight-forward multi-threading and parallellism
@@ -469,7 +475,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [PixelSpriteGenerator-Unity](https://github.com/Shogan/PixelSpriteGenerator-Unity) - A port of the PixelSpriteGenerator to C# for use with the Unity3D game engine
 * [WeightedRandomSelector](https://github.com/viliwonka/WeightedRandomSelector) - Very fast C# class for weighted random picking.
 * [SmartAssembler](https://github.com/Electronic-Brain/SmartAssembler) - Smartly Assembly your Project
-* [ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture) - Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy
 * [GetComponentAttribute](https://github.com/m3rt32/GetComponentAttribute) - A simple DI plugin for getting MonoBehaviour components just with an attribute over fields.
 * [unity-utils](https://github.com/nubick/unity-utils) - Different help scripts for Unity engine.
 * [UnityDoorstop](https://github.com/NeighTools/UnityDoorstop) - Doorstop -- run C# before Unity does!
