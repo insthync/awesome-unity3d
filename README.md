@@ -265,6 +265,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Simple Light Probe Placer](https://github.com/AlexanderVorobyov/simple-light-probe-placer) - it is simple tool for Unity3d and it help you easily place Light Probes in your scene
 * [VolumetricLights](https://github.com/SlightlyMad/VolumetricLights) - Volumetric Lights for Unity
 * [Rimlight](https://github.com/AdultLink/Rimlight) - Customizable rimlight shader for Unity that includes pulsation and noise scrolling. Give your scenes that extra oomph!
+* [unity-volumetric-fog](https://github.com/SiiMeR/unity-volumetric-fog) - A volumetric fog implementation in Unity.
 
 ### Lua
 * [slua (Recommend)](https://github.com/pangweiwei/slua) - Fastest lua binding via static code generating for Unity3D and mono.
