@@ -214,6 +214,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [UnityPCSS](https://github.com/TheMasonX/UnityPCSS) - Nvidia's PCSS soft shadow algorithm implemented in Unity
 * [Ceto](https://github.com/Scrawk/Ceto) - Ceto: Ocean system for Unity
 * [JourneySand](https://github.com/AtwoodDeng/JourneySand) - An Unity project to reproduce the sand rendering in Journey's style
+* [OBNI3D](https://github.com/alexbourgeois/OBNI3D) - Graphical pipeline allowing mesh deformation through shader and 3D noise volume
 
 ### Environment
 * [roadbuilder](https://github.com/guotata1996/roadbuilder) - Easy-to-build realistic roads in Unity. Foundation of any simcity game
