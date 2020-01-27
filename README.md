@@ -339,6 +339,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [unity-procedural-flower](https://github.com/mattatz/unity-procedural-flower) - Procedural flower generator for Unity.
 * [ProceduralToolkit](https://github.com/Syomus/ProceduralToolkit) - Procedural generation library for Unity
 * [wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse/) - Walk through an infinite, procedurally generated city
+* [ProceduralLevelGenerator-Unity](https://github.com/OndrejNepozitek/ProceduralLevelGenerator-Unity) - Unity plugin from procedural dungeon generation
 
 ### Pooling System
 * [Unity-QuickPool](https://github.com/densylkin/QuickPool) - Simple pooling toolkit for Unity game engine
