@@ -418,7 +418,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [LiquidSwipeUnity](https://github.com/FaizanDurrani/LiquidSwipeUnity) - Butter smooth full page swiping animation with a masked wave effect in Unity
 * [Unity-UI-Rounded-Corners](https://github.com/Nobinator/Unity-UI-Rounded-Corners) - This components and shaders allows you to add rounded corners to UI element
 * [RapidGUI](https://github.com/fuqunaga/RapidGUI) - Unity OnGUI(IMGUI) extensions for Rapid prototyping/development
-
+* [ugui-mvvm](https://github.com/jbruening/ugui-mvvm) - Unity3D uGUI mvvm databinding via the standard IXChanged interfaces used in wpf (INotifyPropertyChanged, INotifyCollectionChanged, etc)
 
 ### Utilities
 * [LINQ to GameObject](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ
