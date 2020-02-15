@@ -246,6 +246,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Quest-System-Pro](https://github.com/devdogio/Quest-System-Pro) - The powerful Quest and Conversation Tree System for Unity - now free and open-source!
 * [lospro](https://github.com/devdogio/lospro) - The Lightweigt Line-of-Sight & Hearing System for Unity - now free and open-source!
 * [Inventory](https://github.com/FarrokhGames/Inventory) - A Diablo 2-style inventory system for Unity3D
+* [RPGCore](https://github.com/Fydar/RPGCore) - RPGCore is a toolkit for producing RPG games and mechanics for Unity
 
 ### Input
 * [InputManager](https://github.com/daemon3000/InputManager) - Custom InputManager for Unity
@@ -375,6 +376,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Unity-Beat-Detection](https://github.com/allanpichardo/Unity-Beat-Detection) - Musical beat detection and audio spectrum analysis for use with the Unity game engine.
 * [LibNoise.Unity](https://github.com/ricardojmendez/LibNoise.Unity) - Coherent noise library for Unity, a port of LibNoise
 * [Reaktion](https://github.com/keijiro/Reaktion) - Audio reactive animation toolkit for Unity
+* [MusicEngine](https://github.com/geekdrums/MusicEngine) - make music synced game with Unity / ADX2 / Wwise
 
 ### Timeline
 * [SpineTimeline](https://github.com/5argon/SpineTimeline) - Animate SkeletonAnimation or SkeletonGraphic with Unity's Timeline
