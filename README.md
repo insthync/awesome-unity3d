@@ -493,6 +493,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Baum2](https://github.com/kyubuns/Baum2) - Psd to Unity UI(uGUI)
 * [UnityRuntimeInspector](https://github.com/yasirkula/UnityRuntimeInspector) - Runtime Inspector and Hierarchy solution for Unity for debugging and runtime editing purposes
 * [UnityNativeGallery](https://github.com/yasirkula/UnityNativeGallery) - A native Unity plugin to interact with Gallery/Photos on Android & iOS (save and/or load images/videos)
+* [ThreeDPoseUnityBarracuda](https://github.com/digital-standard/ThreeDPoseUnityBarracuda) - Unity sample of 3D pose estimation using Barracuda
+
 
 ### Video
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
