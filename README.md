@@ -264,6 +264,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [floorplan](https://github.com/alexismorin/floorplan) - A Sims-Like Unity Level Design Plugin
 * [realtime-CSG-for-unity](https://github.com/LogicalError/realtime-CSG-for-unity) - Realtime-CSG, CSG level editor for Unity 
 * [RoadArchitect](https://github.com/MicroGSD/RoadArchitect) - Road Architect for Unity
+* [PrefabPainter](https://github.com/AlexanderAmeye/PrefabPainter) - A basic prefab painter for the Unity3D game engine
 
 ### Light
 * [Aura](https://github.com/raphael-ernaelsten/Aura) - Volumetric Lighting for Unity
@@ -366,6 +367,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) - Unity Scripting in C++
 * [unity-python](https://github.com/exodrifter/unity-python) - Python plugin for Unity3D
 * [YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - Yarn Spinner is a tool for building interactive dialogue in games! 
+* [UniScript](https://github.com/pjc0247/UniScript) - Brings C# scripting into Unity which acts as native code.
 
 ### Services
 * [Google Play Games plugin for Unity](https://github.com/playgameservices/play-games-plugin-for-unity) - Google Play Games plugin for Unity
