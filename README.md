@@ -347,10 +347,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [ProceduralLevelGenerator-Unity](https://github.com/OndrejNepozitek/ProceduralLevelGenerator-Unity) - Unity plugin from procedural dungeon generation
 
 ### Pooling System
-* [Unity-QuickPool](https://github.com/densylkin/QuickPool) - Simple pooling toolkit for Unity game engine
-* [RecyclerKit](https://github.com/prime31/RecyclerKit) - Object pool manager for Unity
-* [ObjectPool](https://github.com/UnityPatterns/ObjectPool) - Instead of creating and destroying new objects all the time, this script reduces garbage by pooling instances, allowing you to seemingly create hundreds of new objects while only actually using a recycled few.
-* [unity-object-pool](https://github.com/thefuntastic/unity-object-pool) - An elegant object pool and manager implementation for Unity
 * [kPooling](https://github.com/Kink3d/kPooling) - Customizable Object Pooling for Unity
 * [Replicator](https://github.com/ettmetal/Replicator) - Whooshy GameObject pooling / reuse for Unity
 * [Eflatun.Pooling](https://github.com/starikcetin/Eflatun.Pooling) - Object pooling utilities for Unity
