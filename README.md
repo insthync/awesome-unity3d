@@ -503,6 +503,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 ### Video
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
+* [LibVLCSharp](https://github.com/videolan/LibVLCSharp) - LibVLCSharp is a cross-platform audio and video API for .NET platforms based on VideoLAN's LibVLC Library.
 
 ### VR
 * [VRTK](https://github.com/thestonefox/VRTK) - A productive VR Toolkit for rapidly building VR solutions in Unity3d.
