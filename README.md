@@ -240,6 +240,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Zinnia.Unity](https://github.com/ExtendRealityLtd/Zinnia.Unity) - A collection of design patterns for solving common problems.
 * [Morpeh](https://github.com/X-Crew/Morpeh) - Fast and Simple ECS Framework for Unity3d
 * [Red](https://github.com/X-Crew/Red) - Reactive Toolchain for Unity
+* [NanoECS](https://github.com/SinyavtsevIlya/NanoECS) - c#-Unity ECS framework
 
 ### Gameplay
 * [UnityArcRayCast](https://github.com/williamrjackson/UnityArcRayCast) - Arc raycast utility using projectile formulas
