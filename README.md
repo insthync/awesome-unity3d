@@ -173,6 +173,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [MyBox](https://github.com/Deadcows/MyBox) - MyBox is a set of attributes, tools and extensions for Unity 
 * [Unity-Finder](https://github.com/litefeel/Unity-Finder) - Find Asset in Unity.
 * [Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox) - Tools, custom attributes, drawers and extensions for Unity Editor.
+* [enhancer](https://github.com/xeleh/enhancer) - A collection of utilities to enhance the Unity Editor
 
 ### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
