@@ -216,6 +216,10 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Ceto](https://github.com/Scrawk/Ceto) - Ceto: Ocean system for Unity
 * [JourneySand](https://github.com/AtwoodDeng/JourneySand) - An Unity project to reproduce the sand rendering in Journey's style
 * [OBNI3D](https://github.com/alexbourgeois/OBNI3D) - Graphical pipeline allowing mesh deformation through shader and 3D noise volume
+* [FXAA](https://github.com/AmplifyCreations/FXAA) - FXAA Fast Approximate Anti-Aliasing 
+* [AmplifyColor](https://github.com/AmplifyCreations/AmplifyColor) - Full source-code for Amplify Color plugin for Unity
+* [AmplifyOcclusion](https://github.com/AmplifyCreations/AmplifyOcclusion) - Full source-code for Amplify Occlusion plugin for Unity
+* [AmplifyMotion](https://github.com/AmplifyCreations/AmplifyMotion) - Full source-code for Amplify Motion plugin for Unity
 
 ### Framework
 * [Zenject](https://github.com/modesttree/Zenject) - Dependency Injection Framework for Unity3D
