@@ -17,7 +17,6 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [DOTS](#dots)
 - [Editor](#editor)
 - [Effect and Shaders](#effect-and-shaders)
-- [Environment](#environment)
 - [Framework](#framework)
 - [Gameplay](#gameplay)
 - [Input](#input)
@@ -218,11 +217,6 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [JourneySand](https://github.com/AtwoodDeng/JourneySand) - An Unity project to reproduce the sand rendering in Journey's style
 * [OBNI3D](https://github.com/alexbourgeois/OBNI3D) - Graphical pipeline allowing mesh deformation through shader and 3D noise volume
 
-### Environment
-* [roadbuilder](https://github.com/guotata1996/roadbuilder) - Easy-to-build realistic roads in Unity. Foundation of any simcity game
-* [hedera](https://github.com/radiatoryang/hedera) - paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time
-* [Photosynthesizer](https://github.com/alexismorin/Photosynthesizer) - Unity plugin to procedurally sprout foliage throughout your scene.
-
 ### Framework
 * [Zenject](https://github.com/modesttree/Zenject) - Dependency Injection Framework for Unity3D
 * [Fungus](https://github.com/snozbot/fungus) - https://github.com/snozbot/fungus
@@ -269,6 +263,12 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [realtime-CSG-for-unity](https://github.com/LogicalError/realtime-CSG-for-unity) - Realtime-CSG, CSG level editor for Unity 
 * [RoadArchitect](https://github.com/MicroGSD/RoadArchitect) - Road Architect for Unity
 * [PrefabPainter](https://github.com/AlexanderAmeye/PrefabPainter) - A basic prefab painter for the Unity3D game engine
+* [roadbuilder](https://github.com/guotata1996/roadbuilder) - Easy-to-build realistic roads in Unity. Foundation of any simcity game
+* [hedera](https://github.com/radiatoryang/hedera) - paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time
+* [Photosynthesizer](https://github.com/alexismorin/Photosynthesizer) - Unity plugin to procedurally sprout foliage throughout your scene.
+* [Terrain-Stamps](https://github.com/Roland09/Terrain-Stamps) - Stamps for the Unity Terrain Stamp Tool.
+* [StampToolExtended](https://github.com/Roland09/StampToolExtended) - Extended version of the Unity Terrain Stamp Tool.
+* [YAPP - Yet Another Prefab Painter](https://github.com/Roland09/PrefabPainter) - Tool for conveniently and flexibly adding huge amounts of prefabs to your Unity scene.
 
 ### Light
 * [Aura](https://github.com/raphael-ernaelsten/Aura) - Volumetric Lighting for Unity
