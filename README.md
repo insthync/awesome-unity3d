@@ -220,6 +220,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [AmplifyColor](https://github.com/AmplifyCreations/AmplifyColor) - Full source-code for Amplify Color plugin for Unity
 * [AmplifyOcclusion](https://github.com/AmplifyCreations/AmplifyOcclusion) - Full source-code for Amplify Occlusion plugin for Unity
 * [AmplifyMotion](https://github.com/AmplifyCreations/AmplifyMotion) - Full source-code for Amplify Motion plugin for Unity
+* [X-PostProcessing-Library](https://github.com/QianMo/X-PostProcessing-Library) - XPL : High Quality Post Processing Effects Library For Unity
 
 ### Framework
 * [Zenject](https://github.com/modesttree/Zenject) - Dependency Injection Framework for Unity3D
