@@ -250,6 +250,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Inventory](https://github.com/FarrokhGames/Inventory) - A Diablo 2-style inventory system for Unity3D
 * [RPGCore](https://github.com/Fydar/RPGCore) - RPGCore is a toolkit for producing RPG games and mechanics for Unity
 * [SanAndreasUnity](https://github.com/GTA-ASM/SanAndreasUnity) - Open source reimplementation of GTA San Andreas game engine in Unity
+* [NoteEditor](https://github.com/setchi/NoteEditor) - Note editor for rhythm games.
 
 ### Input
 * [InputManager](https://github.com/daemon3000/InputManager) - Custom InputManager for Unity
