@@ -333,6 +333,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [unity-fastpacedmultiplayer](https://github.com/JoaoBorks/unity-fastpacedmultiplayer) - Features a Networking Framework to be used on top of Unity Networking, in order to implement an Authoritative Server with Lag Compensation, Client-Side Prediction/Server Reconciliation and Entity Interpolation
 * [Entitas-Sync-Framework](https://github.com/RomanZhu/Entitas-Sync-Framework) - Networking framework for Entitas ECS. Targeted at turnbased games or other slow-paced genres
 * [RestClient](https://github.com/proyecto26/RestClient) - Simple HTTP and REST client for Unity based on Promises, also supports Callbacks! 
+* [Davinet](https://github.com/IronWarrior/Davinet) - Minimalist Unity networking package with goals of responsive physics, loose coupling, extensibility and encapsulation of netcode.
 
 ### Physic
 * [BulletSharpUnity3d](https://github.com/Phong13/BulletSharpUnity3d) - A fork of the BulletSharp project to make the Bullet Physics Engine usable from C# code in Unity3d
@@ -434,6 +435,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [RapidGUI](https://github.com/fuqunaga/RapidGUI) - Unity OnGUI(IMGUI) extensions for Rapid prototyping/development
 * [ugui-mvvm](https://github.com/jbruening/ugui-mvvm) - Unity3D uGUI mvvm databinding via the standard IXChanged interfaces used in wpf (INotifyPropertyChanged, INotifyCollectionChanged, etc)
 * [Recyclable-Scroll-Rect](https://github.com/MdIqubal/Recyclable-Scroll-Rect) - Recyclable Scroll Rect reuses or recycles the least number of cells required to fill the viewport. As a result a huge number of items can be shown in the list without any performance hit. 
+* [UnityGUI](https://github.com/coryleach/UnityGUI) - UGUI Panel Systems for navigation, animation and more
+* [UGUIExtend](https://github.com/L-Lawliet/UGUIExtend)
 
 ### Utilities
 * [LINQ to GameObject](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ
