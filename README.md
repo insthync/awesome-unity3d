@@ -27,6 +27,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Lua](#lua)
 - [Lua Utilities](#lua-utilities)
 - [Meshes](#meshes)
+- [Modding](#modding)
 - [Monetization](#monetization)
 - [Networking](#networking)
 - [Physic](#physic)
@@ -308,6 +309,16 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [MeshDecimator](https://github.com/Whinarn/MeshDecimator) - A mesh decimation library for .NET and Unity.
 * [SplineMesh](https://github.com/benoit-dumas/SplineMesh) - A Unity plugin to create curved content in real-time with bézier curves
 * [UnityGLTF](https://github.com/KhronosGroup/UnityGLTF) - Runtime GLTF Loader for Unity3D
+
+### Modding
+* [dotPeek](https://www.jetbrains.com/decompiler/) - Free .NET Decompiler and Assembly Browser
+* [OpenSesameCompilerForUnity](https://github.com/mob-sakai/OpenSesameCompilerForUnity) - A Roslyn compiler to access internals/privates for Unity. In other words, you can access to any internals/privates in other assemblies, without reflection. Let's say, "Open sesame!"
+* [Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
+* [Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime 
+* [dnSpy](https://github.com/0xd4d/dnSpy) - .NET debugger and assembly editor
+* [ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
+* [AssetStudio](https://github.com/Perfare/AssetStudio) - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.
+* [UtinyRipper](https://github.com/mafaca/UtinyRipper) - GUI and API library for working with Engine assets, serialized and bundle files
 
 ### Monetization
 * [unity3d-levelup](https://github.com/soomla/unity3d-levelup) - Unity3D F2P game progression library - worlds, levels, missions, scores, records and more. Part of The SOOMLA Framework - for game design, economy modeling and faster development.
