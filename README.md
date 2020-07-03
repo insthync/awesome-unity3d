@@ -251,6 +251,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Morpeh](https://github.com/X-Crew/Morpeh) - Fast and Simple ECS Framework for Unity3d
 * [Red](https://github.com/X-Crew/Red) - Reactive Toolchain for Unity
 * [NanoECS](https://github.com/SinyavtsevIlya/NanoECS) - c#-Unity ECS framework
+* [VContainer](https://github.com/hadashiA/VContainer) - The extra fast, minimum code size, GC-free DI (Dependency Inject) library running on Unity (IL2CPP).
 
 ### Gameplay
 * [UnityArcRayCast](https://github.com/williamrjackson/UnityArcRayCast) - Arc raycast utility using projectile formulas
