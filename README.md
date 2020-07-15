@@ -461,6 +461,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Recyclable-Scroll-Rect](https://github.com/MdIqubal/Recyclable-Scroll-Rect) - Recyclable Scroll Rect reuses or recycles the least number of cells required to fill the viewport. As a result a huge number of items can be shown in the list without any performance hit. 
 * [UnityGUI](https://github.com/coryleach/UnityGUI) - UGUI Panel Systems for navigation, animation and more
 * [UGUIExtend](https://github.com/L-Lawliet/UGUIExtend)
+* [unity-ugui-XCharts](https://github.com/monitor1394/unity-ugui-XCharts) - A charting and data visualization library for Unity.
 
 ### Utilities
 * [LINQ to GameObject](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ
