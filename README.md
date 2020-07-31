@@ -180,6 +180,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox) - Tools, custom attributes, drawers and extensions for Unity Editor.
 * [enhancer](https://github.com/xeleh/enhancer) - A collection of utilities to enhance the Unity Editor
 * [EasyEventEditor](https://github.com/Merlin-san/EasyEventEditor) - Drop in replacement for the default Unity event editor drawer that allows listener reordering
+* [UnitySceneViewNotification](https://github.com/staggartcreations/UnitySceneViewNotification) - Notification log for Unity's scene view.
 
 ### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
