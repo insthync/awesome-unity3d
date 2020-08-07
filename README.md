@@ -231,6 +231,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [AmplifyOcclusion](https://github.com/AmplifyCreations/AmplifyOcclusion) - Full source-code for Amplify Occlusion plugin for Unity
 * [AmplifyMotion](https://github.com/AmplifyCreations/AmplifyMotion) - Full source-code for Amplify Motion plugin for Unity
 * [X-PostProcessing-Library](https://github.com/QianMo/X-PostProcessing-Library) - XPL : High Quality Post Processing Effects Library For Unity
+* [MeshDecal](https://github.com/Fewes/MeshDecal) - A simple mesh decal component for Unity
 
 ### Embedding
 * [react-native-unity-view](https://github.com/f111fei/react-native-unity-view) - Show an unity view in react native
