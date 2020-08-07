@@ -299,6 +299,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [VolumetricLights](https://github.com/SlightlyMad/VolumetricLights) - Volumetric Lights for Unity
 * [Rimlight](https://github.com/AdultLink/Rimlight) - Customizable rimlight shader for Unity that includes pulsation and noise scrolling. Give your scenes that extra oomph!
 * [unity-volumetric-fog](https://github.com/SiiMeR/unity-volumetric-fog) - A volumetric fog implementation in Unity.
+* [VolumetricTracer](https://github.com/Fewes/VolumetricTracer) - A simple way to render soft, volumetric bullet tracers in Unity. Only needs a unit cube and a material to render and supports instancing.
 
 ### Lua
 * [slua (Recommend)](https://github.com/pangweiwei/slua) - Fastest lua binding via static code generating for Unity3D and mono.
