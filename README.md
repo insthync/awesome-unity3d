@@ -74,6 +74,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 ### 3D Bones / IK
 * [EZSoftBone](https://github.com/EZhex1991/EZSoftBone) - A simple kinetic simulator for Unity, you can use it to simulate hair/tail/breast/skirt and other soft objects
+* [Automatic-DynamicBone](https://github.com/OneYoungMean/Automatic-DynamicBone) - unity bone cloth spring system,base by jobs.
 
 
 ### AI
