@@ -233,6 +233,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [AmplifyMotion](https://github.com/AmplifyCreations/AmplifyMotion) - Full source-code for Amplify Motion plugin for Unity
 * [X-PostProcessing-Library](https://github.com/QianMo/X-PostProcessing-Library) - XPL : High Quality Post Processing Effects Library For Unity
 * [MeshDecal](https://github.com/Fewes/MeshDecal) - A simple mesh decal component for Unity
+* [fluviofx](https://github.com/fluviofx/fluviofx) - Fluid dynamics for Unity's VFX graph
 
 ### Embedding
 * [react-native-unity-view](https://github.com/f111fei/react-native-unity-view) - Show an unity view in react native
