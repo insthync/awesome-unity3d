@@ -157,6 +157,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [EntitiesBT](https://github.com/quabug/EntitiesBT) - Behavior Tree for Unity ECS (DOTS) framework
 * [NativeOctree](https://github.com/marijnz/NativeOctree) - An Octree Native Collection for Unity DOTS
 * [NativeQuadtree](https://github.com/marijnz/NativeQuadtree) - A Quadtree Native Collection for Unity DOTS
+* [UGUIDOTS](https://github.com/InitialPrefabs/UGUIDOTS) - Converting uGUI to be DOTS compliant
 
 ### Editor
 * [Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet) - Unity-QuickSheet enables you to use spreadsheet file data within Unity editor.
