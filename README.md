@@ -269,6 +269,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [RPGCore](https://github.com/Fydar/RPGCore) - RPGCore is a toolkit for producing RPG games and mechanics for Unity
 * [SanAndreasUnity](https://github.com/GTA-ASM/SanAndreasUnity) - Open source reimplementation of GTA San Andreas game engine in Unity
 * [NoteEditor](https://github.com/setchi/NoteEditor) - Note editor for rhythm games.
+* [FogOfWar](https://github.com/kitepro/FogOfWar) - A plugin for Unity3D to add Fog of War to a game.
 
 ### Input
 * [InputManager](https://github.com/daemon3000/InputManager) - Custom InputManager for Unity
