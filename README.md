@@ -550,6 +550,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [ThreeDPoseUnityBarracuda](https://github.com/digital-standard/ThreeDPoseUnityBarracuda) - Unity sample of 3D pose estimation using Barracuda
 * [XdUnityUI](https://github.com/itouh2-i0plus/XdUnityUI) - AdobeXd to UnityUI converter
 * [UnityStandaloneFileBrowser](https://github.com/gkngkc/UnityStandaloneFileBrowser) - A native file browser for unity standalone platforms
+* [Mathfs](https://github.com/FreyaHolmer/Mathfs) - Expanded Math Functionality for Unity
 
 
 ### Video
