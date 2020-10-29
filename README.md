@@ -103,6 +103,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 ### Animation
 * [unity-animator-helpers](https://github.com/ashblue/unity-animator-helpers) - A micro-framework for changing Unity 3D's Animator parameters with ScriptableObject(s). Designed to make going from custom scripts to Animator parameters easy. Works with 2D or 3D projects
+* [UrMotion](https://github.com/beinteractive/UrMotion) - A flexible motion engine for non time-based animation in Unity
 
 ### Asset Bundle
 * [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager) - An asset bundle manager for Unity
