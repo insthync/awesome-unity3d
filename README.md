@@ -15,7 +15,6 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [CI](#ci)
 - [Controller Mappings](#controller-mappings)
 - [Console](#console)
-- [Database](#database)
 - [DOTS](#dots)
 - [Editor](#editor)
 - [Effect and Shaders](#effect-and-shaders)
@@ -142,9 +141,6 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Unity3d-BeastConsole](https://github.com/pointcache/Unity3d-BeastConsole) - Console for all your unity needs
 * [consolation](https://github.com/mminer/consolation) - In-game debug console for Unity.
 * [Lunar Unity Mobile Console](https://github.com/SpaceMadness/lunar-unity-console) - High-performance Unity iOS/Android logger built with native platform UI 
-
-### Database
-* [SQLite4Unity3d](https://github.com/codecoding/SQLite4Unity3d) - SQLite made easy for Unity3d
 
 ### DOTS
 * [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
