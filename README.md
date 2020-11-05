@@ -12,6 +12,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Camera](#camera)
 - [Character Controllers 2D](#character-controllers-2d)
 - [Character Controllers 3D](#character-controllers-3d)
+- [CI](#ci)
 - [Controller Mappings](#controller-mappings)
 - [Console](#console)
 - [Database](#database)
@@ -124,6 +125,10 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [SuperCharacterController](https://github.com/IronWarrior/SuperCharacterController) - Custom Character Controller for Unity. Fulfills all common character controller functions such as collision detection and pushback, slope limiting and collider ignoring.
 * [NaughtyCharacter](https://github.com/dbrizov/NaughtyCharacter) - Third Person Controller for Unity
 * [Advanced Rigidbody FirstPerson Controller](https://github.com/Moe-Baker/Advanced-Rigidbody-FirstPerson-Controller) - Rigidbody Based FirstPerson Controller
+
+### CI
+* [setup-unity](https://github.com/pCYSl5EDgo/setup-unity) - Set up your GitHub Actions workflow with a specific version of the Unity Editor
+* [unity-actions](https://github.com/webbertakken/unity-actions) - Github actions for testing and building Unity projects
 
 ### Controller Mappings
 * [Dualshock 3 (PS3)](https://forum.unity.com/threads/ps3-button-map.89288/)
