@@ -126,6 +126,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [SuperCharacterController](https://github.com/IronWarrior/SuperCharacterController) - Custom Character Controller for Unity. Fulfills all common character controller functions such as collision detection and pushback, slope limiting and collider ignoring.
 * [NaughtyCharacter](https://github.com/dbrizov/NaughtyCharacter) - Third Person Controller for Unity
 * [Advanced Rigidbody FirstPerson Controller](https://github.com/Moe-Baker/Advanced-Rigidbody-FirstPerson-Controller) - Rigidbody Based FirstPerson Controller
+* [Fragsurf-Character-Controller](https://github.com/AwesomeX/Fragsurf-Character-Controller) - Surf and bhop movement in Unity3d
 
 ### CI
 * [setup-unity](https://github.com/pCYSl5EDgo/setup-unity) - Set up your GitHub Actions workflow with a specific version of the Unity Editor
