@@ -98,6 +98,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Brainiac](https://github.com/daemon3000/Brainiac) - Behaviour tree editor for Unity3D
 * [behaviac](https://github.com/Tencent/behaviac) - behaviac is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN)
 * [ainav](https://github.com/gamemachine/ainav) - Recastnavigation in C#
+* [UnityBehaviorTreeImplementation](https://github.com/naelstrof/UnityBehaviorTreeImplementation) - An example of how to implement behavior trees within Unity.
 
 ### Analyzer
 * [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) - A Memory Profiler, Debugger and Analyzer for Unity 2019.3 and newer.
