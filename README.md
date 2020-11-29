@@ -19,6 +19,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Editor](#editor)
 - [Effect and Shaders](#effect-and-shaders)
 - [Embedding](#embedding)
+- [Feedback Libraries](#feedback-libraries)
 - [Framework](#framework)
 - [Gameplay](#gameplay)
 - [Input](#input)
@@ -242,6 +243,9 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [react-native-unity-view](https://github.com/f111fei/react-native-unity-view) - Show an unity view in react native
 * [react-native-unity-view](https://github.com/asmadsen/react-native-unity-view) - This is a fork of https://github.com/f111fei/react-native-unity-view to make it work with React Native >= 0.60.
 * [flutter-unity-view-widget](https://github.com/snowballdigital/flutter-unity-view-widget) - Embeddable unity game engine view for Flutter.
+
+### Feedback Libraries
+* [Juce-Feedbacks](https://github.com/Juce-Assets/Juce-Feedbacks) - Open-source feedbacks library that's part of the Juce Unity tools framework.
 
 ### Framework
 * [Zenject](https://github.com/modesttree/Zenject) - Dependency Injection Framework for Unity3D
