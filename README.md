@@ -304,6 +304,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [RoadArchitect](https://github.com/MicroGSD/RoadArchitect) - Road Architect for Unity
 * [roadbuilder](https://github.com/guotata1996/roadbuilder) - Easy-to-build realistic roads in Unity. Foundation of any simcity game
 * [roadcreator](https://github.com/MCrafterzz/roadcreator) - A free road creation tool for unity
+* [LDtkUnity](https://github.com/Cammin/LDtkUnity) - A package for easy Unity-integration with the Level Designer Toolkit, created by deepnight: https://github.com/deepnight/ldtk
 
 ### Light
 * [Aura](https://github.com/raphael-ernaelsten/Aura) - Volumetric Lighting for Unity
