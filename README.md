@@ -398,6 +398,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [ProceduralToolkit](https://github.com/Syomus/ProceduralToolkit) - Procedural generation library for Unity
 * [wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse/) - Walk through an infinite, procedurally generated city
 * [ProceduralLevelGenerator-Unity](https://github.com/OndrejNepozitek/ProceduralLevelGenerator-Unity) - Unity plugin from procedural dungeon generation
+* [Edgar-Unity](https://github.com/OndrejNepozitek/Edgar-Unity) - Unity Procedural Level Generator
 
 ### Pooling System
 * [kPooling](https://github.com/Kink3d/kPooling) - Customizable Object Pooling for Unity
