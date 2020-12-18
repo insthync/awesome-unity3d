@@ -240,6 +240,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [X-PostProcessing-Library](https://github.com/QianMo/X-PostProcessing-Library) - XPL : High Quality Post Processing Effects Library For Unity
 * [MeshDecal](https://github.com/Fewes/MeshDecal) - A simple mesh decal component for Unity
 * [fluviofx](https://github.com/fluviofx/fluviofx) - Fluid dynamics for Unity's VFX graph
+* [UnityFx.Outline](https://github.com/Arvtesh/UnityFx.Outline) - Screen-space outlines for Unity3d.
 
 ### Embedding
 * [react-native-unity-view](https://github.com/f111fei/react-native-unity-view) - Show an unity view in react native
