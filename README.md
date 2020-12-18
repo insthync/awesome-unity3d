@@ -483,6 +483,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [unity-ugui-XCharts](https://github.com/monitor1394/unity-ugui-XCharts) - A charting and data visualization library for Unity.
 * [ugx](https://github.com/adrenak/ugx) - UGX: UGUI Extended is a high-level library over Unity's inbuilt uGui. Currently a work in progress
 * [dear-imgui-unity](https://github.com/realgamessoftware/dear-imgui-unity) - Unity package for Dear ImGui.
+* [UIForia](https://github.com/klanggames/UIForia) - UIForia - a new UI framework written for Unity
 
 ### Utilities
 * [LINQ to GameObject](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ
