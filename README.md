@@ -9,6 +9,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Analyzer](#analyzer)
 - [Animation](#animation)
 - [Asset Bundle](#asset-bundle)
+- [Bolt](#bolt)
 - [Camera](#camera)
 - [Character Controllers 2D](#character-controllers-2d)
 - [Character Controllers 3D](#character-controllers-3d)
@@ -109,6 +110,9 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 ### Asset Bundle
 * [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager) - An asset bundle manager for Unity
+
+### Bolt
+* [Bolt.Addons.Community](https://github.com/RealityStop/Bolt.Addons.Community) - A community-driven project for extending Unity Bolt
 
 ### Camera
 * [Unity Pixel Camera](https://github.com/ChemiKhazi/UnityPixelCamera) - A resolution independent pixel perfect camera for Unity
