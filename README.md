@@ -494,6 +494,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [ugx](https://github.com/adrenak/ugx) - UGX: UGUI Extended is a high-level library over Unity's inbuilt uGui. Currently a work in progress
 * [dear-imgui-unity](https://github.com/realgamessoftware/dear-imgui-unity) - Unity package for Dear ImGui.
 * [UIForia](https://github.com/klanggames/UIForia) - UIForia - a new UI framework written for Unity
+* [TMP-Text-Juicer](https://github.com/brunomikoski/TMP-Text-Juicer) - Text Juicer for Text Mesh PRO
 
 ### Utilities
 * [LINQ to GameObject](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ
