@@ -572,7 +572,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [UnityStandaloneFileBrowser](https://github.com/gkngkc/UnityStandaloneFileBrowser) - A native file browser for unity standalone platforms
 * [Mathfs](https://github.com/FreyaHolmer/Mathfs) - Expanded Math Functionality for Unity
 * [Unity3D-Histogrammer](https://github.com/Thundernerd/Unity3D-Histogrammer) - A tool for Unity3D to help you pinpoint redundant data
-
+* [Unity3D-Humanizr](https://github.com/Thundernerd/Unity3D-Humanizr) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.
 
 ### Video
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
