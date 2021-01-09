@@ -578,6 +578,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Unity3D-Humanizr](https://github.com/Thundernerd/Unity3D-Humanizr) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.
 * [unity-scene-reference](https://github.com/starikcetin/unity-scene-reference) - A SceneReference wrapper class that uses ISerializationCallbackReceiver and a custom PropertyDrawer to provide safe, user-friendly scene references in scripts.
 * [SceneKeeper](https://github.com/brunomikoski/SceneKeeper) - A simple tool that keeps your scene state (Hierarchy/Selection) exactly as you left in between switching scenes on editor or play mode.
+* [MonoHook](https://github.com/Misaka-Mikoto-Tech/MonoHook) - hook C# method at runtime without modify dll file (such as UnityEditor.dll)
 
 ### Video
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
