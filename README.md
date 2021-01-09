@@ -495,6 +495,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [dear-imgui-unity](https://github.com/realgamessoftware/dear-imgui-unity) - Unity package for Dear ImGui.
 * [UIForia](https://github.com/klanggames/UIForia) - UIForia - a new UI framework written for Unity
 * [TMP-Text-Juicer](https://github.com/brunomikoski/TMP-Text-Juicer) - Text Juicer for Text Mesh PRO
+* [Text-Juicer](https://github.com/brunomikoski/Text-Juicer) - Simple tool to create awesome text animations
 
 ### Utilities
 * [LINQ to GameObject](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ
