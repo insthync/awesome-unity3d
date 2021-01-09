@@ -571,6 +571,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [XdUnityUI](https://github.com/itouh2-i0plus/XdUnityUI) - AdobeXd to UnityUI converter
 * [UnityStandaloneFileBrowser](https://github.com/gkngkc/UnityStandaloneFileBrowser) - A native file browser for unity standalone platforms
 * [Mathfs](https://github.com/FreyaHolmer/Mathfs) - Expanded Math Functionality for Unity
+* [Unity3D-Histogrammer](https://github.com/Thundernerd/Unity3D-Histogrammer) - A tool for Unity3D to help you pinpoint redundant data
 
 
 ### Video
