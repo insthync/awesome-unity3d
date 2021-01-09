@@ -423,6 +423,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [yaSingleton](https://github.com/jedybg/yaSingleton) - A singleton pattern implementation for Unity3d. Based on ScriptableObjects instead of the conventional MonoBehaviour approach.
 * [SOFlow](https://github.com/BLUDRAG/SOFlow) - A ScriptableObject oriented design SDK.
 * [ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture) - Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy
+* [ScriptableObjectCollection](https://github.com/brunomikoski/ScriptableObjectCollection) - A library to help improve the usability of Unity3D Scriptable Objects by grouping then into a collection and exposing then by code or nice inspectors!
 
 ### Scriptings
 * [UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) - Unity Scripting in C++
