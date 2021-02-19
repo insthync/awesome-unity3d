@@ -176,7 +176,8 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [ecs](https://github.com/chromealex/ecs) - ECS for Unity with full game state automatic rollbacks
 * [Morpeh](https://github.com/X-Crew/Morpeh) - Fast and Simple ECS Framework for Unity3d
 * [NanoECS](https://github.com/SinyavtsevIlya/NanoECS) - c#-Unity ECS framework
-* [DefaultEcs](https://github.com/Doraku/DefaultEcs) - DefaultEcs is an Entity Component System framework which aims to be accessible with little constraints while retaining as much performance as possible for game development.
+* [DefaultEcs](https://github.com/Doraku/DefaultEcs) - DefaultEcs is an Entity Component System framework which aims to be accessible with little constraints while retaining as much performance as possible for game development
+* [LeoECS]https://github.com/Leopotam/ecs) - LeoECS is a fast Entity Component System (ECS) Framework powered by C# with optional integration to Unity
 
 ### Editor
 * [Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet) - Unity-QuickSheet enables you to use spreadsheet file data within Unity editor.
