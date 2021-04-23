@@ -9,6 +9,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Analyzer](#analyzer)
 - [Animation](#animation)
 - [Asset Bundle](#asset-bundle)
+- [Audio Manager](#audio-manager)
 - [Bolt](#bolt)
 - [Camera](#camera)
 - [Character Controllers 2D](#character-controllers-2d)
@@ -112,6 +113,9 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 ### Asset Bundle
 * [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager) - An asset bundle manager for Unity
+
+### Audio Manager
+* [Unity_AudioRig](https://github.com/debox-dev/Unity_AudioRig) - Provides better AudioSource management from scripts, pooling, looping, fading, following object in 3d space and more.
 
 ### Bolt
 * [Bolt.Addons.Community](https://github.com/RealityStop/Bolt.Addons.Community) - A community-driven project for extending Unity Bolt
