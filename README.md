@@ -214,6 +214,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [UnityScreenShooter](https://github.com/Team-on/UnityScreenShooter) - Screenshot utility for Unity runtime & editor
 * [UnityBuildManager](https://github.com/Team-on/UnityBuildManager) - Utility for running builds sequence & pushing them to markets & keeping changelog
 * [CustomToolbar](https://github.com/smkplus/CustomToolbar) - Custom toolbar with ability do add new toolbars and reorganize it
+* [Smart-Hierarchy](https://github.com/neon-age/Smart-Hierarchy) - Human-friendly hierarchy for Unity
 
 ### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
