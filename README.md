@@ -288,6 +288,10 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Zinnia.Unity](https://github.com/ExtendRealityLtd/Zinnia.Unity) - A collection of design patterns for solving common problems.
 * [Red](https://github.com/X-Crew/Red) - Reactive Toolchain for Unity
 * [VContainer](https://github.com/hadashiA/VContainer) - The extra fast, minimum code size, GC-free DI (Dependency Inject) library running on Unity (IL2CPP).
+* [JEngine](https://github.com/JasonXuDeveloper/JEngine) - JEngine is a streamlined and easy-to-use framework designed for Unity Programmers which contains powerful features, beginners can start up quickly and making hot update-able games easily
+* [KEngine](https://github.com/mr-kelly/KEngine) - A unity asset bundle framework with LGPL license
+* [KSFramework](https://github.com/mr-kelly/KSFramework) - KSFramework = KEngine + SLua(or xLua) , Unity3D Framework/Toolsets focus on hot reload
+
 
 ### Gameplay
 * [UnityArcRayCast](https://github.com/williamrjackson/UnityArcRayCast) - Arc raycast utility using projectile formulas
