@@ -267,6 +267,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [fluviofx](https://github.com/fluviofx/fluviofx) - Fluid dynamics for Unity's VFX graph
 * [UnityFx.Outline](https://github.com/Arvtesh/UnityFx.Outline) - Screen-space outlines for Unity3d.
 * [Unity-Built-in-Shaders](https://github.com/TwoTailsGames/Unity-Built-in-Shaders) - Unity Built in Shaders
+* [DynamicDecals](https://github.com/EricFreeman/DynamicDecals) - Decal solution for Unity's Built-In Render Pipeline
 
 ### Embedding
 * [react-native-unity-view](https://github.com/f111fei/react-native-unity-view) - Show an unity view in react native
