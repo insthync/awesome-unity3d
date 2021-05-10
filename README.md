@@ -215,6 +215,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [UnityBuildManager](https://github.com/Team-on/UnityBuildManager) - Utility for running builds sequence & pushing them to markets & keeping changelog
 * [CustomToolbar](https://github.com/smkplus/CustomToolbar) - Custom toolbar with ability do add new toolbars and reorganize it
 * [Smart-Hierarchy](https://github.com/neon-age/Smart-Hierarchy) - Human-friendly hierarchy for Unity
+* [SuperEditor](https://github.com/UnitySuperEditor/SuperEditor) - Super Editor is a versatile Unity editor extension that includes a powerful, easy-to-use built-in IDE, Hieararchy enhancements, and Favorites enhancements
 
 ### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
