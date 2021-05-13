@@ -175,6 +175,8 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [UGUIDOTS](https://github.com/InitialPrefabs/UGUIDOTS) - Converting uGUI to be DOTS compliant
 * [dotsnav](https://github.com/dotsnav/dotsnav) - A fully dynamic planar navmesh Unity package supporting agents of any size
 * [unity-deterministic-physics](https://github.com/Kimbatt/unity-deterministic-physics) - Cross-platform deterministic physics simulation in Unity, using DOTS physics and soft floats
+* [ECSPowerNetcode](https://github.com/actionk/ECSPowerNetcode) - Library to power up your experience with the DOTS Unity Netcode.
+* [ECSEntityBuilder](https://github.com/actionk/ECSEntityBuilder) - Unity ECS Entity Builder/Wrapper
 
 ### ECS Framework
 * [Entitas-CSharp](https://github.com/sschmid/Entitas-CSharp) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
@@ -183,7 +185,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Morpeh](https://github.com/X-Crew/Morpeh) - Fast and Simple ECS Framework for Unity3d
 * [NanoECS](https://github.com/SinyavtsevIlya/NanoECS) - c#-Unity ECS framework
 * [DefaultEcs](https://github.com/Doraku/DefaultEcs) - DefaultEcs is an Entity Component System framework which aims to be accessible with little constraints while retaining as much performance as possible for game development
-* [LeoECS]https://github.com/Leopotam/ecs) - LeoECS is a fast Entity Component System (ECS) Framework powered by C# with optional integration to Unity
+* [LeoECS](https://github.com/Leopotam/ecs) - LeoECS is a fast Entity Component System (ECS) Framework powered by C# with optional integration to Unity
 
 ### Editor
 * [Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet) - Unity-QuickSheet enables you to use spreadsheet file data within Unity editor.
