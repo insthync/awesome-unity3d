@@ -222,6 +222,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Smart-Hierarchy](https://github.com/neon-age/Smart-Hierarchy) - Human-friendly hierarchy for Unity
 * [SuperEditor](https://github.com/UnitySuperEditor/SuperEditor) - Super Editor is a versatile Unity editor extension that includes a powerful, easy-to-use built-in IDE, Hieararchy enhancements, and Favorites enhancements
 * [hierarchy-2](https://github.com/truongnguyentungduy/hierarchy-2) - Editor extension to improve Unity hierarchy window. Makes the hierarchy more detail, but still clean and easy to organize.
+* [one-line](https://github.com/slavniyteo/one-line) - One line property drawer for Unity3d
 
 ### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
