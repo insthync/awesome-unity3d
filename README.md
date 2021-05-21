@@ -419,6 +419,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [BulletSharpUnity3d](https://github.com/Phong13/BulletSharpUnity3d) - A fork of the BulletSharp project to make the Bullet Physics Engine usable from C# code in Unity3d
 * [Graphics-Raycast](https://github.com/Jonny10/Graphics-Raycast) - GPU-based raycaster for Unity
 * [Bepuphysics-Unity](https://github.com/AntoineCharton/Bepuphysics-Unity) - A bridge for Bepuphysics and Unity
+* [UnityNativeCollision](https://github.com/jeffvella/UnityNativeCollision) - SAT Collision in C# for Unity3D Burst Compiler
 
 ### Plugins
 * [Reign Unity Plugin](https://github.com/reignstudios/Reign-Unity-Plugin5) - This Reign API is a cross-platform, unified API for the Unity game engine.
