@@ -315,6 +315,8 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [NoteEditor](https://github.com/setchi/NoteEditor) - Note editor for rhythm games.
 * [FogOfWar](https://github.com/kitepro/FogOfWar) - A plugin for Unity3D to add Fog of War to a game.
 * [Unity3d-PhysicsGun](https://github.com/Laumania/Unity3d-PhysicsGun) - Unity3d sample implementation of a Half-life 2 / Garry's mod/ Gmod Physics Gun
+* [Piranha](https://github.com/keenanwoodall/Piranha) - A very simple tool to make rigidbodies swarm a mesh in Unity
+* [Grapple-Effect](https://github.com/keenanwoodall/Grapple-Effect) - An example of a simple grapple effect in Unity
 
 ### Input
 * [InputManager](https://github.com/daemon3000/InputManager) - Custom InputManager for Unity
@@ -365,6 +367,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [MeshDecimator](https://github.com/Whinarn/MeshDecimator) - A mesh decimation library for .NET and Unity.
 * [SplineMesh](https://github.com/benoit-dumas/SplineMesh) - A Unity plugin to create curved content in real-time with bézier curves
 * [UnityGLTF](https://github.com/KhronosGroup/UnityGLTF) - Runtime GLTF Loader for Unity3D
+* [Deform](https://github.com/keenanwoodall/Deform) - A fully-featured deformer system for Unity
 
 ### Modding
 * [dotPeek](https://www.jetbrains.com/decompiler/) - Free .NET Decompiler and Assembly Browser.
@@ -577,7 +580,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [disruptor-unity3d](https://github.com/dave-hillier/disruptor-unity3d) - Basic implementation of Disruptor for Unity3d
 * [uREPL](https://github.com/hecomi/uREPL) - In-game powerful REPL environment for Unity3D
 * [RuntimeUnityEditor](https://github.com/ManlyMarco/RuntimeUnityEditor) - In-game inspector and debugging tools for applications made with Unity3D game engine
-* [Deform](https://github.com/keenanwoodall/Deform) - A fully-featured deformer system for Unity
 * [OnionRingUnity](https://github.com/kyubuns/OnionRingUnity) - Auto 9 slice sprite generator
 * [UnityMultiBuild](https://github.com/sinbad/UnityMultiBuild) - Batch build for multiple platforms from within the Unity editor
 * [UnityCsvUtil](https://github.com/sinbad/UnityCsvUtil) - Lightweight but type safe CSV serialise/deserialise of objects
