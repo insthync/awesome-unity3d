@@ -487,6 +487,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 ### Vehicle
 * [Tork](https://github.com/adrenak/Tork) - Vehicle system for Unity
+* [Randomation-Vehicle-Physics](https://github.com/JustInvoke/Randomation-Vehicle-Physics) - Vehicle physics system for the Unity engine.
+* [Aircraft-Physics](https://github.com/gasgiant/Aircraft-Physics) - Fixed wing aircraft physics for Unity
 
 ### UI
 * [FairyGUI-unity](https://github.com/fairygui/FairyGUI-unity) - A flexible UI framework for Unity
