@@ -38,6 +38,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Plugins](#plugins)
 - [Procedural Generation Systems](#procedural-generation-systems)
 - [Pooling System](#pooling-system)
+- [Runtime Editor](#runtime-editor)
 - [Scriptable Object](#scriptable-object)
 - [Scriptings](#scriptings)
 - [Services](#services)
@@ -223,6 +224,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [SuperEditor](https://github.com/UnitySuperEditor/SuperEditor) - Super Editor is a versatile Unity editor extension that includes a powerful, easy-to-use built-in IDE, Hieararchy enhancements, and Favorites enhancements
 * [hierarchy-2](https://github.com/truongnguyentungduy/hierarchy-2) - Editor extension to improve Unity hierarchy window. Makes the hierarchy more detail, but still clean and easy to organize.
 * [one-line](https://github.com/slavniyteo/one-line) - One line property drawer for Unity3d
+* [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) - Attribute Extensions for Unity
 
 ### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
@@ -302,7 +304,6 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [JEngine](https://github.com/JasonXuDeveloper/JEngine) - JEngine is a streamlined and easy-to-use framework designed for Unity Programmers which contains powerful features, beginners can start up quickly and making hot update-able games easily
 * [KEngine](https://github.com/mr-kelly/KEngine) - A unity asset bundle framework with LGPL license
 * [KSFramework](https://github.com/mr-kelly/KSFramework) - KSFramework = KEngine + SLua(or xLua) , Unity3D Framework/Toolsets focus on hot reload
-
 
 ### Gameplay
 * [UnityArcRayCast](https://github.com/williamrjackson/UnityArcRayCast) - Arc raycast utility using projectile formulas
@@ -453,6 +454,11 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [protobuf-net](https://github.com/mgravell/protobuf-net) - Protocol Buffers library for idiomatic .NET
 * [protobuf-unity](https://github.com/5argon/protobuf-unity) - Automatic .proto files compilation in Unity project to C# as you edit them
 
+### Runtime Editor
+* [UnityRuntimeInspector](https://github.com/yasirkula/UnityRuntimeInspector) - Runtime Inspector and Hierarchy solution for Unity for debugging and runtime editing purposes
+* [RuntimeUnityEditor](https://github.com/ManlyMarco/RuntimeUnityEditor) - In-game inspector and debugging tools for applications made with Unity3D game engine
+* [Unity3DRuntimeTransformGizmo](https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo) - A runtime transform gizmo similar to unitys editor so you can translate (move, rotate, scale) objects at runtime
+
 ### Scriptable Object
 * [unity-atoms](https://github.com/AdamRamberg/unity-atoms) - Tiny modular pieces utilizing the power of Scriptable Objects
 * [Scriptable-Framework](https://github.com/pablothedolphin/Scriptable-Framework) - A Unity Framework for modular app creation based on ScriptableObject architecture, data oriented design and event driven programming to help programmers and designers adhere to the 5 SOLID programming principals.
@@ -572,15 +578,12 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [xNode](https://github.com/Siccity/xNode) - Lets you view and edit node graphs inside Unity
 * [SerializableCallback](https://github.com/Siccity/SerializableCallback) - UnityEvent and System.Func had a child
 * [bitstrap](https://github.com/bitcake/bitstrap) - BitStrap is BitCake's collection of Unity tools that improve our workflow
-* [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) - Attribute Extensions for Unity
-* [Unity3DRuntimeTransformGizmo](https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo) - A runtime transform gizmo similar to unitys editor so you can translate (move, rotate, scale) objects at runtime
 * [UnityPack](https://github.com/HearthSim/UnityPack) - Python deserialization library for Unity3D Asset format
 * [UnityOctree](https://github.com/Nition/UnityOctree) - A dynamic, loose octree implementation for Unity written in C#
 * [MathUtilities](https://github.com/zalo/MathUtilities) - A collection of some of the neat math and physics tricks that I've collected over the last few years.
 * [CoroutineChain](https://github.com/geniikw/CoroutineChain) - Unity3d, Coroutine, scripting
 * [disruptor-unity3d](https://github.com/dave-hillier/disruptor-unity3d) - Basic implementation of Disruptor for Unity3d
 * [uREPL](https://github.com/hecomi/uREPL) - In-game powerful REPL environment for Unity3D
-* [RuntimeUnityEditor](https://github.com/ManlyMarco/RuntimeUnityEditor) - In-game inspector and debugging tools for applications made with Unity3D game engine
 * [OnionRingUnity](https://github.com/kyubuns/OnionRingUnity) - Auto 9 slice sprite generator
 * [UnityMultiBuild](https://github.com/sinbad/UnityMultiBuild) - Batch build for multiple platforms from within the Unity editor
 * [UnityCsvUtil](https://github.com/sinbad/UnityCsvUtil) - Lightweight but type safe CSV serialise/deserialise of objects
@@ -606,7 +609,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [AtreeboosterDI](https://github.com/kubpica/AtreeboosterDI) - The Hierarchy-based Dependency Injection tool for Unity game engine. Intuitivly manage dependencies of your MonoBehaviours with simple but powerfull [Attributes]
 * [meshpreview](https://github.com/AscendingMan/meshpreview)
 * [Baum2](https://github.com/kyubuns/Baum2) - Psd to Unity UI(uGUI)
-* [UnityRuntimeInspector](https://github.com/yasirkula/UnityRuntimeInspector) - Runtime Inspector and Hierarchy solution for Unity for debugging and runtime editing purposes
 * [UnityNativeGallery](https://github.com/yasirkula/UnityNativeGallery) - A native Unity plugin to interact with Gallery/Photos on Android & iOS (save and/or load images/videos)
 * [ThreeDPoseUnityBarracuda](https://github.com/digital-standard/ThreeDPoseUnityBarracuda) - Unity sample of 3D pose estimation using Barracuda
 * [XdUnityUI](https://github.com/itouh2-i0plus/XdUnityUI) - AdobeXd to UnityUI converter
