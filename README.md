@@ -314,6 +314,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [SanAndreasUnity](https://github.com/GTA-ASM/SanAndreasUnity) - Open source reimplementation of GTA San Andreas game engine in Unity
 * [NoteEditor](https://github.com/setchi/NoteEditor) - Note editor for rhythm games.
 * [FogOfWar](https://github.com/kitepro/FogOfWar) - A plugin for Unity3D to add Fog of War to a game.
+* [Unity3d-PhysicsGun](https://github.com/Laumania/Unity3d-PhysicsGun) - Unity3d sample implementation of a Half-life 2 / Garry's mod/ Gmod Physics Gun
 
 ### Input
 * [InputManager](https://github.com/daemon3000/InputManager) - Custom InputManager for Unity
