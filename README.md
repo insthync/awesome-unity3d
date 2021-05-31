@@ -104,6 +104,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [ainav](https://github.com/gamemachine/ainav) - Recastnavigation in C#
 * [UnityBehaviorTreeImplementation](https://github.com/naelstrof/UnityBehaviorTreeImplementation) - An example of how to implement behavior trees within Unity.
 * [unity-navgen](https://github.com/idbrii/unity-navgen) - Tools for working with Unity's NavMeshComponents and generating navmesh: link generation, mesh cleanup, etc.
+* [Unity-Character-Mechanism](https://github.com/MorelAntoine/Unity-Character-Mechanism) - Framework aiming to facilitate the code development of a character in Unity
 
 ### Analyzer
 * [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) - A Memory Profiler, Debugger and Analyzer for Unity 2019.3 and newer.
