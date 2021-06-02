@@ -496,6 +496,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [GoKit](https://github.com/prime31/GoKit) - Lightweight tween library for Unity
 * [Uween](https://github.com/beinteractive/Uween) - Lightweight tween library for Unity
 * [ZestKit](https://github.com/prime31/ZestKit) - Tween library for Unity. The best of GoKit and GoKitLite combined in an easy to use API
+* [Animation-Sequencer](https://github.com/brunomikoski/Animation-Sequencer) - A visual tool that allows you to create animated sequences of tweens and tweak them on editor time.
 
 ### Vehicle
 * [Tork](https://github.com/adrenak/Tork) - Vehicle system for Unity
