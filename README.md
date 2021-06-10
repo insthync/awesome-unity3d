@@ -304,6 +304,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Unity-Built-in-Shaders](https://github.com/TwoTailsGames/Unity-Built-in-Shaders) - Unity Built in Shaders
 * [DynamicDecals](https://github.com/EricFreeman/DynamicDecals) - Decal solution for Unity's Built-In Render Pipeline
 * [Unity_LightBeamPerformance](https://github.com/kodai100/Unity_LightBeamPerformance) - This package can create light beam performance with Unity's timeline functionality.
+* [JasonMaToonRenderPipeline](https://github.com/Jason-Ma-233/JasonMaToonRenderPipeline) - JTRP : Unity HDRP ToonShading Render Pipeline
 
 ### Embedding
 * [react-native-unity-view](https://github.com/f111fei/react-native-unity-view) - Show an unity view in react native
