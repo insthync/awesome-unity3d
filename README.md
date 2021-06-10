@@ -17,6 +17,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Character Controllers 3D](#character-controllers-3d)
 - [Controller Mappings](#controller-mappings)
 - [Console](#console)
+- [Dependency Injection](#dependency-injection)
 - [DOTS](#dots)
 - [ECS Framework](#ecs-framework)
 - [Editor](#editor)
@@ -80,7 +81,6 @@ A categorized collection of awesome opensource unity3d resources (including some
 ### 3D Bones / IK
 * [EZSoftBone](https://github.com/EZhex1991/EZSoftBone) - A simple kinetic simulator for Unity, you can use it to simulate hair/tail/breast/skirt and other soft objects
 * [Automatic-DynamicBone](https://github.com/OneYoungMean/Automatic-DynamicBone) - unity bone cloth spring system,base by jobs.
-
 
 ### AI
 * [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai) - A library of common movement AI scripts known as Steering Behaviors. You can use these scripts to help your NPCs move around your game.
@@ -184,6 +184,13 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [ECSEntityBuilder](https://github.com/actionk/ECSEntityBuilder) - Unity ECS Entity Builder/Wrapper
 * [Simple-ECS](https://github.com/AkanshDivker/Simple-ECS) - An example using the core features of the Entity Component System (ECS), part of DOTS, for Unity, inspired by Roll-a-ball. This project utilizes the Unity Physics, Hybrid Renderer, and Entities packages.
 * [Unity_ECS_GPUSkinning](https://github.com/dreamfairy/Unity_ECS_GPUSkinning) - ECS boost GpuSkinning
+
+### Dependency Injection
+* [Zenject](https://github.com/modesttree/Zenject) - Dependency Injection Framework for Unity3D
+* [adic](https://github.com/intentor/adic) - Lightweight dependency injection container for Unity
+* [CatLib](https://github.com/CatLib/CatLib) - CatLib lightweight dependency injection container
+* [VContainer](https://github.com/hadashiA/VContainer) - The extra fast, minimum code size, GC-free DI (Dependency Inject) library running on Unity (IL2CPP).
+* [AtreeboosterDI](https://github.com/kubpica/AtreeboosterDI) - The Hierarchy-based Dependency Injection tool for Unity game engine. Intuitivly manage dependencies of your MonoBehaviours with simple but powerfull [Attributes]
 
 ### ECS Framework
 * [Entitas-CSharp](https://github.com/sschmid/Entitas-CSharp) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
@@ -291,19 +298,15 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Juce-Feedbacks](https://github.com/Juce-Assets/Juce-Feedbacks) - Open-source feedbacks library that's part of the Juce Unity tools framework.
 
 ### Framework
-* [Zenject](https://github.com/modesttree/Zenject) - Dependency Injection Framework for Unity3D
 * [Fungus](https://github.com/snozbot/fungus) - https://github.com/snozbot/fungus
 * [Node_Editor_Framework](https://github.com/Seneral/Node_Editor_Framework) - Node Editor framework for Unity3D
-* [adic](https://github.com/intentor/adic) - Lightweight dependency injection container for Unity
 * [uFrame.Complete](https://github.com/uFrame/uFrame.Complete) - All in one repo, includes: Kernel, Designer, Architect, MVVM, ECS
 * [QFramework](https://github.com/liangxiegame/QFramework) - Your first K.I.S.S Unity 3D Framework
 * [GameFramework](https://github.com/FlipWebApps/GameFramework) - A free framework for Unity that will help drastically increase the development speed and feature set of your games.
 * [gocs](https://github.com/lazlo-bonin/gocs) - GameObject Component System for Unity
 * [actors](https://github.com/PixeyeHQ/actors) - The Entity Component System framework for Unity. Ease the pain of decoupling data from behaviors
-* [CatLib](https://github.com/CatLib/CatLib) - CatLib lightweight dependency injection container
 * [Zinnia.Unity](https://github.com/ExtendRealityLtd/Zinnia.Unity) - A collection of design patterns for solving common problems.
 * [Red](https://github.com/X-Crew/Red) - Reactive Toolchain for Unity
-* [VContainer](https://github.com/hadashiA/VContainer) - The extra fast, minimum code size, GC-free DI (Dependency Inject) library running on Unity (IL2CPP).
 * [JEngine](https://github.com/JasonXuDeveloper/JEngine) - JEngine is a streamlined and easy-to-use framework designed for Unity Programmers which contains powerful features, beginners can start up quickly and making hot update-able games easily
 * [KEngine](https://github.com/mr-kelly/KEngine) - A unity asset bundle framework with LGPL license
 * [KSFramework](https://github.com/mr-kelly/KSFramework) - KSFramework = KEngine + SLua(or xLua) , Unity3D Framework/Toolsets focus on hot reload
@@ -608,7 +611,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [UnityDoorstop](https://github.com/NeighTools/UnityDoorstop) - Doorstop -- run C# before Unity does!
 * [csharp-eval-unity3d](https://github.com/deniszykov/csharp-eval-unity3d) - C# Expression Parser for Unity3D
 * [unity-addressable-importer](https://github.com/favoyang/unity-addressable-importer) - A rule based addressable asset importer
-* [AtreeboosterDI](https://github.com/kubpica/AtreeboosterDI) - The Hierarchy-based Dependency Injection tool for Unity game engine. Intuitivly manage dependencies of your MonoBehaviours with simple but powerfull [Attributes]
 * [meshpreview](https://github.com/AscendingMan/meshpreview)
 * [Baum2](https://github.com/kyubuns/Baum2) - Psd to Unity UI(uGUI)
 * [UnityNativeGallery](https://github.com/yasirkula/UnityNativeGallery) - A native Unity plugin to interact with Gallery/Photos on Android & iOS (save and/or load images/videos)
