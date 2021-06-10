@@ -122,6 +122,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Baum2](https://github.com/kyubuns/Baum2) - Psd to Unity UI(uGUI)
 * [UnityPSDLayoutTool](https://github.com/GlitchEnzo/UnityPSDLayoutTool) - A tool used to import a Photoshop Documents (.psd files) into the Unity Game Engine.
 * [Materialize](https://github.com/BoundingBoxSoftware/Materialize) - Materialize is a program for converting images to materials for use in video games and whatnot
+* [Unity Psd Importer](https://github.com/ChemiKhazi/UnityPsdImporter) - Advanced PSD importer for Unity3D
 
 ### Asset Bundle
 * [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager) - An asset bundle manager for Unity
@@ -223,7 +224,6 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Reorderable Inspector](https://github.com/ChemiKhazi/ReorderableInspector) - Automatic reorderable lists for Unity game engine components
 * [Vexe Framework (VFW)](https://github.com/vexe/VFW) - an editor extension that offers much more advance editor extensibility features than what comes out of the box with Unity.
 * [Tidy Up](https://github.com/Nutshell-Hack/Tidy-Up) - Neat little tool! to help you keep your Unity projects organised by throwing assets in their designated folders.
-* [Unity Psd Importer](https://github.com/ChemiKhazi/UnityPsdImporter) - Advanced PSD importer for Unity3D
 * [property-drawer-collection](https://github.com/anchan828/property-drawer-collection)
 * [unity-symlink-utility](https://github.com/karl-/unity-symlink-utility) - A small extension that adds a menu item to add folders as symlinks in Unity
 * [UnityDefineManager](https://github.com/karl-/UnityDefineManager) - Easily manage global defines in Unity
@@ -250,6 +250,8 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [hierarchy-2](https://github.com/truongnguyentungduy/hierarchy-2) - Editor extension to improve Unity hierarchy window. Makes the hierarchy more detail, but still clean and easy to organize.
 * [one-line](https://github.com/slavniyteo/one-line) - One line property drawer for Unity3d
 * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) - Attribute Extensions for Unity
+* [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender) - Extend the Unity Toolbar with your own Editor UI code.
+* [meshpreview](https://github.com/AscendingMan/meshpreview)
 
 ### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
@@ -393,6 +395,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [SplineMesh](https://github.com/benoit-dumas/SplineMesh) - A Unity plugin to create curved content in real-time with bézier curves
 * [UnityGLTF](https://github.com/KhronosGroup/UnityGLTF) - Runtime GLTF Loader for Unity3D
 * [Deform](https://github.com/keenanwoodall/Deform) - A fully-featured deformer system for Unity
+* [unity-ray-marching](https://github.com/TheAllenChou/unity-ray-marching) - Ray marching sandbox
 
 ### Modding
 * [dotPeek](https://www.jetbrains.com/decompiler/) - Free .NET Decompiler and Assembly Browser.
@@ -458,6 +461,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Graphics-Raycast](https://github.com/Jonny10/Graphics-Raycast) - GPU-based raycaster for Unity
 * [Bepuphysics-Unity](https://github.com/AntoineCharton/Bepuphysics-Unity) - A bridge for Bepuphysics and Unity
 * [UnityNativeCollision](https://github.com/jeffvella/UnityNativeCollision) - SAT Collision in C# for Unity3D Burst Compiler
+* [Fusion](https://github.com/Ninjajie/Fusion) - Unity Physics on GPU
+* [unity-physics-constraints](https://github.com/TheAllenChou/unity-physics-constraints) - Minimalistic educational constraint-based physics framework
 
 ### Plugins
 * [Reign Unity Plugin](https://github.com/reignstudios/Reign-Unity-Plugin5) - This Reign API is a cross-platform, unified API for the Unity game engine.
@@ -613,7 +618,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [MathUtilities](https://github.com/zalo/MathUtilities) - A collection of some of the neat math and physics tricks that I've collected over the last few years.
 * [CoroutineChain](https://github.com/geniikw/CoroutineChain) - Unity3d, Coroutine, scripting
 * [disruptor-unity3d](https://github.com/dave-hillier/disruptor-unity3d) - Basic implementation of Disruptor for Unity3d
-* [uREPL](https://github.com/hecomi/uREPL) - In-game powerful REPL environment for Unity3D
 * [InkPainter](https://github.com/EsProgram/InkPainter) - Texture-Paint on Unity
 * [WaveformProvider](https://github.com/EsProgram/WaveformProvider) - Provide a texture to simulate waves with Unity. Require InkPainter.
 * [DataBind](https://github.com/tinrab/DataBind) - Simple data binding for Unity
@@ -632,7 +636,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [UnityDoorstop](https://github.com/NeighTools/UnityDoorstop) - Doorstop -- run C# before Unity does!
 * [csharp-eval-unity3d](https://github.com/deniszykov/csharp-eval-unity3d) - C# Expression Parser for Unity3D
 * [unity-addressable-importer](https://github.com/favoyang/unity-addressable-importer) - A rule based addressable asset importer
-* [meshpreview](https://github.com/AscendingMan/meshpreview)
 * [UnityNativeGallery](https://github.com/yasirkula/UnityNativeGallery) - A native Unity plugin to interact with Gallery/Photos on Android & iOS (save and/or load images/videos)
 * [ThreeDPoseUnityBarracuda](https://github.com/digital-standard/ThreeDPoseUnityBarracuda) - Unity sample of 3D pose estimation using Barracuda
 * [UnityStandaloneFileBrowser](https://github.com/gkngkc/UnityStandaloneFileBrowser) - A native file browser for unity standalone platforms
