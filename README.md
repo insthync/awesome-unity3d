@@ -11,10 +11,10 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Asset Bundle](#asset-bundle)
 - [Audio Manager](#audio-manager)
 - [Bolt](#bolt)
+- [Build Tools](#build-tools-and-ci)
 - [Camera](#camera)
 - [Character Controllers 2D](#character-controllers-2d)
 - [Character Controllers 3D](#character-controllers-3d)
-- [CI](#ci)
 - [Controller Mappings](#controller-mappings)
 - [Console](#console)
 - [DOTS](#dots)
@@ -122,6 +122,13 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 ### Bolt
 * [Bolt.Addons.Community](https://github.com/RealityStop/Bolt.Addons.Community) - A community-driven project for extending Unity Bolt
 
+### Build Tools and CI
+* [UnityMultiBuild](https://github.com/sinbad/UnityMultiBuild) - Batch build for multiple platforms from within the Unity editor
+* [UnityBuildManager](https://github.com/Team-on/UnityBuildManager) - Utility for running builds sequence & pushing them to markets & keeping changelog
+* [buildtool](https://github.com/superunitybuild/buildtool) - A powerful automation tool for quickly and easily generating builds with Unity.
+* [setup-unity](https://github.com/pCYSl5EDgo/setup-unity) - Set up your GitHub Actions workflow with a specific version of the Unity Editor
+* [unity-actions](https://github.com/webbertakken/unity-actions) - Github actions for testing and building Unity projects
+
 ### Camera
 * [Unity Pixel Camera](https://github.com/ChemiKhazi/UnityPixelCamera) - A resolution independent pixel perfect camera for Unity
 * [DeadSimple Pixel-Perfect Camera](https://github.com/cmilr/DeadSimple-Pixel-Perfect-Camera) - An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scenes in Unity. Punch in a few specs and you've got a working pixel perfect camera. It's that easy.
@@ -139,10 +146,6 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [NaughtyCharacter](https://github.com/dbrizov/NaughtyCharacter) - Third Person Controller for Unity
 * [Advanced Rigidbody FirstPerson Controller](https://github.com/Moe-Baker/Advanced-Rigidbody-FirstPerson-Controller) - Rigidbody Based FirstPerson Controller
 * [Fragsurf-Character-Controller](https://github.com/AwesomeX/Fragsurf-Character-Controller) - Surf and bhop movement in Unity3d
-
-### CI
-* [setup-unity](https://github.com/pCYSl5EDgo/setup-unity) - Set up your GitHub Actions workflow with a specific version of the Unity Editor
-* [unity-actions](https://github.com/webbertakken/unity-actions) - Github actions for testing and building Unity projects
 
 ### Controller Mappings
 * [Dualshock 3 (PS3)](https://forum.unity.com/threads/ps3-button-map.89288/)
@@ -219,7 +222,6 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [UnitySceneViewNotification](https://github.com/staggartcreations/UnitySceneViewNotification) - Notification log for Unity's scene view.
 * [SearchStringInAssets](https://github.com/baobao/SearchStringInAssets) - SearchStringInAssets is an Editor extension that allows you to search the UnityEditor for strings stored in a scene, Prefab, or ScriptableObject.
 * [UnityScreenShooter](https://github.com/Team-on/UnityScreenShooter) - Screenshot utility for Unity runtime & editor
-* [UnityBuildManager](https://github.com/Team-on/UnityBuildManager) - Utility for running builds sequence & pushing them to markets & keeping changelog
 * [CustomToolbar](https://github.com/smkplus/CustomToolbar) - Custom toolbar with ability do add new toolbars and reorganize it
 * [Smart-Hierarchy](https://github.com/neon-age/Smart-Hierarchy) - Human-friendly hierarchy for Unity
 * [SuperEditor](https://github.com/UnitySuperEditor/SuperEditor) - Super Editor is a versatile Unity editor extension that includes a powerful, easy-to-use built-in IDE, Hieararchy enhancements, and Favorites enhancements
@@ -586,7 +588,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [disruptor-unity3d](https://github.com/dave-hillier/disruptor-unity3d) - Basic implementation of Disruptor for Unity3d
 * [uREPL](https://github.com/hecomi/uREPL) - In-game powerful REPL environment for Unity3D
 * [OnionRingUnity](https://github.com/kyubuns/OnionRingUnity) - Auto 9 slice sprite generator
-* [UnityMultiBuild](https://github.com/sinbad/UnityMultiBuild) - Batch build for multiple platforms from within the Unity editor
 * [UnityCsvUtil](https://github.com/sinbad/UnityCsvUtil) - Lightweight but type safe CSV serialise/deserialise of objects
 * [InkPainter](https://github.com/EsProgram/InkPainter) - Texture-Paint on Unity
 * [WaveformProvider](https://github.com/EsProgram/WaveformProvider) - Provide a texture to simulate waves with Unity. Require InkPainter.
