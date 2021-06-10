@@ -11,7 +11,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Asset Bundle](#asset-bundle)
 - [Audio Manager](#audio-manager)
 - [Bolt](#bolt)
-- [Build Tools](#build-tools-and-ci)
+- [Build Tools and CI](#build-tools-and-ci)
 - [Camera](#camera)
 - [Character Controllers 2D](#character-controllers-2d)
 - [Character Controllers 3D](#character-controllers-3d)
