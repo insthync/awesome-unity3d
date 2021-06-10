@@ -440,6 +440,10 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [RestClient](https://github.com/proyecto26/RestClient) - Simple HTTP and REST client for Unity based on Promises, also supports Callbacks! 
 * [Teleport](https://github.com/debox-dev/Teleport) - A fast, lightweight, pure C# Unity realtime-game-networking framework
 * [EuNet](https://github.com/zestylife/EuNet) - Peer to peer network solution for multiplayer games.
+* [HouraiNetworking](https://github.com/HouraiTeahouse/HouraiNetworking) - Transport level library for peer-to-peer networking with multiple backends for the Unity.
+* [Backroll](https://github.com/HouraiTeahouse/Backroll) - Unity C# Port of GGPO built atop Hourai Networking
+* [sand-socket-unity](https://github.com/ccadori/sand-socket-unity) - Sand Unity is a Unity3D client for [Sand](https://github.com/ccadori/sand-socket)
+* [Pun2Task](https://github.com/TORISOUP/Pun2Task) - This library enables async/await in Photon Unity Networking 2.
 
 ### Package Manager
 * [Projeny](https://github.com/modesttree/Projeny) - A project and package manager for Unity.
