@@ -37,6 +37,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Modding](#modding)
 - [Monetization](#monetization)
 - [Networking](#networking)
+- [Package Manager](#package-manager)
 - [Physic](#physic)
 - [Plugins](#plugins)
 - [Procedural Generation Systems](#procedural-generation-systems)
@@ -44,6 +45,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Runtime Editor](#runtime-editor)
 - [Scriptable Object](#scriptable-object)
 - [Scriptings](#scriptings)
+- [Serializer](#serializer)
 - [Services](#services)
 - [Sounds](#sounds)
 - [Timeline](#timeline)
@@ -439,6 +441,11 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Teleport](https://github.com/debox-dev/Teleport) - A fast, lightweight, pure C# Unity realtime-game-networking framework
 * [EuNet](https://github.com/zestylife/EuNet) - Peer to peer network solution for multiplayer games.
 
+### Package Manager
+* [Projeny](https://github.com/modesttree/Projeny) - A project and package manager for Unity.
+* [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) - A NuGet Package Manager for Unity
+* [OpenUPM](https://github.com/openupm/openupm) - OpenUPM - Open Source Unity Package Registry (UPM)
+
 ### Physic
 * [BulletSharpUnity3d](https://github.com/Phong13/BulletSharpUnity3d) - A fork of the BulletSharp project to make the Bullet Physics Engine usable from C# code in Unity3d
 * [Graphics-Raycast](https://github.com/Jonny10/Graphics-Raycast) - GPU-based raycaster for Unity
@@ -492,6 +499,10 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - Yarn Spinner is a tool for building interactive dialogue in games! 
 * [UniScript](https://github.com/pjc0247/UniScript) - Brings C# scripting into Unity which acts as native code.
 * [SlowSharp](https://github.com/pjc0247/SlowSharp) - C# interpreter written in C#
+
+### Serializer
+* [fullserializer](https://github.com/jacobdufault/fullserializer) - A robust JSON serialization framework that just works with support for all major Unity export platforms
+* [odin-serializer](https://github.com/TeamSirenix/odin-serializer) - Fast, robust, powerful and extendible .NET serializer built for Unity
 
 ### Services
 * [Google Play Games plugin for Unity](https://github.com/playgameservices/play-games-plugin-for-unity) - Google Play Games plugin for Unity
@@ -570,25 +581,20 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [UnityToolbag](https://github.com/nickgravelyn/UnityToolbag) - Variety of Unity scripts and tools.
 * [C-Sharp-Promise](https://github.com/Real-Serious-Games/C-Sharp-Promise) - Promises library for C# for management of asynchronous operations.
 * [3DMath](https://github.com/GregLukosek/3DMath) - Unity C# 3D Math methods library.
-* [Projeny](https://github.com/modesttree/Projeny) - A project and package manager for Unity.
 * [Unity Size Explorer](https://github.com/aschearer/unitysizeexplorer) - Visualize how much space each asset in your Unity game takes and quickly optimize your game's file size.
 * [UnityStudio](https://github.com/RaduMC/UnityStudio) - Unity Studio is a tool for exploring, extracting and exporting assets from Unity games and apps.
 * [InGameReplay](https://github.com/FeNo/InGameReplay) - Allow you to record the transform of any objects to replay it
 * [UniRx](https://github.com/neuecc/UniRx) - Reactive Extensions for Unity
 * [UnityMainThreadDispatcher](https://github.com/PimDeWitte/UnityMainThreadDispatcher) - A simple, thread-safe way of executing actions (Such as UI manipulations) on the Unity Main Thread
-* [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) - A NuGet Package Manager for Unity
 * [Rant](https://github.com/TheBerkin/rant) - Robust text engine for procedural generation and postprocessing
 * [E7Unity](https://github.com/5argon/E7Unity) - Common Unity resources
 * [mmd-for-unity](https://github.com/mmd-for-unity-proj/mmd-for-unity) - MikuMikuDance for Unity
 * [Unity.Library.eppz](https://github.com/eppz/Unity.Library.eppz) - Collection of libraries for Unity
 * [Alchemy-Circles-Generator](https://github.com/CiaccoDavide/Alchemy-Circles-Generator) - A simple procedural generator of alchemy circles
-* [odin-serializer](https://github.com/TeamSirenix/odin-serializer) - Fast, robust, powerful and extendible .NET serializer built for Unity
 * [UnityAsyncRoutines](https://github.com/TorVestergaard/UnityAsyncRoutines) - An extremely lightweight Unity library for creating and managing asynchronous coroutines for easy, straight-forward multi-threading and parallellism
-* [fullserializer](https://github.com/jacobdufault/fullserializer) - A robust JSON serialization framework that just works with support for all major Unity export platforms
 * [IMP](https://github.com/xraxra/IMP) - billboard imposter baking for Unity
 * [UDBase](https://github.com/KonH/UDBase) - module-based game template for Unity. Modules in UDBase are called Controllers, their implementation can be replaced without changing your project source code
 * [graphy](https://github.com/Tayx94/graphy) - Graphy is the ultimate, easy to use, feature packed stats monitor and debugger for your Unity project
-* [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) - A NuGet Package Manager for Unity
 * [unity-routines](https://github.com/tomblind/unity-routines) - Replacement for Unity coroutines that supports hierarchical routines and pooling
 * [CropTexture](https://github.com/natsupy/CropTexture) - Crop and resize texture in unity editor! Open it: Press F1
 * [demilib](https://github.com/Demigiant/demilib) - A library of various utilities and tools for Unity (alpha)
