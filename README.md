@@ -126,6 +126,8 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 ### Asset Bundle
 * [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager) - An asset bundle manager for Unity
+* [unity-addressable-importer](https://github.com/favoyang/unity-addressable-importer) - A rule based addressable asset importer
+* [KEngine](https://github.com/mr-kelly/KEngine) - A unity asset bundle framework with LGPL license
 
 ### Audio Manager
 * [Unity_AudioRig](https://github.com/debox-dev/Unity_AudioRig) - Provides better AudioSource management from scripts, pooling, looping, fading, following object in 3d space and more.
@@ -252,6 +254,8 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) - Attribute Extensions for Unity
 * [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender) - Extend the Unity Toolbar with your own Editor UI code.
 * [meshpreview](https://github.com/AscendingMan/meshpreview)
+* [unity-mulligan-renamer](https://github.com/redbluegames/unity-mulligan-renamer) - Mulligan Renamer tool for the Unity Editor allows for quick and safe renaming of many assets and gameobjects at once
+* [WhatUsesThis](https://github.com/Facepunch/WhatUsesThis) - Right click an asset and get a list of assets that use it
 
 ### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
@@ -327,7 +331,6 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Zinnia.Unity](https://github.com/ExtendRealityLtd/Zinnia.Unity) - A collection of design patterns for solving common problems.
 * [Red](https://github.com/X-Crew/Red) - Reactive Toolchain for Unity
 * [JEngine](https://github.com/JasonXuDeveloper/JEngine) - JEngine is a streamlined and easy-to-use framework designed for Unity Programmers which contains powerful features, beginners can start up quickly and making hot update-able games easily
-* [KEngine](https://github.com/mr-kelly/KEngine) - A unity asset bundle framework with LGPL license
 * [KSFramework](https://github.com/mr-kelly/KSFramework) - KSFramework = KEngine + SLua(or xLua) , Unity3D Framework/Toolsets focus on hot reload
 
 ### Gameplay
@@ -407,6 +410,8 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [AssetStudio](https://github.com/Perfare/AssetStudio) - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.
 * [UtinyRipper](https://github.com/mafaca/UtinyRipper) - GUI and API library for working with Engine assets, serialized and bundle files.
 * [MelonLoader](https://github.com/LavaGang/MelonLoader) - The World's First Universal Mod Loader for Unity Games that is Compatible with both Il2Cpp and Mono.
+* [UnityDoorstop](https://github.com/NeighTools/UnityDoorstop) - Doorstop -- run C# before Unity does!
+* [MonoHook](https://github.com/Misaka-Mikoto-Tech/MonoHook) - hook C# method at runtime without modify dll file (such as UnityEditor.dll)
 
 ### Monetization
 * [unity3d-levelup](https://github.com/soomla/unity3d-levelup) - Unity3D F2P game progression library - worlds, levels, missions, scores, records and more. Part of The SOOMLA Framework - for game design, economy modeling and faster development.
@@ -463,6 +468,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [UnityNativeCollision](https://github.com/jeffvella/UnityNativeCollision) - SAT Collision in C# for Unity3D Burst Compiler
 * [Fusion](https://github.com/Ninjajie/Fusion) - Unity Physics on GPU
 * [unity-physics-constraints](https://github.com/TheAllenChou/unity-physics-constraints) - Minimalistic educational constraint-based physics framework
+* [Unity-SensorKit](https://github.com/3DI70R/Unity-SensorKit) - Utility classes for headache-free raycasting configuration in Unity
 
 ### Plugins
 * [Reign Unity Plugin](https://github.com/reignstudios/Reign-Unity-Plugin5) - This Reign API is a cross-platform, unified API for the Unity game engine.
@@ -624,18 +630,14 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [GradientGenerator](https://github.com/5argon/GradientGenerator) - A Unity script to generate multiple variants of evenly distributed `Gradient` based on input `AnimationCurve`.
 * [Dialogue](https://github.com/Siccity/Dialogue) - Node based dialogue system
 * [Unity-EasingLibraryVisualisation](https://github.com/noisecrime/Unity-EasingLibraryVisualisation) - Front end visualisation of 40 common easing equations.
-* [unity-mulligan-renamer](https://github.com/redbluegames/unity-mulligan-renamer) - Mulligan Renamer tool for the Unity Editor allows for quick and safe renaming of many assets and gameobjects at once
 * [Xamarin.Forms.Unity](https://github.com/aosoft/Xamarin.Forms.Unity) - Xamarin.Forms for Unity (Platform implementation for Unity Game Engine)
-* [WhatUsesThis](https://github.com/Facepunch/WhatUsesThis) - Right click an asset and get a list of assets that use it
 * [UnityTimer](https://github.com/akbiggs/UnityTimer) - Powerful and convenient library for running actions after a delay in Unity3D
 * [PixelSpriteGenerator-Unity](https://github.com/Shogan/PixelSpriteGenerator-Unity) - A port of the PixelSpriteGenerator to C# for use with the Unity3D game engine
 * [WeightedRandomSelector](https://github.com/viliwonka/WeightedRandomSelector) - Very fast C# class for weighted random picking.
 * [SmartAssembler](https://github.com/Electronic-Brain/SmartAssembler) - Smartly Assembly your Project
 * [GetComponentAttribute](https://github.com/m3rt32/GetComponentAttribute) - A simple DI plugin for getting MonoBehaviour components just with an attribute over fields.
 * [unity-utils](https://github.com/nubick/unity-utils) - Different help scripts for Unity engine.
-* [UnityDoorstop](https://github.com/NeighTools/UnityDoorstop) - Doorstop -- run C# before Unity does!
 * [csharp-eval-unity3d](https://github.com/deniszykov/csharp-eval-unity3d) - C# Expression Parser for Unity3D
-* [unity-addressable-importer](https://github.com/favoyang/unity-addressable-importer) - A rule based addressable asset importer
 * [UnityNativeGallery](https://github.com/yasirkula/UnityNativeGallery) - A native Unity plugin to interact with Gallery/Photos on Android & iOS (save and/or load images/videos)
 * [ThreeDPoseUnityBarracuda](https://github.com/digital-standard/ThreeDPoseUnityBarracuda) - Unity sample of 3D pose estimation using Barracuda
 * [UnityStandaloneFileBrowser](https://github.com/gkngkc/UnityStandaloneFileBrowser) - A native file browser for unity standalone platforms
@@ -644,7 +646,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Unity3D-Humanizr](https://github.com/Thundernerd/Unity3D-Humanizr) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.
 * [unity-scene-reference](https://github.com/starikcetin/unity-scene-reference) - A SceneReference wrapper class that uses ISerializationCallbackReceiver and a custom PropertyDrawer to provide safe, user-friendly scene references in scripts.
 * [SceneKeeper](https://github.com/brunomikoski/SceneKeeper) - A simple tool that keeps your scene state (Hierarchy/Selection) exactly as you left in between switching scenes on editor or play mode.
-* [MonoHook](https://github.com/Misaka-Mikoto-Tech/MonoHook) - hook C# method at runtime without modify dll file (such as UnityEditor.dll)
 * [Unity3D-save-audioClip-to-MP3](https://github.com/Team-on/Unity3D-save-audioClip-to-MP3) - Save an audioclip to mp3 in unity3d. Also plugin can save audioclip to wav and convert wav to mp3.
 
 ### Video
