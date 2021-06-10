@@ -8,6 +8,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [AI](#ai)
 - [Analyzer](#analyzer)
 - [Animation](#animation)
+- [Art Tools](#art-tools)
 - [Asset Bundle](#asset-bundle)
 - [Audio Manager](#audio-manager)
 - [Bolt](#bolt)
@@ -18,6 +19,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Controller Mappings](#controller-mappings)
 - [Console](#console)
 - [Dependency Injection](#dependency-injection)
+- [Document Reader](#document-reader)
 - [DOTS](#dots)
 - [ECS Framework](#ecs-framework)
 - [Editor](#editor)
@@ -113,6 +115,12 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [unity-animator-helpers](https://github.com/ashblue/unity-animator-helpers) - A micro-framework for changing Unity 3D's Animator parameters with ScriptableObject(s). Designed to make going from custom scripts to Animator parameters easy. Works with 2D or 3D projects
 * [UrMotion](https://github.com/beinteractive/UrMotion) - A flexible motion engine for non time-based animation in Unity
 
+### Art Tools
+* [XdUnityUI](https://github.com/itouh2-i0plus/XdUnityUI) - AdobeXd to UnityUI converter
+* [Baum2](https://github.com/kyubuns/Baum2) - Psd to Unity UI(uGUI)
+* [UnityPSDLayoutTool](https://github.com/GlitchEnzo/UnityPSDLayoutTool) - A tool used to import a Photoshop Documents (.psd files) into the Unity Game Engine.
+* [Materialize](https://github.com/BoundingBoxSoftware/Materialize) - Materialize is a program for converting images to materials for use in video games and whatnot
+
 ### Asset Bundle
 * [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager) - An asset bundle manager for Unity
 
@@ -191,6 +199,11 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [CatLib](https://github.com/CatLib/CatLib) - CatLib lightweight dependency injection container
 * [VContainer](https://github.com/hadashiA/VContainer) - The extra fast, minimum code size, GC-free DI (Dependency Inject) library running on Unity (IL2CPP).
 * [AtreeboosterDI](https://github.com/kubpica/AtreeboosterDI) - The Hierarchy-based Dependency Injection tool for Unity game engine. Intuitivly manage dependencies of your MonoBehaviours with simple but powerfull [Attributes]
+
+### Document Reader
+* [GoogleSheetsUnity](https://github.com/5argon/GoogleSheetsUnity) - Get data from your private Google Sheets to Unity!! (Read-only)
+* [UnityCsvUtil](https://github.com/sinbad/UnityCsvUtil) - Lightweight but type safe CSV serialise/deserialise of objects
+* [UnityGoogleDrive](https://github.com/Elringus/UnityGoogleDrive) - Google Drive SDK for Unity game engine
 
 ### ECS Framework
 * [Entitas-CSharp](https://github.com/sschmid/Entitas-CSharp) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
@@ -564,7 +577,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [UniRx](https://github.com/neuecc/UniRx) - Reactive Extensions for Unity
 * [UnityMainThreadDispatcher](https://github.com/PimDeWitte/UnityMainThreadDispatcher) - A simple, thread-safe way of executing actions (Such as UI manipulations) on the Unity Main Thread
 * [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) - A NuGet Package Manager for Unity
-* [UnityPSDLayoutTool](https://github.com/GlitchEnzo/UnityPSDLayoutTool) - A tool used to import a Photoshop Documents (.psd files) into the Unity Game Engine.
 * [Rant](https://github.com/TheBerkin/rant) - Robust text engine for procedural generation and postprocessing
 * [E7Unity](https://github.com/5argon/E7Unity) - Common Unity resources
 * [mmd-for-unity](https://github.com/mmd-for-unity-proj/mmd-for-unity) - MikuMikuDance for Unity
@@ -577,7 +589,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [UDBase](https://github.com/KonH/UDBase) - module-based game template for Unity. Modules in UDBase are called Controllers, their implementation can be replaced without changing your project source code
 * [graphy](https://github.com/Tayx94/graphy) - Graphy is the ultimate, easy to use, feature packed stats monitor and debugger for your Unity project
 * [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) - A NuGet Package Manager for Unity
-* [GoogleSheetsUnity](https://github.com/5argon/GoogleSheetsUnity) - Get data from your private Google Sheets to Unity!! (Read-only)
 * [unity-routines](https://github.com/tomblind/unity-routines) - Replacement for Unity coroutines that supports hierarchical routines and pooling
 * [CropTexture](https://github.com/natsupy/CropTexture) - Crop and resize texture in unity editor! Open it: Press F1
 * [demilib](https://github.com/Demigiant/demilib) - A library of various utilities and tools for Unity (alpha)
@@ -590,15 +601,12 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [CoroutineChain](https://github.com/geniikw/CoroutineChain) - Unity3d, Coroutine, scripting
 * [disruptor-unity3d](https://github.com/dave-hillier/disruptor-unity3d) - Basic implementation of Disruptor for Unity3d
 * [uREPL](https://github.com/hecomi/uREPL) - In-game powerful REPL environment for Unity3D
-* [OnionRingUnity](https://github.com/kyubuns/OnionRingUnity) - Auto 9 slice sprite generator
-* [UnityCsvUtil](https://github.com/sinbad/UnityCsvUtil) - Lightweight but type safe CSV serialise/deserialise of objects
 * [InkPainter](https://github.com/EsProgram/InkPainter) - Texture-Paint on Unity
 * [WaveformProvider](https://github.com/EsProgram/WaveformProvider) - Provide a texture to simulate waves with Unity. Require InkPainter.
 * [DataBind](https://github.com/tinrab/DataBind) - Simple data binding for Unity
 * [GradientGenerator](https://github.com/5argon/GradientGenerator) - A Unity script to generate multiple variants of evenly distributed `Gradient` based on input `AnimationCurve`.
 * [Dialogue](https://github.com/Siccity/Dialogue) - Node based dialogue system
 * [Unity-EasingLibraryVisualisation](https://github.com/noisecrime/Unity-EasingLibraryVisualisation) - Front end visualisation of 40 common easing equations.
-* [UnityGoogleDrive](https://github.com/Elringus/UnityGoogleDrive) - Google Drive SDK for Unity game engine
 * [unity-mulligan-renamer](https://github.com/redbluegames/unity-mulligan-renamer) - Mulligan Renamer tool for the Unity Editor allows for quick and safe renaming of many assets and gameobjects at once
 * [Xamarin.Forms.Unity](https://github.com/aosoft/Xamarin.Forms.Unity) - Xamarin.Forms for Unity (Platform implementation for Unity Game Engine)
 * [WhatUsesThis](https://github.com/Facepunch/WhatUsesThis) - Right click an asset and get a list of assets that use it
@@ -612,10 +620,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [csharp-eval-unity3d](https://github.com/deniszykov/csharp-eval-unity3d) - C# Expression Parser for Unity3D
 * [unity-addressable-importer](https://github.com/favoyang/unity-addressable-importer) - A rule based addressable asset importer
 * [meshpreview](https://github.com/AscendingMan/meshpreview)
-* [Baum2](https://github.com/kyubuns/Baum2) - Psd to Unity UI(uGUI)
 * [UnityNativeGallery](https://github.com/yasirkula/UnityNativeGallery) - A native Unity plugin to interact with Gallery/Photos on Android & iOS (save and/or load images/videos)
 * [ThreeDPoseUnityBarracuda](https://github.com/digital-standard/ThreeDPoseUnityBarracuda) - Unity sample of 3D pose estimation using Barracuda
-* [XdUnityUI](https://github.com/itouh2-i0plus/XdUnityUI) - AdobeXd to UnityUI converter
 * [UnityStandaloneFileBrowser](https://github.com/gkngkc/UnityStandaloneFileBrowser) - A native file browser for unity standalone platforms
 * [Mathfs](https://github.com/FreyaHolmer/Mathfs) - Expanded Math Functionality for Unity
 * [Unity3D-Histogrammer](https://github.com/Thundernerd/Unity3D-Histogrammer) - A tool for Unity3D to help you pinpoint redundant data
@@ -623,7 +629,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [unity-scene-reference](https://github.com/starikcetin/unity-scene-reference) - A SceneReference wrapper class that uses ISerializationCallbackReceiver and a custom PropertyDrawer to provide safe, user-friendly scene references in scripts.
 * [SceneKeeper](https://github.com/brunomikoski/SceneKeeper) - A simple tool that keeps your scene state (Hierarchy/Selection) exactly as you left in between switching scenes on editor or play mode.
 * [MonoHook](https://github.com/Misaka-Mikoto-Tech/MonoHook) - hook C# method at runtime without modify dll file (such as UnityEditor.dll)
-* [Materialize](https://github.com/BoundingBoxSoftware/Materialize) - Materialize is a program for converting images to materials for use in video games and whatnot
 * [Unity3D-save-audioClip-to-MP3](https://github.com/Team-on/Unity3D-save-audioClip-to-MP3) - Save an audioclip to mp3 in unity3d. Also plugin can save audioclip to wav and convert wav to mp3.
 
 ### Video
