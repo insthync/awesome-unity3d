@@ -444,6 +444,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Backroll](https://github.com/HouraiTeahouse/Backroll) - Unity C# Port of GGPO built atop Hourai Networking
 * [sand-socket-unity](https://github.com/ccadori/sand-socket-unity) - Sand Unity is a Unity3D client for [Sand](https://github.com/ccadori/sand-socket)
 * [Pun2Task](https://github.com/TORISOUP/Pun2Task) - This library enables async/await in Photon Unity Networking 2.
+* [UnityWebSocket](https://github.com/psygames/UnityWebSocket) - The Best Unity WebSocket Plugin for All Platforms.
 
 ### Package Manager
 * [Projeny](https://github.com/modesttree/Projeny) - A project and package manager for Unity.
