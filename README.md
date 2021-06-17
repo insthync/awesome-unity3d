@@ -159,6 +159,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [NaughtyCharacter](https://github.com/dbrizov/NaughtyCharacter) - Third Person Controller for Unity
 * [Advanced Rigidbody FirstPerson Controller](https://github.com/Moe-Baker/Advanced-Rigidbody-FirstPerson-Controller) - Rigidbody Based FirstPerson Controller
 * [Fragsurf-Character-Controller](https://github.com/AwesomeX/Fragsurf-Character-Controller) - Surf and bhop movement in Unity3d
+* [Erbium](https://github.com/mikhomak/Erbium) - Third Person Character Controller for unity
 
 ### Controller Mappings
 * [Dualshock 3 (PS3)](https://forum.unity.com/threads/ps3-button-map.89288/)
