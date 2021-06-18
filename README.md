@@ -456,6 +456,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [sand-socket-unity](https://github.com/ccadori/sand-socket-unity) - Sand Unity is a Unity3D client for [Sand](https://github.com/ccadori/sand-socket)
 * [Pun2Task](https://github.com/TORISOUP/Pun2Task) - This library enables async/await in Photon Unity Networking 2.
 * [UnityWebSocket](https://github.com/psygames/UnityWebSocket) - The Best Unity WebSocket Plugin for All Platforms.
+* [graphQL-client-unity](https://github.com/Gazuntype/graphQL-client-unity) - This repository houses a unitypackage that can be included in your Unity Project to enable it communicate with a graphQL server.
 
 ### Package Manager
 * [Projeny](https://github.com/modesttree/Projeny) - A project and package manager for Unity.
