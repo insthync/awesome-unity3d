@@ -248,7 +248,6 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [SearchStringInAssets](https://github.com/baobao/SearchStringInAssets) - SearchStringInAssets is an Editor extension that allows you to search the UnityEditor for strings stored in a scene, Prefab, or ScriptableObject.
 * [UnityScreenShooter](https://github.com/Team-on/UnityScreenShooter) - Screenshot utility for Unity runtime & editor
 * [CustomToolbar](https://github.com/smkplus/CustomToolbar) - Custom toolbar with ability do add new toolbars and reorganize it
-* [Smart-Hierarchy](https://github.com/neon-age/Smart-Hierarchy) - Human-friendly hierarchy for Unity
 * [SuperEditor](https://github.com/UnitySuperEditor/SuperEditor) - Super Editor is a versatile Unity editor extension that includes a powerful, easy-to-use built-in IDE, Hieararchy enhancements, and Favorites enhancements
 * [hierarchy-2](https://github.com/truongnguyentungduy/hierarchy-2) - Editor extension to improve Unity hierarchy window. Makes the hierarchy more detail, but still clean and easy to organize.
 * [one-line](https://github.com/slavniyteo/one-line) - One line property drawer for Unity3d
@@ -257,6 +256,8 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [meshpreview](https://github.com/AscendingMan/meshpreview)
 * [unity-mulligan-renamer](https://github.com/redbluegames/unity-mulligan-renamer) - Mulligan Renamer tool for the Unity Editor allows for quick and safe renaming of many assets and gameobjects at once
 * [WhatUsesThis](https://github.com/Facepunch/WhatUsesThis) - Right click an asset and get a list of assets that use it
+* [Smart-Hierarchy](https://github.com/neon-age/Smart-Hierarchy) - Human-friendly hierarchy for Unity
+* [Smart-Inspector](https://github.com/neon-age/Smart-Inspector) - Keeps your screen real-estate clean with refined, compact UX.
 
 ### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
