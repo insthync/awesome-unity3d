@@ -128,6 +128,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager) - An asset bundle manager for Unity
 * [unity-addressable-importer](https://github.com/favoyang/unity-addressable-importer) - A rule based addressable asset importer
 * [KEngine](https://github.com/mr-kelly/KEngine) - A unity asset bundle framework with LGPL license
+* [UnityAutoBundles](https://github.com/perholmes/UnityAutoBundles) - Extension to Unity's Addressables for making it easier to distribute large projects and keep mobile download size small.
 
 ### Audio Manager
 * [Unity_AudioRig](https://github.com/debox-dev/Unity_AudioRig) - Provides better AudioSource management from scripts, pooling, looping, fading, following object in 3d space and more.
@@ -258,6 +259,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [WhatUsesThis](https://github.com/Facepunch/WhatUsesThis) - Right click an asset and get a list of assets that use it
 * [Smart-Hierarchy](https://github.com/neon-age/Smart-Hierarchy) - Human-friendly hierarchy for Unity
 * [Smart-Inspector](https://github.com/neon-age/Smart-Inspector) - Keeps your screen real-estate clean with refined, compact UX.
+* [EasyButtons](https://github.com/madsbangh/EasyButtons) - Add buttons to your inspector in Unity super easily with this simple attribute
 
 ### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
