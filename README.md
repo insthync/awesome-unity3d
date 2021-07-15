@@ -378,6 +378,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [roadcreator](https://github.com/MCrafterzz/roadcreator) - A free road creation tool for unity
 * [LDtkUnity](https://github.com/Cammin/LDtkUnity) - A package for easy Unity-integration with the Level Designer Toolkit, created by deepnight: https://github.com/deepnight/ldtk
 * [Chisel.Prototype](https://github.com/RadicalCSG/Chisel.Prototype) - Work in progress prototype for the Chisel Level Editor, for Unity
+* [Grid-Placer](https://github.com/JanMalitschek/Grid-Placer) - A Unity3D package to alleviate the pain of creating grid-based maps by hand
 
 ### Light
 * [Aura](https://github.com/raphael-ernaelsten/Aura) - Volumetric Lighting for Unity
