@@ -199,6 +199,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [ECSEntityBuilder](https://github.com/actionk/ECSEntityBuilder) - Unity ECS Entity Builder/Wrapper
 * [Simple-ECS](https://github.com/AkanshDivker/Simple-ECS) - An example using the core features of the Entity Component System (ECS), part of DOTS, for Unity, inspired by Roll-a-ball. This project utilizes the Unity Physics, Hybrid Renderer, and Entities packages.
 * [Unity_ECS_GPUSkinning](https://github.com/dreamfairy/Unity_ECS_GPUSkinning) - ECS boost GpuSkinning
+* [UnityDotsCharacterController](https://github.com/ssell/UnityDotsCharacterController) - Basic Character Controller Using ECS and Unity.Physics Packages
 
 ### Dependency Injection
 * [Zenject](https://github.com/modesttree/Zenject) - Dependency Injection Framework for Unity3D
