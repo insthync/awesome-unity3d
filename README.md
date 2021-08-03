@@ -709,3 +709,4 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Cracked Ice Shader](https://80.lv/articles/how-to-build-cracked-ice-in-material-editor/)
 ## Books
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/) Free and Paid available
+* [Unity in Action, Third Edition](https://www.manning.com/books/unity-in-action-third-edition) A book about creating 2D, 3D, and AR/VR games with the awesome Unity game platform.
