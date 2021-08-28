@@ -207,6 +207,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [CatLib](https://github.com/CatLib/CatLib) - CatLib lightweight dependency injection container
 * [VContainer](https://github.com/hadashiA/VContainer) - The extra fast, minimum code size, GC-free DI (Dependency Inject) library running on Unity (IL2CPP).
 * [AtreeboosterDI](https://github.com/kubpica/AtreeboosterDI) - The Hierarchy-based Dependency Injection tool for Unity game engine. Intuitivly manage dependencies of your MonoBehaviours with simple but powerfull [Attributes]
+* [reflex](https://github.com/gustavopsantos/reflex) - Minimal dependency injection framework for Unity
 
 ### Document Reader
 * [GoogleSheetsUnity](https://github.com/5argon/GoogleSheetsUnity) - Get data from your private Google Sheets to Unity!! (Read-only)
