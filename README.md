@@ -212,6 +212,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [GoogleSheetsUnity](https://github.com/5argon/GoogleSheetsUnity) - Get data from your private Google Sheets to Unity!! (Read-only)
 * [UnityCsvUtil](https://github.com/sinbad/UnityCsvUtil) - Lightweight but type safe CSV serialise/deserialise of objects
 * [UnityGoogleDrive](https://github.com/Elringus/UnityGoogleDrive) - Google Drive SDK for Unity game engine
+* [UnityEditorGoogleDriveIntegration](https://github.com/yasirkula/UnityEditorGoogleDriveIntegration) - Access your Google Drive™ files from within Unity editor
 
 ### ECS Framework
 * [Entitas-CSharp](https://github.com/sschmid/Entitas-CSharp) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
@@ -486,6 +487,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [unity-native-sharing](https://github.com/ChrisMaire/unity-native-sharing) - A Unity plugin to open native sharing dialogs on iOS and Android, primarily for sharing screenshots.
 * [Unity3D Android notification plugin](https://github.com/Agasper/unity-android-notifications) - Unity3D Plugin for Android local notifications with example project
 * [PuppeteerSharp.Unity3D](https://github.com/uta-org/PuppeteerSharp.Unity3D) - Puppeteer Sharp is a .NET port of the official
+* [uLipSync](https://github.com/hecomi/uLipSync) - https://github.com/hecomi/uLipSync
 
 ### Procedural Generation Systems
 * [DungeonGenerator](https://github.com/jongallant/DungeonGenerator) - A dungeon generator for Unity
