@@ -339,6 +339,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Red](https://github.com/X-Crew/Red) - Reactive Toolchain for Unity
 * [JEngine](https://github.com/JasonXuDeveloper/JEngine) - JEngine is a streamlined and easy-to-use framework designed for Unity Programmers which contains powerful features, beginners can start up quickly and making hot update-able games easily
 * [KSFramework](https://github.com/mr-kelly/KSFramework) - KSFramework = KEngine + SLua(or xLua) , Unity3D Framework/Toolsets focus on hot reload
+* [UniGame.ViewSystem](https://github.com/UniGameTeam/UniGame.ViewSystem) - MVVM Views System for Unity3D
 
 ### Gameplay
 * [UnityArcRayCast](https://github.com/williamrjackson/UnityArcRayCast) - Arc raycast utility using projectile formulas
@@ -602,6 +603,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [UIForia](https://github.com/klanggames/UIForia) - UIForia - a new UI framework written for Unity
 * [TMP-Text-Juicer](https://github.com/brunomikoski/TMP-Text-Juicer) - Text Juicer for Text Mesh PRO
 * [Text-Juicer](https://github.com/brunomikoski/Text-Juicer) - Simple tool to create awesome text animations
+* [PoiPoiTooltip](https://github.com/arket/PoiPoiTooltip) - PoiPoiTooltip is a simple tooltip. (Unity Asset)
 
 ### Utilities
 * [LINQ to GameObject](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ
