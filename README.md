@@ -116,6 +116,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 ### Animation
 * [unity-animator-helpers](https://github.com/ashblue/unity-animator-helpers) - A micro-framework for changing Unity 3D's Animator parameters with ScriptableObject(s). Designed to make going from custom scripts to Animator parameters easy. Works with 2D or 3D projects
 * [UrMotion](https://github.com/beinteractive/UrMotion) - A flexible motion engine for non time-based animation in Unity
+* [Automatic-DynamicBone](https://github.com/OneYoungMean/Automatic-DynamicBone) - Unity bone cloth spring system,base by jobs
 
 ### Art Tools
 * [XdUnityUI](https://github.com/itouh2-i0plus/XdUnityUI) - AdobeXd to UnityUI converter
@@ -355,6 +356,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Unity3d-PhysicsGun](https://github.com/Laumania/Unity3d-PhysicsGun) - Unity3d sample implementation of a Half-life 2 / Garry's mod/ Gmod Physics Gun
 * [Piranha](https://github.com/keenanwoodall/Piranha) - A very simple tool to make rigidbodies swarm a mesh in Unity
 * [Grapple-Effect](https://github.com/keenanwoodall/Grapple-Effect) - An example of a simple grapple effect in Unity
+* [Traverser](https://github.com/AitorSimona/Traverser) - Traverser is a free and open source player traversal toolkit featuring Locomotion, Parkour and Climbing. Includes procedural animation, physical animation, custom motion warping and root motion. It is self-contained in a set of scripts. Use the given abilities or expand the system through its shared ability workflow.
 
 ### Input
 * [InputManager](https://github.com/daemon3000/InputManager) - Custom InputManager for Unity
