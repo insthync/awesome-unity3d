@@ -468,6 +468,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Pun2Task](https://github.com/TORISOUP/Pun2Task) - This library enables async/await in Photon Unity Networking 2.
 * [UnityWebSocket](https://github.com/psygames/UnityWebSocket) - The Best Unity WebSocket Plugin for All Platforms.
 * [graphQL-client-unity](https://github.com/Gazuntype/graphQL-client-unity) - This repository houses a unitypackage that can be included in your Unity Project to enable it communicate with a graphQL server.
+* [zapnet](https://github.com/deadgg/zapnet) - ⚡ Zapnet is a Unity framework for game networking built with Lidgren
 
 ### Package Manager
 * [Projeny](https://github.com/modesttree/Projeny) - A project and package manager for Unity.
