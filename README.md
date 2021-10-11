@@ -264,6 +264,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Smart-Hierarchy](https://github.com/neon-age/Smart-Hierarchy) - Human-friendly hierarchy for Unity
 * [Smart-Inspector](https://github.com/neon-age/Smart-Inspector) - Keeps your screen real-estate clean with refined, compact UX.
 * [EasyButtons](https://github.com/madsbangh/EasyButtons) - Add buttons to your inspector in Unity super easily with this simple attribute
+* [HierarchyDecorator](https://github.com/WooshiiDev/HierarchyDecorator) - Lightweight Unity Plugin transforming the Hierarchy into what it should be. Adds headers, styles, icons and more.
 
 ### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
