@@ -37,6 +37,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Modding](#modding)
 - [Monetization](#monetization)
 - [Networking](#networking)
+- [Node Graph](#node-graph)
 - [Package Manager](#package-manager)
 - [Physic](#physic)
 - [Plugins](#plugins)
@@ -471,6 +472,11 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [graphQL-client-unity](https://github.com/Gazuntype/graphQL-client-unity) - This repository houses a unitypackage that can be included in your Unity Project to enable it communicate with a graphQL server.
 * [zapnet](https://github.com/deadgg/zapnet) - ⚡ Zapnet is a Unity framework for game networking built with Lidgren
 
+### Node Graph
+* [xNode](https://github.com/Siccity/xNode) - Lets you view and edit node graphs inside Unity
+* [UnityRuntimeNodeEditor](https://github.com/cemuka/UnityRuntimeNodeEditor) - Unity runtime node editor using with Unity UI
+* [NodeGraphProcessor](https://github.com/alelievr/NodeGraphProcessor) - Node graph editor framework focused on data processing using Unity UIElements and C# 4.6
+
 ### Package Manager
 * [Projeny](https://github.com/modesttree/Projeny) - A project and package manager for Unity.
 * [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) - A NuGet Package Manager for Unity
@@ -635,7 +641,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [unity-routines](https://github.com/tomblind/unity-routines) - Replacement for Unity coroutines that supports hierarchical routines and pooling
 * [CropTexture](https://github.com/natsupy/CropTexture) - Crop and resize texture in unity editor! Open it: Press F1
 * [demilib](https://github.com/Demigiant/demilib) - A library of various utilities and tools for Unity (alpha)
-* [xNode](https://github.com/Siccity/xNode) - Lets you view and edit node graphs inside Unity
 * [SerializableCallback](https://github.com/Siccity/SerializableCallback) - UnityEvent and System.Func had a child
 * [bitstrap](https://github.com/bitcake/bitstrap) - BitStrap is BitCake's collection of Unity tools that improve our workflow
 * [UnityPack](https://github.com/HearthSim/UnityPack) - Python deserialization library for Unity3D Asset format
@@ -667,6 +672,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [SceneKeeper](https://github.com/brunomikoski/SceneKeeper) - A simple tool that keeps your scene state (Hierarchy/Selection) exactly as you left in between switching scenes on editor or play mode.
 * [Unity3D-save-audioClip-to-MP3](https://github.com/Team-on/Unity3D-save-audioClip-to-MP3) - Save an audioclip to mp3 in unity3d. Also plugin can save audioclip to wav and convert wav to mp3.
 * [CandyCoded](https://github.com/CandyCoded/CandyCoded) - Custom Unity Components that are delightful
+* [PrefabLightmapping](https://github.com/Ayfel/PrefabLightmapping) - Script for saving lightmapping data to prefabs. Used through the Assets tab in Unity.
 
 ### Video
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
