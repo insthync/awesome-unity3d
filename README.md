@@ -413,6 +413,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Deform](https://github.com/keenanwoodall/Deform) - A fully-featured deformer system for Unity
 * [unity-ray-marching](https://github.com/TheAllenChou/unity-ray-marching) - Ray marching sandbox
 * [Hull-Delaunay-Voronoi](https://github.com/Scrawk/Hull-Delaunay-Voronoi) - Hull, Delaunay and Voronoi algorithms in Unity
+* [IsoMesh](https://github.com/EmmetOT/IsoMesh) - IsoMesh is a group of related tools for Unity for converting meshes into signed distance field data, raymarching signed distance fields, and extracting signed distance field data back to meshes via surface nets or dual contouring.
 
 ### Modding
 * [dotPeek](https://www.jetbrains.com/decompiler/) - Free .NET Decompiler and Assembly Browser.
