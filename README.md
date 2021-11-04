@@ -472,6 +472,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [UnityWebSocket](https://github.com/psygames/UnityWebSocket) - The Best Unity WebSocket Plugin for All Platforms.
 * [graphQL-client-unity](https://github.com/Gazuntype/graphQL-client-unity) - This repository houses a unitypackage that can be included in your Unity Project to enable it communicate with a graphQL server.
 * [zapnet](https://github.com/deadgg/zapnet) - ⚡ Zapnet is a Unity framework for game networking built with Lidgren
+* [Httx](https://github.com/whitesharx/httx/) - X-force HTTP/REST library for Unity. Zero dependency, fluent and extensible
 
 ### Node Graph
 * [xNode](https://github.com/Siccity/xNode) - Lets you view and edit node graphs inside Unity
