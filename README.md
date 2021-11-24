@@ -56,6 +56,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Utilities](#utilities)
 - [Video](#video)
 - [VR](#vr)
+- [Web View](#web-view)
 - [XR](#xr)
 
 [**Assets**](#assets)
@@ -497,7 +498,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 ### Plugins
 * [Reign Unity Plugin](https://github.com/reignstudios/Reign-Unity-Plugin5) - This Reign API is a cross-platform, unified API for the Unity game engine.
-* [unity-webview](https://github.com/gree/unity-webview) - A plugin for Unity 5 that overlays WebView components on Unity view. It works on Android, iOS, Unity Web Player, and OS X (Windows is not supported for now).
 * [google-analytics-plugin-for-unity](https://github.com/googleanalytics/google-analytics-plugin-for-unity) - Google Analytics plugin for the Unity game creation system
 * [unity-native-sharing](https://github.com/ChrisMaire/unity-native-sharing) - A Unity plugin to open native sharing dialogs on iOS and Android, primarily for sharing screenshots.
 * [Unity3D Android notification plugin](https://github.com/Agasper/unity-android-notifications) - Unity3D Plugin for Android local notifications with example project
@@ -690,6 +690,10 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [VRWorksAudio-Unity](https://github.com/Andy260/VRWorksAudio-Unity) - Unofficial implementation of NVIDIA's VRWorks - Audio for Unity3D
 * [Lightweight-VR](https://github.com/Spatial-Cinematics/Lightweight-VR) - An open sourced, light weight, VR input framework. This is basically an empty Unity project that's been setup for easy VR integration without having to pull down any packages. No need for Steam VR or OVR plugins.
 * [HPTK](https://github.com/jorgejgnz/HPTK) - Hand Physics Toolkit (HPTK) is a toolkit to build physical hand-driven interactions in a modular and scalable way.
+
+### Web View
+* [servo-unity](https://github.com/MozillaReality/servo-unity) - This project constitutes a Unity native plugin and a set of Unity C# script components allow third parties to incorporate Servo browser windows into Unity scenes.
+* [unity-webview](https://github.com/gree/unity-webview) - A plugin for Unity 5 that overlays WebView components on Unity view. It works on Android, iOS, Unity Web Player, and OS X (Windows is not supported for now).
 
 ### XR
 * [XRTK](https://github.com/XRTK/XRTK-Core) - The Official Mixed Reality Framework for Unity 
