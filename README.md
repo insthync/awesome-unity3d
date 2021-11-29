@@ -419,7 +419,9 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 ### Modding
 * [dotPeek](https://www.jetbrains.com/decompiler/) - Free .NET Decompiler and Assembly Browser.
-* [OpenSesameCompilerForUnity](https://github.com/mob-sakai/OpenSesameCompilerForUnity) - A Roslyn compiler to access internals/privates for Unity. In other words, you can access to any internals/privates in other assemblies, without reflection. Let's say, "Open sesame!".
+* [OpenSesame](https://github.com/mob-sakai/OpenSesame) - A custom Roslyn compiler that allows access to internals/privates in other assemblies. Say "Open, Sesame!"
+* [CSharpCompilerSettingsForUnity](https://github.com/mob-sakai/CSharpCompilerSettingsForUnity) - Change the C# compiler (csc) used on your Unity project, as you like!.
+* [Unity-Bridge-API](https://github.com/neon-age/Unity-Bridge-API) - Exposes private Unity APIs for direct access
 * [Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies.
 * [Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime.
 * [dnSpy](https://github.com/0xd4d/dnSpy) - .NET debugger and assembly editor.
