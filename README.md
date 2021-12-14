@@ -112,6 +112,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [unity-navgen](https://github.com/idbrii/unity-navgen) - Tools for working with Unity's NavMeshComponents and generating navmesh: link generation, mesh cleanup, etc.
 * [Unity-Character-Mechanism](https://github.com/MorelAntoine/Unity-Character-Mechanism) - Framework aiming to facilitate the code development of a character in Unity
 * [CustomNavMesh](https://github.com/jadvrodrigues/CustomNavMesh) - Alternative to Unity's NavMesh system where the agents avoid each other.
+* [PathFinder3D](https://github.com/TheCyaniteProject/PathFinder3D) - 3D A* Pathfinding that doesn't need baked navmeshes and can be used with dynamically created terrain (MapMagic or other)
 
 ### Analyzer
 * [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) - A Memory Profiler, Debugger and Analyzer for Unity 2019.3 and newer.
@@ -133,6 +134,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [unity-addressable-importer](https://github.com/favoyang/unity-addressable-importer) - A rule based addressable asset importer
 * [KEngine](https://github.com/mr-kelly/KEngine) - A unity asset bundle framework with LGPL license
 * [UnityAutoBundles](https://github.com/perholmes/UnityAutoBundles) - Extension to Unity's Addressables for making it easier to distribute large projects and keep mobile download size small.
+* [EZAddresser](https://github.com/Haruma-K/EZAddresser) - Automatic addressing system for Unity Addressable Asset System.
 
 ### Audio Manager
 * [Unity_AudioRig](https://github.com/debox-dev/Unity_AudioRig) - Provides better AudioSource management from scripts, pooling, looping, fading, following object in 3d space and more.
