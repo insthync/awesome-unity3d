@@ -155,6 +155,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Dynamic Multi Target Camera for Unity](https://github.com/lopespm/unity-camera-multi-target) - Concise Unity library which dynamically keeps a set of objects (e.g. players and important objects) in view.
 * [FulldomeCameraForUnity](https://github.com/rsodre/FulldomeCameraForUnity) - Fulldome Camera for Unity 2019
 * [Unity_SceneCameraController](https://github.com/XJINE/Unity_SceneCameraController) - Control a camera or any other object like SceneView camera.
+* [Camera-Shake](https://github.com/gasgiant/Camera-Shake) - Camera shake for Unity
 
 ### Character Controllers 2D
 * [CharacterController2D](https://github.com/prime31/CharacterController2D) - is similar to the built-in Unity CharacterController component. It has a similar API (mainly a move method that takes a delta movement) and provides a firm base with which to make a super solid controller using Unity's 2D system.
@@ -270,6 +271,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Smart-Inspector](https://github.com/neon-age/Smart-Inspector) - Keeps your screen real-estate clean with refined, compact UX.
 * [EasyButtons](https://github.com/madsbangh/EasyButtons) - Add buttons to your inspector in Unity super easily with this simple attribute
 * [HierarchyDecorator](https://github.com/WooshiiDev/HierarchyDecorator) - Lightweight Unity Plugin transforming the Hierarchy into what it should be. Adds headers, styles, icons and more.
+* [Markup-Attributes](https://github.com/gasgiant/Markup-Attributes) - A Unity Editor extension for customizing inspector layout with attributes.
 
 ### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
@@ -326,6 +328,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Unity_LightBeamPerformance](https://github.com/kodai100/Unity_LightBeamPerformance) - This package can create light beam performance with Unity's timeline functionality.
 * [JasonMaToonRenderPipeline](https://github.com/Jason-Ma-233/JasonMaToonRenderPipeline) - JTRP : Unity HDRP ToonShading Render Pipeline
 * [NovaShader](https://github.com/CyberAgentGameEntertainment/NovaShader) - Multi-functional shader for the Particle System that supports Universal Render Pipeline (URP) of Unity.
+* [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean) - FFT ocean for Unity
 
 ### Embedding
 * [react-native-unity-view](https://github.com/f111fei/react-native-unity-view) - Show an unity view in react native
