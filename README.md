@@ -122,6 +122,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [UrMotion](https://github.com/beinteractive/UrMotion) - A flexible motion engine for non time-based animation in Unity
 * [Automatic-DynamicBone](https://github.com/OneYoungMean/Automatic-DynamicBone) - Unity bone cloth spring system,base by jobs
 * [reanimation](https://github.com/aarthificial/reanimation) - An alternative animator for Unity tailored for traditional animation
+* [AnimeTask](https://github.com/kyubuns/AnimeTask) - Task Animation Library for Unity
 
 ### Art Tools
 * [XdUnityUI](https://github.com/itouh2-i0plus/XdUnityUI) - AdobeXd to UnityUI converter
@@ -627,6 +628,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [TMP-Text-Juicer](https://github.com/brunomikoski/TMP-Text-Juicer) - Text Juicer for Text Mesh PRO
 * [Text-Juicer](https://github.com/brunomikoski/Text-Juicer) - Simple tool to create awesome text animations
 * [PoiPoiTooltip](https://github.com/arket/PoiPoiTooltip) - PoiPoiTooltip is a simple tooltip. (Unity Asset)
+* [Auto9Slicer](https://github.com/kyubuns/Auto9Slicer) - Auto 9 slice sprite generator on Unity.
 
 ### Utilities
 * [LINQ to GameObject](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ
