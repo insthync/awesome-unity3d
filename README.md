@@ -121,6 +121,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [unity-animator-helpers](https://github.com/ashblue/unity-animator-helpers) - A micro-framework for changing Unity 3D's Animator parameters with ScriptableObject(s). Designed to make going from custom scripts to Animator parameters easy. Works with 2D or 3D projects
 * [UrMotion](https://github.com/beinteractive/UrMotion) - A flexible motion engine for non time-based animation in Unity
 * [Automatic-DynamicBone](https://github.com/OneYoungMean/Automatic-DynamicBone) - Unity bone cloth spring system,base by jobs
+* [reanimation](https://github.com/aarthificial/reanimation) - An alternative animator for Unity tailored for traditional animation
 
 ### Art Tools
 * [XdUnityUI](https://github.com/itouh2-i0plus/XdUnityUI) - AdobeXd to UnityUI converter
