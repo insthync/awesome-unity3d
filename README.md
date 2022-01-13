@@ -232,6 +232,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [NanoECS](https://github.com/SinyavtsevIlya/NanoECS) - c#-Unity ECS framework
 * [DefaultEcs](https://github.com/Doraku/DefaultEcs) - DefaultEcs is an Entity Component System framework which aims to be accessible with little constraints while retaining as much performance as possible for game development
 * [LeoECS](https://github.com/Leopotam/ecs) - LeoECS is a fast Entity Component System (ECS) Framework powered by C# with optional integration to Unity
+* [actors.unity](https://github.com/PixeyeHQ/actors.unity) - Actors is a framework empowering developers to make better games faster on Unity.
 
 ### Editor
 * [Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet) - Unity-QuickSheet enables you to use spreadsheet file data within Unity editor.
