@@ -330,6 +330,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [JasonMaToonRenderPipeline](https://github.com/Jason-Ma-233/JasonMaToonRenderPipeline) - JTRP : Unity HDRP ToonShading Render Pipeline
 * [NovaShader](https://github.com/CyberAgentGameEntertainment/NovaShader) - Multi-functional shader for the Particle System that supports Universal Render Pipeline (URP) of Unity.
 * [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean) - FFT ocean for Unity
+* [MinimalCompute](https://github.com/cinight/MinimalCompute) - Minimal test scenes contains compute shaders, compute buffers etc Playing with the transport between CPU <-> GPU
 
 ### Embedding
 * [react-native-unity-view](https://github.com/f111fei/react-native-unity-view) - Show an unity view in react native
