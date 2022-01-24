@@ -507,6 +507,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [unity-physics-constraints](https://github.com/TheAllenChou/unity-physics-constraints) - Minimalistic educational constraint-based physics framework
 * [Unity-SensorKit](https://github.com/3DI70R/Unity-SensorKit) - Utility classes for headache-free raycasting configuration in Unity
 * [UnityJigglePhysics](https://github.com/naelstrof/UnityJigglePhysics) - A unity addon for adding stretchy bouncy physics to bones and meshes.
+* [unity-deterministic-physics](https://github.com/Kimbatt/unity-deterministic-physics) - Cross-platform deterministic physics simulation in Unity, using DOTS physics and soft floats
 
 ### Plugins
 * [Reign Unity Plugin](https://github.com/reignstudios/Reign-Unity-Plugin5) - This Reign API is a cross-platform, unified API for the Unity game engine.
