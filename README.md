@@ -123,6 +123,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Automatic-DynamicBone](https://github.com/OneYoungMean/Automatic-DynamicBone) - Unity bone cloth spring system,base by jobs
 * [reanimation](https://github.com/aarthificial/reanimation) - An alternative animator for Unity tailored for traditional animation
 * [AnimeTask](https://github.com/kyubuns/AnimeTask) - Task Animation Library for Unity
+* [Unity-Procedural-Animation](https://github.com/Sopiro/Unity-Procedural-Animation) - Procedural Animation in Unity
 
 ### Art Tools
 * [XdUnityUI](https://github.com/itouh2-i0plus/XdUnityUI) - AdobeXd to UnityUI converter
@@ -209,6 +210,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Simple-ECS](https://github.com/AkanshDivker/Simple-ECS) - An example using the core features of the Entity Component System (ECS), part of DOTS, for Unity, inspired by Roll-a-ball. This project utilizes the Unity Physics, Hybrid Renderer, and Entities packages.
 * [Unity_ECS_GPUSkinning](https://github.com/dreamfairy/Unity_ECS_GPUSkinning) - ECS boost GpuSkinning
 * [UnityDotsCharacterController](https://github.com/ssell/UnityDotsCharacterController) - Basic Character Controller Using ECS and Unity.Physics Packages
+* [VertexAnimation](https://github.com/maxartz15/VertexAnimation) - Vertex animation baking tool, shaders and animation system for Unity DOTS/ECS.
 
 ### Dependency Injection
 * [Zenject](https://github.com/modesttree/Zenject) - Dependency Injection Framework for Unity3D
