@@ -428,6 +428,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [unity-ray-marching](https://github.com/TheAllenChou/unity-ray-marching) - Ray marching sandbox
 * [Hull-Delaunay-Voronoi](https://github.com/Scrawk/Hull-Delaunay-Voronoi) - Hull, Delaunay and Voronoi algorithms in Unity
 * [IsoMesh](https://github.com/EmmetOT/IsoMesh) - IsoMesh is a group of related tools for Unity for converting meshes into signed distance field data, raymarching signed distance fields, and extracting signed distance field data back to meshes via surface nets or dual contouring.
+* [mesh-cutter](https://github.com/hugoscurti/mesh-cutter) - Simple mesh cutting algorithm that works on simple 3d manifold objects with genus 0
 
 ### Modding
 * [dotPeek](https://www.jetbrains.com/decompiler/) - Free .NET Decompiler and Assembly Browser.
@@ -633,6 +634,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Text-Juicer](https://github.com/brunomikoski/Text-Juicer) - Simple tool to create awesome text animations
 * [PoiPoiTooltip](https://github.com/arket/PoiPoiTooltip) - PoiPoiTooltip is a simple tooltip. (Unity Asset)
 * [Auto9Slicer](https://github.com/kyubuns/Auto9Slicer) - Auto 9 slice sprite generator on Unity.
+* [UnityAccessibilityPlugin](https://github.com/mikrima/UnityAccessibilityPlugin) - The UI Accessibility Plugin (UAP) allows you to make your UI accessible to blind and visually impaired players on Windows, Android, iOS, Mac and WebGL.
 
 ### Utilities
 * [LINQ to GameObject](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ
