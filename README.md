@@ -8,6 +8,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [AI](#ai)
 - [Analyzer](#analyzer)
 - [Animation](#animation)
+- [Anti-Cheat](#anti-cheat)
 - [Art Tools](#art-tools)
 - [Asset Bundle](#asset-bundle)
 - [Audio Manager](#audio-manager)
@@ -49,6 +50,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Serializer](#serializer)
 - [Services](#services)
 - [Sounds](#sounds)
+- [Terrain](#terrain)
 - [Timeline](#timeline)
 - [Tweening](#tweening)
 - [Vehicle](#vehicle)
@@ -125,6 +127,9 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [AnimeTask](https://github.com/kyubuns/AnimeTask) - Task Animation Library for Unity
 * [Unity-Procedural-Animation](https://github.com/Sopiro/Unity-Procedural-Animation) - Procedural Animation in Unity
 
+### Anti-Cheat
+* [SafeValues](https://github.com/ookii-tsuki/SafeValues) - A simple Unity library for cheating prevention
+
 ### Art Tools
 * [XdUnityUI](https://github.com/itouh2-i0plus/XdUnityUI) - AdobeXd to UnityUI converter
 * [Baum2](https://github.com/kyubuns/Baum2) - Psd to Unity UI(uGUI)
@@ -164,6 +169,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [CharacterController2D](https://github.com/prime31/CharacterController2D) - is similar to the built-in Unity CharacterController component. It has a similar API (mainly a move method that takes a delta movement) and provides a firm base with which to make a super solid controller using Unity's 2D system.
 * [Unity 2D Platformer Controller](https://github.com/cjddmut/Unity-2D-Platformer-Controller) - A customizable 2D platformer motor that handles mechanics such as double jumps, wall jumps, and corner grabs. Includes a player controlled prefab that can be dropped into any scene for immediate support.
 * [2D-Platformer-Hunter](https://github.com/ta-david-yu/2D-Platformer-Hunter) - A 2D Platformer Controller in Unity
+* [Ultimate-2D-Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller) - A great starting point for your 2D controller. Making use of all the hidden tricks like coyote, buffered actions, speedy apex, anti grav apex, etc
 
 ### Character Controllers 3D
 * [SuperCharacterController](https://github.com/IronWarrior/SuperCharacterController) - Custom Character Controller for Unity. Fulfills all common character controller functions such as collision detection and pushback, slope limiting and collider ignoring.
@@ -209,7 +215,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [ECSEntityBuilder](https://github.com/actionk/ECSEntityBuilder) - Unity ECS Entity Builder/Wrapper
 * [Simple-ECS](https://github.com/AkanshDivker/Simple-ECS) - An example using the core features of the Entity Component System (ECS), part of DOTS, for Unity, inspired by Roll-a-ball. This project utilizes the Unity Physics, Hybrid Renderer, and Entities packages.
 * [Unity_ECS_GPUSkinning](https://github.com/dreamfairy/Unity_ECS_GPUSkinning) - ECS boost GpuSkinning
-* [UnityDotsCharacterController](https://github.com/ssell/UnityDotsCharacterController) - Basic Character Controller Using ECS and Unity.Physics Packages
+* [UnityDotsCharacterController](https://github.com/ssell/UnityDotsCharacterController) - Basic Character Controller Using ECS and Unity.**Physic**s Packages
 * [VertexAnimation](https://github.com/maxartz15/VertexAnimation) - Vertex animation baking tool, shaders and animation system for Unity DOTS/ECS.
 
 ### Dependency Injection
@@ -335,6 +341,8 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [NovaShader](https://github.com/CyberAgentGameEntertainment/NovaShader) - Multi-functional shader for the Particle System that supports Universal Render Pipeline (URP) of Unity.
 * [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean) - FFT ocean for Unity
 * [MinimalCompute](https://github.com/cinight/MinimalCompute) - Minimal test scenes contains compute shaders, compute buffers etc Playing with the transport between CPU <-> GPU
+* [UniToon](https://github.com/yoship1639/UniToon) - Physically-based Toon Shader for game applications. Compliant with Unity standard rendering functions. It is not targeted to be multifunctional in order to keep performance, but to be universally usable.
+* [unity-soft-walks](https://github.com/edualvarado/unity-soft-walks) - Soft Walks: Real-Time, Two-Ways Interaction between a Character and Loose Grounds - 2021 - Eurographics (Short-Paper)
 
 ### Embedding
 * [react-native-unity-view](https://github.com/f111fei/react-native-unity-view) - Show an unity view in react native
@@ -373,6 +381,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Piranha](https://github.com/keenanwoodall/Piranha) - A very simple tool to make rigidbodies swarm a mesh in Unity
 * [Grapple-Effect](https://github.com/keenanwoodall/Grapple-Effect) - An example of a simple grapple effect in Unity
 * [Traverser](https://github.com/AitorSimona/Traverser) - Traverser is a free and open source player traversal toolkit featuring Locomotion, Parkour and Climbing. Includes procedural animation, physical animation, custom motion warping and root motion. It is self-contained in a set of scripts. Use the given abilities or expand the system through its shared ability workflow.
+* [ezy-slice](https://github.com/DavidArayan/ezy-slice) - An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
 
 ### Input
 * [InputManager](https://github.com/daemon3000/InputManager) - Custom InputManager for Unity
@@ -429,6 +438,8 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Hull-Delaunay-Voronoi](https://github.com/Scrawk/Hull-Delaunay-Voronoi) - Hull, Delaunay and Voronoi algorithms in Unity
 * [IsoMesh](https://github.com/EmmetOT/IsoMesh) - IsoMesh is a group of related tools for Unity for converting meshes into signed distance field data, raymarching signed distance fields, and extracting signed distance field data back to meshes via surface nets or dual contouring.
 * [mesh-cutter](https://github.com/hugoscurti/mesh-cutter) - Simple mesh cutting algorithm that works on simple 3d manifold objects with genus 0
+* [unity-mesh-builder](https://github.com/mattatz/unity-mesh-builder) - Primitive mesh builder for Unity.
+* [unity-fracture](https://github.com/ElasticSea/unity-fracture) - Fracture any mesh at runtime
 
 ### Modding
 * [dotPeek](https://www.jetbrains.com/decompiler/) - Free .NET Decompiler and Assembly Browser.
@@ -511,6 +522,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Unity-SensorKit](https://github.com/3DI70R/Unity-SensorKit) - Utility classes for headache-free raycasting configuration in Unity
 * [UnityJigglePhysics](https://github.com/naelstrof/UnityJigglePhysics) - A unity addon for adding stretchy bouncy physics to bones and meshes.
 * [unity-deterministic-physics](https://github.com/Kimbatt/unity-deterministic-physics) - Cross-platform deterministic physics simulation in Unity, using DOTS physics and soft floats
+* [RaycastVisualization](https://github.com/nomnomab/RaycastVisualization) - This asset allows users to view raycasts as the user fires them.
 
 ### Plugins
 * [Reign Unity Plugin](https://github.com/reignstudios/Reign-Unity-Plugin5) - This Reign API is a cross-platform, unified API for the Unity game engine.
@@ -519,6 +531,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Unity3D Android notification plugin](https://github.com/Agasper/unity-android-notifications) - Unity3D Plugin for Android local notifications with example project
 * [PuppeteerSharp.Unity3D](https://github.com/uta-org/PuppeteerSharp.Unity3D) - Puppeteer Sharp is a .NET port of the official
 * [uLipSync](https://github.com/hecomi/uLipSync) - https://github.com/hecomi/uLipSync
+* [NatShare](https://github.com/natmlx/NatShare) - Cross-platform social sharing for Unity Engine.
 
 ### Procedural Generation Systems
 * [DungeonGenerator](https://github.com/jongallant/DungeonGenerator) - A dungeon generator for Unity
@@ -576,6 +589,10 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [LibNoise.Unity](https://github.com/ricardojmendez/LibNoise.Unity) - Coherent noise library for Unity, a port of LibNoise
 * [Reaktion](https://github.com/keijiro/Reaktion) - Audio reactive animation toolkit for Unity
 * [MusicEngine](https://github.com/geekdrums/MusicEngine) - make music synced game with Unity / ADX2 / Wwise
+
+### Terrain
+* [MightyTerrainMesh](https://github.com/jinsek/MightyTerrainMesh) - A Unity Plugin for Converting Terrain 2 Mesh & Terrain 2 Data for Runtime Virtual Texture.
+* [Unity--voxel-terrain-generator](https://github.com/michalczemierowski/Unity--voxel-terrain-generator) - 3D game with procedural world made of cubes. (world generation/mesh creation/physx baking is multi threaded)
 
 ### Timeline
 * [SpineTimeline](https://github.com/5argon/SpineTimeline) - Animate SkeletonAnimation or SkeletonGraphic with Unity's Timeline
@@ -694,6 +711,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Unity3D-save-audioClip-to-MP3](https://github.com/Team-on/Unity3D-save-audioClip-to-MP3) - Save an audioclip to mp3 in unity3d. Also plugin can save audioclip to wav and convert wav to mp3.
 * [CandyCoded](https://github.com/CandyCoded/CandyCoded) - Custom Unity Components that are delightful
 * [PrefabLightmapping](https://github.com/Ayfel/PrefabLightmapping) - Script for saving lightmapping data to prefabs. Used through the Assets tab in Unity.
+* [unimgpicker](https://github.com/thedoritos/unimgpicker) - Image picker for Unity iOS/Android
 
 ### Video
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
