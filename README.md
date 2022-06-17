@@ -506,6 +506,9 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [xNode](https://github.com/Siccity/xNode) - Lets you view and edit node graphs inside Unity
 * [UnityRuntimeNodeEditor](https://github.com/cemuka/UnityRuntimeNodeEditor) - Unity runtime node editor using with Unity UI
 * [NodeGraphProcessor](https://github.com/alelievr/NodeGraphProcessor) - Node graph editor framework focused on data processing using Unity UIElements and C# 4.6
+* [Dialogue](https://github.com/Siccity/Dialogue) - Node based dialogue system
+* [NodeBasedDialogueSystem](https://github.com/merpheus-dev/NodeBasedDialogueSystem) - Node Based Dialogue System for Unity
+* [unity-dialogue-system](https://github.com/Wafflus/unity-dialogue-system) - A basic node based dialogue system made for Unity.
 
 ### Package Manager
 * [Projeny](https://github.com/modesttree/Projeny) - A project and package manager for Unity.
@@ -532,6 +535,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [PuppeteerSharp.Unity3D](https://github.com/uta-org/PuppeteerSharp.Unity3D) - Puppeteer Sharp is a .NET port of the official
 * [uLipSync](https://github.com/hecomi/uLipSync) - https://github.com/hecomi/uLipSync
 * [NatShare](https://github.com/natmlx/NatShare) - Cross-platform social sharing for Unity Engine.
+* [Unity-Native-Sharing](https://github.com/NicholasSheehan/Unity-Native-Sharing) - A Unity plugin to open native sharing dialogs on iOS and Android, primarily for text and files
+* [UnityNativeDialogPlugin](https://github.com/asus4/UnityNativeDialogPlugin) - Show iOS/Android native dialog from Unity.
 
 ### Procedural Generation Systems
 * [DungeonGenerator](https://github.com/jongallant/DungeonGenerator) - A dungeon generator for Unity
@@ -690,7 +695,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [WaveformProvider](https://github.com/EsProgram/WaveformProvider) - Provide a texture to simulate waves with Unity. Require InkPainter.
 * [DataBind](https://github.com/tinrab/DataBind) - Simple data binding for Unity
 * [GradientGenerator](https://github.com/5argon/GradientGenerator) - A Unity script to generate multiple variants of evenly distributed `Gradient` based on input `AnimationCurve`.
-* [Dialogue](https://github.com/Siccity/Dialogue) - Node based dialogue system
 * [Unity-EasingLibraryVisualisation](https://github.com/noisecrime/Unity-EasingLibraryVisualisation) - Front end visualisation of 40 common easing equations.
 * [Xamarin.Forms.Unity](https://github.com/aosoft/Xamarin.Forms.Unity) - Xamarin.Forms for Unity (Platform implementation for Unity Game Engine)
 * [UnityTimer](https://github.com/akbiggs/UnityTimer) - Powerful and convenient library for running actions after a delay in Unity3D
