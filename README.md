@@ -115,6 +115,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Unity-Character-Mechanism](https://github.com/MorelAntoine/Unity-Character-Mechanism) - Framework aiming to facilitate the code development of a character in Unity
 * [CustomNavMesh](https://github.com/jadvrodrigues/CustomNavMesh) - Alternative to Unity's NavMesh system where the agents avoid each other.
 * [PathFinder3D](https://github.com/TheCyaniteProject/PathFinder3D) - 3D A* Pathfinding that doesn't need baked navmeshes and can be used with dynamically created terrain (MapMagic or other)
+* [UniTaskStateMachine](https://github.com/k-okawa/UniTaskStateMachine) - StateMachine for UniTask. StateMachine Editor Included.
 
 ### Analyzer
 * [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) - A Memory Profiler, Debugger and Analyzer for Unity 2019.3 and newer.
@@ -177,6 +178,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Advanced Rigidbody FirstPerson Controller](https://github.com/Moe-Baker/Advanced-Rigidbody-FirstPerson-Controller) - Rigidbody Based FirstPerson Controller
 * [Fragsurf-Character-Controller](https://github.com/AwesomeX/Fragsurf-Character-Controller) - Surf and bhop movement in Unity3d
 * [Erbium](https://github.com/mikhomak/Erbium) - Third Person Character Controller for unity
+* [unity-genshin-impact-movement-system](https://github.com/Wafflus/unity-genshin-impact-movement-system) - A movement system made in Unity that attempts to replicate Genshin Impact Movement.
 
 ### Controller Mappings
 * [Dualshock 3 (PS3)](https://forum.unity.com/threads/ps3-button-map.89288/)
@@ -343,6 +345,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [MinimalCompute](https://github.com/cinight/MinimalCompute) - Minimal test scenes contains compute shaders, compute buffers etc Playing with the transport between CPU <-> GPU
 * [UniToon](https://github.com/yoship1639/UniToon) - Physically-based Toon Shader for game applications. Compliant with Unity standard rendering functions. It is not targeted to be multifunctional in order to keep performance, but to be universally usable.
 * [unity-soft-walks](https://github.com/edualvarado/unity-soft-walks) - Soft Walks: Real-Time, Two-Ways Interaction between a Character and Loose Grounds - 2021 - Eurographics (Short-Paper)
+* [unity-universal-shadergraph-extensions](https://github.com/Zallist/unity-universal-shadergraph-extensions) - This plugin simply adds a Simple Lit material (SubTarget) to the Universal target for Shader Graph for URP
 
 ### Embedding
 * [react-native-unity-view](https://github.com/f111fei/react-native-unity-view) - Show an unity view in react native
@@ -716,6 +719,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [CandyCoded](https://github.com/CandyCoded/CandyCoded) - Custom Unity Components that are delightful
 * [PrefabLightmapping](https://github.com/Ayfel/PrefabLightmapping) - Script for saving lightmapping data to prefabs. Used through the Assets tab in Unity.
 * [unimgpicker](https://github.com/thedoritos/unimgpicker) - Image picker for Unity iOS/Android
+* [GCFreeClosure](https://github.com/lujian101/GCFreeClosure) - About
+A gc-free closure implementation for unity
 
 ### Video
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
