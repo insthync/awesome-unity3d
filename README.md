@@ -57,9 +57,8 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [UI](#ui)
 - [Utilities](#utilities)
 - [Video](#video)
-- [VR](#vr)
+- [VR/XR](#vr-xr)
 - [Web View](#web-view)
-- [XR](#xr)
 
 [**Assets**](#assets)
 - [Icons](#icons)
@@ -726,7 +725,7 @@ A gc-free closure implementation for unity
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
 * [LibVLCSharp](https://github.com/videolan/LibVLCSharp) - LibVLCSharp is a cross-platform audio and video API for .NET platforms based on VideoLAN's LibVLC Library.
 
-### VR
+### VR/XR
 * [VRTK](https://github.com/thestonefox/VRTK) - A productive VR Toolkit for rapidly building VR solutions in Unity3d.
 * [NewtonVR](https://github.com/TomorrowTodayLabs/NewtonVR) - A virtual reality interaction system for unity based on physics.
 * [MixedRealityToolkit-Unity](https://github.com/Microsoft/MixedRealityToolkit-Unity) - MixedRealityToolkit-Unity uses code from the base MixedRealityToolkit repository and makes it easier to consume in Unity.
@@ -735,15 +734,12 @@ A gc-free closure implementation for unity
 * [VRWorksAudio-Unity](https://github.com/Andy260/VRWorksAudio-Unity) - Unofficial implementation of NVIDIA's VRWorks - Audio for Unity3D
 * [Lightweight-VR](https://github.com/Spatial-Cinematics/Lightweight-VR) - An open sourced, light weight, VR input framework. This is basically an empty Unity project that's been setup for easy VR integration without having to pull down any packages. No need for Steam VR or OVR plugins.
 * [HPTK](https://github.com/jorgejgnz/HPTK) - Hand Physics Toolkit (HPTK) is a toolkit to build physical hand-driven interactions in a modular and scalable way.
+* [XRTK](https://github.com/XRTK/XRTK-Core) - The Official Mixed Reality Framework for Unity 
+* [unity-webxr-export](https://github.com/De-Panther/unity-webxr-export) - Develop and export WebXR experiences using Unity WebGL
 
 ### Web View
 * [servo-unity](https://github.com/MozillaReality/servo-unity) - This project constitutes a Unity native plugin and a set of Unity C# script components allow third parties to incorporate Servo browser windows into Unity scenes.
 * [unity-webview](https://github.com/gree/unity-webview) - A plugin for Unity 5 that overlays WebView components on Unity view. It works on Android, iOS, Unity Web Player, and OS X (Windows is not supported for now).
-
-### XR
-* [XRTK](https://github.com/XRTK/XRTK-Core) - The Official Mixed Reality Framework for Unity 
-
-## Assets
 
 ### Icons
 
@@ -773,11 +769,11 @@ A gc-free closure implementation for unity
 
 * [Sonniss GDC 2018 Pack](https://sonniss.com/gameaudiogdc18/) - Free to use 30GB worth of audio files
 
-
 ## Articles
 * [50 Tips and Best Practices for Unity (2016 Edition)](https://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php)
 * [Unity Package Manager 2018.3+](https://blogs.unity3d.com/2018/05/09/unity-packages-life-cycle/)
 * [Cracked Ice Shader](https://80.lv/articles/how-to-build-cracked-ice-in-material-editor/)
+
 ## Books
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/) Free and Paid available
 * [Unity in Action, Third Edition](https://www.manning.com/books/unity-in-action-third-edition) A book about creating 2D, 3D, and AR/VR games with the awesome Unity game platform.
