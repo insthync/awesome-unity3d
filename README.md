@@ -57,7 +57,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [UI](#ui)
 - [Utilities](#utilities)
 - [Video](#video)
-- [VR/XR](#vr-xr)
+- [VR/XR](#vrxr)
 - [Web View](#web-view)
 
 [**Assets**](#assets)
