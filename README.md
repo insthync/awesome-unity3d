@@ -115,6 +115,8 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [CustomNavMesh](https://github.com/jadvrodrigues/CustomNavMesh) - Alternative to Unity's NavMesh system where the agents avoid each other.
 * [PathFinder3D](https://github.com/TheCyaniteProject/PathFinder3D) - 3D A* Pathfinding that doesn't need baked navmeshes and can be used with dynamically created terrain (MapMagic or other)
 * [UniTaskStateMachine](https://github.com/k-okawa/UniTaskStateMachine) - StateMachine for UniTask. StateMachine Editor Included.
+* [NavMeshAvoidance](https://github.com/OlegDzhuraev/NavMeshAvoidance) - About
+Custom Nav Mesh Avoidance to replace default one in Unity.
 
 ### Analyzer
 * [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) - A Memory Profiler, Debugger and Analyzer for Unity 2019.3 and newer.
@@ -126,6 +128,8 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [reanimation](https://github.com/aarthificial/reanimation) - An alternative animator for Unity tailored for traditional animation
 * [AnimeTask](https://github.com/kyubuns/AnimeTask) - Task Animation Library for Unity
 * [Unity-Procedural-Animation](https://github.com/Sopiro/Unity-Procedural-Animation) - Procedural Animation in Unity
+* [unity-antagonistic-controller](https://github.com/edualvarado/unity-antagonistic-controller) - Generating Upper-Body Motion for Real-Time Characters Making their Way through Dynamic Environments 
+* [Mesh-Animation](https://github.com/codewriter-packages/Mesh-Animation) - Fast GPU vertex shader based animation library for Unity (VAT, Vertex Animation Texture, Morphing Animation)
 
 ### Anti-Cheat
 * [SafeValues](https://github.com/ookii-tsuki/SafeValues) - A simple Unity library for cheating prevention
@@ -345,6 +349,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [UniToon](https://github.com/yoship1639/UniToon) - Physically-based Toon Shader for game applications. Compliant with Unity standard rendering functions. It is not targeted to be multifunctional in order to keep performance, but to be universally usable.
 * [unity-soft-walks](https://github.com/edualvarado/unity-soft-walks) - Soft Walks: Real-Time, Two-Ways Interaction between a Character and Loose Grounds - 2021 - Eurographics (Short-Paper)
 * [unity-universal-shadergraph-extensions](https://github.com/Zallist/unity-universal-shadergraph-extensions) - This plugin simply adds a Simple Lit material (SubTarget) to the Universal target for Shader Graph for URP
+* [Unity-URP-Outlines](https://github.com/Robinseibold/Unity-URP-Outlines) - A custom renderer feature for screen space outlines
 
 ### Embedding
 * [react-native-unity-view](https://github.com/f111fei/react-native-unity-view) - Show an unity view in react native
@@ -503,6 +508,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [graphQL-client-unity](https://github.com/Gazuntype/graphQL-client-unity) - This repository houses a unitypackage that can be included in your Unity Project to enable it communicate with a graphQL server.
 * [zapnet](https://github.com/deadgg/zapnet) - ⚡ Zapnet is a Unity framework for game networking built with Lidgren
 * [Httx](https://github.com/whitesharx/httx/) - X-force HTTP/REST library for Unity. Zero dependency, fluent and extensible
+* [open-netcode](https://github.com/polartron/open-netcode) - Open Netcode is a feature rich networking package for Unity DOTS.
 
 ### Node Graph
 * [xNode](https://github.com/Siccity/xNode) - Lets you view and edit node graphs inside Unity
@@ -720,6 +726,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [unimgpicker](https://github.com/thedoritos/unimgpicker) - Image picker for Unity iOS/Android
 * [GCFreeClosure](https://github.com/lujian101/GCFreeClosure) - About
 A gc-free closure implementation for unity
+* [Evolunity](https://github.com/Bodix/Evolunity) - Well-designed package with useful scripting tools for Unity development
 
 ### Video
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
