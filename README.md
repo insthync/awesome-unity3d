@@ -727,6 +727,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [GCFreeClosure](https://github.com/lujian101/GCFreeClosure) - About
 A gc-free closure implementation for unity
 * [Evolunity](https://github.com/Bodix/Evolunity) - Well-designed package with useful scripting tools for Unity development
+* [UniRate](https://github.com/renanwolf/UniRate) - A Unity plugin to easily manage the application frame rate and rendering interval.
 
 ### Video
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
