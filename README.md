@@ -222,6 +222,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [Unity_ECS_GPUSkinning](https://github.com/dreamfairy/Unity_ECS_GPUSkinning) - ECS boost GpuSkinning
 * [UnityDotsCharacterController](https://github.com/ssell/UnityDotsCharacterController) - Basic Character Controller Using ECS and Unity.**Physic**s Packages
 * [VertexAnimation](https://github.com/maxartz15/VertexAnimation) - Vertex animation baking tool, shaders and animation system for Unity DOTS/ECS.
+* [NSprites](https://github.com/Antoshidza/NSprites) - Unity DOTS Sprite Rendering Package
 
 ### Dependency Injection
 * [Zenject](https://github.com/modesttree/Zenject) - Dependency Injection Framework for Unity3D
