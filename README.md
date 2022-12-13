@@ -223,6 +223,10 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [UnityDotsCharacterController](https://github.com/ssell/UnityDotsCharacterController) - Basic Character Controller Using ECS and Unity.**Physic**s Packages
 * [VertexAnimation](https://github.com/maxartz15/VertexAnimation) - Vertex animation baking tool, shaders and animation system for Unity DOTS/ECS.
 * [NSprites](https://github.com/Antoshidza/NSprites) - Unity DOTS Sprite Rendering Package
+* [Latios-Framework](https://github.com/Dreaming381/Latios-Framework) - A Unity DOTS framework
+* [DMotion](https://github.com/gamedev-pro/dmotion) - A high level Animation Framework for Unity DOTS
+* [Spatial-Hashing](https://github.com/Sylmerria/Spatial-Hashing) - Spatial hashing for Unity using ECS/DOTS
+* [NativeTrees](https://github.com/bartofzo/NativeTrees) - Burst compatible Octree and Quadtree for Unity
 
 ### Dependency Injection
 * [Zenject](https://github.com/modesttree/Zenject) - Dependency Injection Framework for Unity3D
@@ -448,6 +452,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [mesh-cutter](https://github.com/hugoscurti/mesh-cutter) - Simple mesh cutting algorithm that works on simple 3d manifold objects with genus 0
 * [unity-mesh-builder](https://github.com/mattatz/unity-mesh-builder) - Primitive mesh builder for Unity.
 * [unity-fracture](https://github.com/ElasticSea/unity-fracture) - Fracture any mesh at runtime
+* [OpenFracture](https://github.com/dgreenheck/OpenFracture) - Open source mesh slicing/fracturing utility for Unity
 
 ### Modding
 * [dotPeek](https://www.jetbrains.com/decompiler/) - Free .NET Decompiler and Assembly Browser.
@@ -746,6 +751,8 @@ A gc-free closure implementation for unity
 * [HPTK](https://github.com/jorgejgnz/HPTK) - Hand Physics Toolkit (HPTK) is a toolkit to build physical hand-driven interactions in a modular and scalable way.
 * [XRTK](https://github.com/XRTK/XRTK-Core) - The Official Mixed Reality Framework for Unity 
 * [unity-webxr-export](https://github.com/De-Panther/unity-webxr-export) - Develop and export WebXR experiences using Unity WebGL
+* [Simple-WebXR-Unity](https://github.com/Rufus31415/Simple-WebXR-Unity) - SimpleWebXR is a lightweight library that exposes the WebXR javascript API in your C# Unity code.
+* [ultimatexr-unity](https://github.com/VRMADA/ultimatexr-unity) - UltimateXR is a free, open source framework that facilitates the creation of VR applications.
 
 ### Web View
 * [servo-unity](https://github.com/MozillaReality/servo-unity) - This project constitutes a Unity native plugin and a set of Unity C# script components allow third parties to incorporate Servo browser windows into Unity scenes.
