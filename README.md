@@ -672,6 +672,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [PoiPoiTooltip](https://github.com/arket/PoiPoiTooltip) - PoiPoiTooltip is a simple tooltip. (Unity Asset)
 * [Auto9Slicer](https://github.com/kyubuns/Auto9Slicer) - Auto 9 slice sprite generator on Unity.
 * [UnityAccessibilityPlugin](https://github.com/mikrima/UnityAccessibilityPlugin) - The UI Accessibility Plugin (UAP) allows you to make your UI accessible to blind and visually impaired players on Windows, Android, iOS, Mac and WebGL.
+* [ReactUnity](https://github.com/ReactUnity/core) - React and HTML framework for Unity UI & UIToolkit.
 
 ### Utilities
 * [LINQ to GameObject](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ
