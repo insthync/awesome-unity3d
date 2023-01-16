@@ -140,6 +140,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [UnityPSDLayoutTool](https://github.com/GlitchEnzo/UnityPSDLayoutTool) - A tool used to import a Photoshop Documents (.psd files) into the Unity Game Engine.
 * [Materialize](https://github.com/BoundingBoxSoftware/Materialize) - Materialize is a program for converting images to materials for use in video games and whatnot
 * [Unity Psd Importer](https://github.com/ChemiKhazi/UnityPsdImporter) - Advanced PSD importer for Unity3D
+* [StableDiffusionUnityTools](https://github.com/KonH/StableDiffusionUnityTools) - Editor assets generation via Stable Diffusion
 
 ### Asset Bundle
 * [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager) - An asset bundle manager for Unity
