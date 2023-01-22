@@ -251,6 +251,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [DefaultEcs](https://github.com/Doraku/DefaultEcs) - DefaultEcs is an Entity Component System framework which aims to be accessible with little constraints while retaining as much performance as possible for game development
 * [LeoECS](https://github.com/Leopotam/ecs) - LeoECS is a fast Entity Component System (ECS) Framework powered by C# with optional integration to Unity
 * [actors.unity](https://github.com/PixeyeHQ/actors.unity) - Actors is a framework empowering developers to make better games faster on Unity.
+* [Arch](https://github.com/genaray/Arch) - A high-performance C# based Archetype & Chunks Entity Component System (ECS) with optional multithreading.
 
 ### Editor
 * [Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet) - Unity-QuickSheet enables you to use spreadsheet file data within Unity editor.
@@ -355,6 +356,8 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [unity-soft-walks](https://github.com/edualvarado/unity-soft-walks) - Soft Walks: Real-Time, Two-Ways Interaction between a Character and Loose Grounds - 2021 - Eurographics (Short-Paper)
 * [unity-universal-shadergraph-extensions](https://github.com/Zallist/unity-universal-shadergraph-extensions) - This plugin simply adds a Simple Lit material (SubTarget) to the Universal target for Shader Graph for URP
 * [Unity-URP-Outlines](https://github.com/Robinseibold/Unity-URP-Outlines) - A custom renderer feature for screen space outlines
+* [foliage-wind](https://github.com/happy-turtle/foliage-wind) - Foliage wind shader implementations for Unity's render pipelines HDRP and URP. Based on the demo project Book of the Dead by Unity.
+* [oit-unity](https://github.com/happy-turtle/oit-unity) - Order-independent Transparency Implementation in Unity with Per-Pixel Linked Lists
 
 ### Embedding
 * [react-native-unity-view](https://github.com/f111fei/react-native-unity-view) - Show an unity view in react native
@@ -754,6 +757,7 @@ A gc-free closure implementation for unity
 * [unity-webxr-export](https://github.com/De-Panther/unity-webxr-export) - Develop and export WebXR experiences using Unity WebGL
 * [Simple-WebXR-Unity](https://github.com/Rufus31415/Simple-WebXR-Unity) - SimpleWebXR is a lightweight library that exposes the WebXR javascript API in your C# Unity code.
 * [ultimatexr-unity](https://github.com/VRMADA/ultimatexr-unity) - UltimateXR is a free, open source framework that facilitates the creation of VR applications.
+* [VisualProfiler-Unity](https://github.com/microsoft/VisualProfiler-Unity) - The Visual Profiler provides a drop in solution for viewing your mixed reality Unity application's frame rate, scene complexity, and memory usage.
 
 ### Web View
 * [servo-unity](https://github.com/MozillaReality/servo-unity) - This project constitutes a Unity native plugin and a set of Unity C# script components allow third parties to incorporate Servo browser windows into Unity scenes.
