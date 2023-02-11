@@ -180,7 +180,6 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [SuperCharacterController](https://github.com/IronWarrior/SuperCharacterController) - Custom Character Controller for Unity. Fulfills all common character controller functions such as collision detection and pushback, slope limiting and collider ignoring.
 * [NaughtyCharacter](https://github.com/dbrizov/NaughtyCharacter) - Third Person Controller for Unity
 * [Advanced Rigidbody FirstPerson Controller](https://github.com/Moe-Baker/Advanced-Rigidbody-FirstPerson-Controller) - Rigidbody Based FirstPerson Controller
-* [Fragsurf-Character-Controller](https://github.com/AwesomeX/Fragsurf-Character-Controller) - Surf and bhop movement in Unity3d
 * [Erbium](https://github.com/mikhomak/Erbium) - Third Person Character Controller for unity
 * [unity-genshin-impact-movement-system](https://github.com/Wafflus/unity-genshin-impact-movement-system) - A movement system made in Unity that attempts to replicate Genshin Impact Movement.
 
