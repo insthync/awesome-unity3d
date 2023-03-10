@@ -40,6 +40,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Monetization](#monetization)
 - [Networking](#networking)
 - [Node Graph](#node-graph)
+- [Obfuscation](#obfuscation)
 - [Package Manager](#package-manager)
 - [Physic](#physic)
 - [Plugins](#plugins)
@@ -535,6 +536,9 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Dialogue](https://github.com/Siccity/Dialogue) - Node based dialogue system
 * [NodeBasedDialogueSystem](https://github.com/merpheus-dev/NodeBasedDialogueSystem) - Node Based Dialogue System for Unity
 * [unity-dialogue-system](https://github.com/Wafflus/unity-dialogue-system) - A basic node based dialogue system made for Unity.
+
+### Obfuscation
+* [Ether-Uprotector](https://github.com/Ether2023/Ether-Uprotector)
 
 ### Package Manager
 * [Projeny](https://github.com/modesttree/Projeny) - A project and package manager for Unity.
