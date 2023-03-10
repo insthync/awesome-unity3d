@@ -90,6 +90,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 ### 3D Bones / IK
 * [EZSoftBone](https://github.com/EZhex1991/EZSoftBone) - A simple kinetic simulator for Unity, you can use it to simulate hair/tail/breast/skirt and other soft objects
 * [Automatic-DynamicBone](https://github.com/OneYoungMean/Automatic-DynamicBone) - unity bone cloth spring system,base by jobs.
+* [Aim-IK](https://github.com/ehsan-mohammadi/Aim-IK) - A Unity package, to procedurally orientate the character's head (and spine) in a direction without using any animation data.
 
 ### AI
 * [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai) - A library of common movement AI scripts known as Steering Behaviors. You can use these scripts to help your NPCs move around your game.
@@ -119,6 +120,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [UniTaskStateMachine](https://github.com/k-okawa/UniTaskStateMachine) - StateMachine for UniTask. StateMachine Editor Included.
 * [NavMeshAvoidance](https://github.com/OlegDzhuraev/NavMeshAvoidance) - About
 Custom Nav Mesh Avoidance to replace default one in Unity.
+* [CustomNavMesh](https://github.com/jadvrodrigues/CustomNavMesh) - Alternative to Unity's NavMesh system where the agents avoid each other.
 
 ### Analyzer
 * [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) - A Memory Profiler, Debugger and Analyzer for Unity 2019.3 and newer.
@@ -297,6 +299,8 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [EasyButtons](https://github.com/madsbangh/EasyButtons) - Add buttons to your inspector in Unity super easily with this simple attribute
 * [HierarchyDecorator](https://github.com/WooshiiDev/HierarchyDecorator) - Lightweight Unity Plugin transforming the Hierarchy into what it should be. Adds headers, styles, icons and more.
 * [Markup-Attributes](https://github.com/gasgiant/Markup-Attributes) - A Unity Editor extension for customizing inspector layout with attributes.
+* [Atlas](https://github.com/david-knopp/Atlas) - Atlas Utility library for Unity
+* [LucidEditor](https://github.com/AnnulusGames/LucidEditor) - Powerful Editor Extensions for Unity
 
 ### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
@@ -363,6 +367,8 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [oit-unity](https://github.com/happy-turtle/oit-unity) - Order-independent Transparency Implementation in Unity with Per-Pixel Linked Lists
 * [AmplifyOcclusion-URP](https://github.com/neon-age/AmplifyOcclusion-URP) - Amplify Occlusion V2 ported to URP 2022.2
 * [VFX-Lab](https://github.com/neon-age/VFX-Lab) - Shaders and VFX experimentation in URP and BIRP
+* [dx-highlighter](https://github.com/nothke/dx-highlighter) - A Deus Ex/System Shock inspired pulsing bounds item highlighter for Unity
+* [MToon](https://github.com/Santarh/MToon) - Toon Shader with Unity Global Illumination
 
 ### Embedding
 * [react-native-unity-view](https://github.com/f111fei/react-native-unity-view) - Show an unity view in react native
@@ -466,6 +472,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [unity-mesh-builder](https://github.com/mattatz/unity-mesh-builder) - Primitive mesh builder for Unity.
 * [unity-fracture](https://github.com/ElasticSea/unity-fracture) - Fracture any mesh at runtime
 * [OpenFracture](https://github.com/dgreenheck/OpenFracture) - Open source mesh slicing/fracturing utility for Unity
+* [UnityBVA](https://github.com/bilibili/UnityBVA) - A 3D cross-platform format for Unity
 
 ### Modding
 * [dotPeek](https://www.jetbrains.com/decompiler/) - Free .NET Decompiler and Assembly Browser.
@@ -611,6 +618,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 ### Serializer
 * [fullserializer](https://github.com/jacobdufault/fullserializer) - A robust JSON serialization framework that just works with support for all major Unity export platforms
 * [odin-serializer](https://github.com/TeamSirenix/odin-serializer) - Fast, robust, powerful and extendible .NET serializer built for Unity
+* [UnitySerializedDictionary](https://github.com/Prastiwar/UnitySerializedDictionary) - Serialized and drawed in editor Dictionary
 
 ### Services
 * [Devtodev](https://github.com/devtodev-analytics/unity-sdk) - A full-cycle analytics solution for game developers.
