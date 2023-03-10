@@ -43,6 +43,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Obfuscation](#obfuscation)
 - [Package Manager](#package-manager)
 - [Physic](#physic)
+- [Playable](#playable)
 - [Plugins](#plugins)
 - [Procedural Generation Systems](#procedural-generation-systems)
 - [Pooling System](#pooling-system)
@@ -563,6 +564,10 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [UnityJigglePhysics](https://github.com/naelstrof/UnityJigglePhysics) - A unity addon for adding stretchy bouncy physics to bones and meshes.
 * [unity-deterministic-physics](https://github.com/Kimbatt/unity-deterministic-physics) - Cross-platform deterministic physics simulation in Unity, using DOTS physics and soft floats
 * [RaycastVisualization](https://github.com/nomnomab/RaycastVisualization) - This asset allows users to view raycasts as the user fires them.
+
+### Playable
+* [YJZPlayableGraphView](https://github.com/terrynoya/YJZPlayableGraphView) - playable visualizer with GraphView
+* [UnityPlayableGraphMonitorTool](https://github.com/SolarianZ/UnityPlayableGraphMonitorTool) - PlayableGraph monitor tool inspired by PlayableGraph Visualizer and implemented in UIElements.
 
 ### Plugins
 * [Reign Unity Plugin](https://github.com/reignstudios/Reign-Unity-Plugin5) - This Reign API is a cross-platform, unified API for the Unity game engine.
