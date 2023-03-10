@@ -30,6 +30,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Framework](#framework)
 - [Gameplay](#gameplay)
 - [Input](#input)
+- [Job System](#job-system)
 - [Level Editor](#level-editor)
 - [Light](#light)
 - [Lua](#lua)
@@ -294,6 +295,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [EasyButtons](https://github.com/madsbangh/EasyButtons) - Add buttons to your inspector in Unity super easily with this simple attribute
 * [HierarchyDecorator](https://github.com/WooshiiDev/HierarchyDecorator) - Lightweight Unity Plugin transforming the Hierarchy into what it should be. Adds headers, styles, icons and more.
 * [Markup-Attributes](https://github.com/gasgiant/Markup-Attributes) - A Unity Editor extension for customizing inspector layout with attributes.
+* [trimmer](https://github.com/sttz/trimmer) - An editor, build and player configuration framework for the Unity game engine.
 
 ### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
@@ -358,6 +360,8 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [Unity-URP-Outlines](https://github.com/Robinseibold/Unity-URP-Outlines) - A custom renderer feature for screen space outlines
 * [foliage-wind](https://github.com/happy-turtle/foliage-wind) - Foliage wind shader implementations for Unity's render pipelines HDRP and URP. Based on the demo project Book of the Dead by Unity.
 * [oit-unity](https://github.com/happy-turtle/oit-unity) - Order-independent Transparency Implementation in Unity with Per-Pixel Linked Lists
+* [AmplifyOcclusion-URP](https://github.com/neon-age/AmplifyOcclusion-URP) - Amplify Occlusion V2 ported to URP 2022.2
+* [VFX-Lab](https://github.com/neon-age/VFX-Lab) - Shaders and VFX experimentation in URP and BIRP
 
 ### Embedding
 * [react-native-unity-view](https://github.com/f111fei/react-native-unity-view) - Show an unity view in react native
@@ -380,6 +384,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [JEngine](https://github.com/JasonXuDeveloper/JEngine) - JEngine is a streamlined and easy-to-use framework designed for Unity Programmers which contains powerful features, beginners can start up quickly and making hot update-able games easily
 * [KSFramework](https://github.com/mr-kelly/KSFramework) - KSFramework = KEngine + SLua(or xLua) , Unity3D Framework/Toolsets focus on hot reload
 * [UniGame.ViewSystem](https://github.com/UniGameTeam/UniGame.ViewSystem) - MVVM Views System for Unity3D
+* [UnityMvvmToolkit](https://github.com/ChebanovDD/UnityMvvmToolkit) - Brings data-binding to your Unity project
 
 ### Gameplay
 * [UnityArcRayCast](https://github.com/williamrjackson/UnityArcRayCast) - Arc raycast utility using projectile formulas
@@ -397,6 +402,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [Grapple-Effect](https://github.com/keenanwoodall/Grapple-Effect) - An example of a simple grapple effect in Unity
 * [Traverser](https://github.com/AitorSimona/Traverser) - Traverser is a free and open source player traversal toolkit featuring Locomotion, Parkour and Climbing. Includes procedural animation, physical animation, custom motion warping and root motion. It is self-contained in a set of scripts. Use the given abilities or expand the system through its shared ability workflow.
 * [ezy-slice](https://github.com/DavidArayan/ezy-slice) - An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
+* [UnityTimeRewinder](https://github.com/SitronX/UnityTimeRewinder) - Unity time rewind solution, that is easily customizable for any project.
 
 ### Input
 * [InputManager](https://github.com/daemon3000/InputManager) - Custom InputManager for Unity
@@ -404,6 +410,9 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [InputBinder](https://github.com/RyanNielson/InputBinder) - Easily bind input events to methods in Unity.
 * [TouchKit](https://github.com/prime31/TouchKit) - Gestures and input handling made sane for Unity
 * [TouchScript (Recommend)](https://github.com/TouchScript/TouchScript) - Complete multitouch solution for Unity: Win8, TUIO, Mobile.
+
+### Job System
+* [ZeroAllocJobScheduler](https://github.com/genaray/ZeroAllocJobScheduler) - A high-performance alloc free c# Jobscheduler.
 
 ### Level Editor
 * [Tiled2Unity](https://github.com/Seanba/Tiled2Unity) - Export Tiled Map Editor (TMX) files into Unity
@@ -740,6 +749,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 A gc-free closure implementation for unity
 * [Evolunity](https://github.com/Bodix/Evolunity) - Well-designed package with useful scripting tools for Unity development
 * [UniRate](https://github.com/renanwolf/UniRate) - A Unity plugin to easily manage the application frame rate and rendering interval.
+* [UnityMarkdownViewer](https://github.com/gwaredd/UnityMarkdownViewer) - A markdown viewer for unity
 
 ### Video
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
