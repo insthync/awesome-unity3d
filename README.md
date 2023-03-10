@@ -54,6 +54,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Services](#services)
 - [Sounds](#sounds)
 - [Terrain](#terrain)
+- [Theading](#theading)
 - [Timeline](#timeline)
 - [Tweening](#tweening)
 - [Vehicle](#vehicle)
@@ -640,6 +641,11 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [MusicEngine](https://github.com/geekdrums/MusicEngine) - make music synced game with Unity / ADX2 / Wwise
 * [Unity-Audio-Manager](https://github.com/MathewHDYT/Unity-Audio-Manager) - Plugin, that allows to easily play/change/stop/mute/... sounds in 2D/3D
 
+### Theading
+* [UnityMainThreadDispatcher](https://github.com/PimDeWitte/UnityMainThreadDispatcher) - A simple, thread-safe way of executing actions (Such as UI manipulations) on the Unity Main Thread
+* [UnityAsyncRoutines](https://github.com/TorVestergaard/UnityAsyncRoutines) - An extremely lightweight Unity library for creating and managing asynchronous coroutines for easy, straight-forward multi-threading and parallellism
+* [Unity-Threading](https://github.com/Enderlook/Unity-Threading) - A helper library for Unity Jobs, System.Threading, Async/Await and Coroutines in Unity.
+
 ### Terrain
 * [MightyTerrainMesh](https://github.com/jinsek/MightyTerrainMesh) - A Unity Plugin for Converting Terrain 2 Mesh & Terrain 2 Data for Runtime Virtual Texture.
 * [Unity--voxel-terrain-generator](https://github.com/michalczemierowski/Unity--voxel-terrain-generator) - 3D game with procedural world made of cubes. (world generation/mesh creation/physx baking is multi threaded)
@@ -717,13 +723,11 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [UnityStudio](https://github.com/RaduMC/UnityStudio) - Unity Studio is a tool for exploring, extracting and exporting assets from Unity games and apps.
 * [InGameReplay](https://github.com/FeNo/InGameReplay) - Allow you to record the transform of any objects to replay it
 * [UniRx](https://github.com/neuecc/UniRx) - Reactive Extensions for Unity
-* [UnityMainThreadDispatcher](https://github.com/PimDeWitte/UnityMainThreadDispatcher) - A simple, thread-safe way of executing actions (Such as UI manipulations) on the Unity Main Thread
 * [Rant](https://github.com/TheBerkin/rant) - Robust text engine for procedural generation and postprocessing
 * [E7Unity](https://github.com/5argon/E7Unity) - Common Unity resources
 * [mmd-for-unity](https://github.com/mmd-for-unity-proj/mmd-for-unity) - MikuMikuDance for Unity
 * [Unity.Library.eppz](https://github.com/eppz/Unity.Library.eppz) - Collection of libraries for Unity
 * [Alchemy-Circles-Generator](https://github.com/CiaccoDavide/Alchemy-Circles-Generator) - A simple procedural generator of alchemy circles
-* [UnityAsyncRoutines](https://github.com/TorVestergaard/UnityAsyncRoutines) - An extremely lightweight Unity library for creating and managing asynchronous coroutines for easy, straight-forward multi-threading and parallellism
 * [IMP](https://github.com/xraxra/IMP) - billboard imposter baking for Unity
 * [UDBase](https://github.com/KonH/UDBase) - module-based game template for Unity. Modules in UDBase are called Controllers, their implementation can be replaced without changing your project source code
 * [graphy](https://github.com/Tayx94/graphy) - Graphy is the ultimate, easy to use, feature packed stats monitor and debugger for your Unity project
@@ -767,6 +771,8 @@ A gc-free closure implementation for unity
 * [Evolunity](https://github.com/Bodix/Evolunity) - Well-designed package with useful scripting tools for Unity development
 * [UniRate](https://github.com/renanwolf/UniRate) - A Unity plugin to easily manage the application frame rate and rendering interval.
 * [UnityMarkdownViewer](https://github.com/gwaredd/UnityMarkdownViewer) - A markdown viewer for unity
+* [UnityClipboardImage](https://github.com/NullTale/UnityClipboardImage) - Small lib to read clipboard image data from unity
+* [UnityAsyncImageLoader](https://github.com/adrenak/UnityAsyncImageLoader) - Asynchronous Image Loader for Unity
 
 ### Video
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
