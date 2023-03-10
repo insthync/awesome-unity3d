@@ -25,6 +25,9 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [ECS Framework](#ecs-framework)
 - [Editor](#editor)
 - [Effect and Shaders](#effect-and-shaders)
+- [Effect-Highlighter](#effect-Highlighter)
+- [Effect-Ocean](#effect-ocean)
+- [Effect-Toon](#effect-toon)
 - [Embedding](#embedding)
 - [Feedback Libraries](#feedback-libraries)
 - [Framework](#framework)
@@ -306,7 +309,6 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 
 ### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
-* [Outline-Effect](https://github.com/cakeslice/Outline-Effect) - Outline Image Effect for Unity
 * [unity-frosted-glass](https://github.com/andydbc/unity-frosted-glass) - frosted glass material made in unity
 * [unity-delaunay](https://github.com/OskarSigvardsson/unity-delaunay) - A Delaunay/Voronoi library for Unity, and a simple destruction effect
 * [Helicopter effect](https://twitter.com/unity3dexpert/status/1050240849085431808)
@@ -316,16 +318,12 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [SMAA](https://github.com/Chman/SMAA) - A highly customizable implementation of Subpixel Morphological Antialiasing for Unity
 * [Typogenic](https://github.com/Chman/Typogenic) - Signed-distance field text rendering for Unity
 * [AtmosphericScattering](https://github.com/SlightlyMad/AtmosphericScattering) - Atmospheric Scattering for Unity
-* [Facepunch.Highlight](https://github.com/Facepunch/Facepunch.Highlight) - Mesh outline effect
-* [crest-oceanrender](https://github.com/huwb/crest-oceanrender) - An advanced ocean system implemented in Unity3D
 * [HologramShader](https://github.com/andydbc/HologramShader) - Hologram Shader and Material Editor for Unity
 * [ShaderlabVS](https://github.com/wudixiaop/ShaderlabVS) - ShaderlabVS is a Visual Studio plugin for Unity Shaderlab programming
 * [Kamakura Shaders](https://github.com/kayac/kamakura-shaders) - Kamakura Shaders is a collection of shaders and components focusing on Non-Photorealistic Rendering for Unity with a bunch of features and adjustable parameters in a user-friendly interface.
 * [ShaderProject](https://github.com/ellioman/ShaderProject) - A container for all sorts of handy shaders.
 * [ShaderForge](https://github.com/FreyaHolmer/ShaderForge) - Shader visual scripting
-* [Ocean_Community_Next_Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) - Next gen iteration of the unity community ocean shader
 * [Texture Panner](https://github.com/AdultLink/TexturePanner) - Awesome shader collection
-* [ToonShading](https://github.com/Kink3d/ToonShading) - A collection of "Toon" shaders for Unity based on a stepped PBR approximation.
 * [AnisotropicStandardShader](https://github.com/Kink3d/AnisotropicStandardShader) - A modified version of Unity's Standard Shader using an Anisotropic GGX BRDF.
 * [SpriteGlow](https://github.com/Elringus/SpriteGlow) - A sprite glow effect for Unity game engine
 * [Mirror (Script)](https://github.com/nkjzm/Mirror) - A mirror script
@@ -335,15 +333,11 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [TexturePanner](https://github.com/AdultLink/TexturePanner) - This repository hosts a shader for Unity3D whose main goal is to facilitate the creation of neon-like signs, conveyor belts and basically whatever based on scrolling textures
 * [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar) - Customizable radial progress bar shader for Unity3D. Allows you to set arc range, minimum and maximum colors, textures, radius, and a few more things. Create HP Bars, Speedometers, rank progress, etc!
 * [Unity-ShaderSketches](https://github.com/setchi/Unity-ShaderSketches) - Sketches made with ShaderLab in Unity.
-* [Arktoon-Shaders](https://github.com/synqark/Arktoon-Shaders) - Alternative Unity shaders made by synqark
 * [Unity-Shaders](https://github.com/knapeczadam/Unity-Shaders) - Shader demo - More than 300 examples
-* [UltimateOutline](https://github.com/Shrimpey/UltimateOutline) - The easiest way to achieve outlines in unity.
-* [Outlined-Diffuse-Shader-Fixed](https://github.com/Shrimpey/Outlined-Diffuse-Shader-Fixed) - This is a fixed version of diffused outline shader from http://wiki.unity3d.com/index.php/Outlined_Diffuse_3
 * [unity-delaunay](https://github.com/OskarSigvardsson/unity-delaunay) - A Delaunay/Voronoi library for Unity, and a simple destruction effect
 * [BNAO](https://github.com/Fewes/BNAO) - A tiny, GPU-based Bent Normal and Ambient Occlusion baker for Unity.
 * [ezy-slice](https://github.com/DavidArayan/ezy-slice) - An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
 * [UnityPCSS](https://github.com/TheMasonX/UnityPCSS) - Nvidia's PCSS soft shadow algorithm implemented in Unity
-* [Ceto](https://github.com/Scrawk/Ceto) - Ceto: Ocean system for Unity
 * [JourneySand](https://github.com/AtwoodDeng/JourneySand) - An Unity project to reproduce the sand rendering in Journey's style
 * [OBNI3D](https://github.com/alexbourgeois/OBNI3D) - Graphical pipeline allowing mesh deformation through shader and 3D noise volume
 * [FXAA](https://github.com/AmplifyCreations/FXAA) - FXAA Fast Approximate Anti-Aliasing 
@@ -353,23 +347,38 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [X-PostProcessing-Library](https://github.com/QianMo/X-PostProcessing-Library) - XPL : High Quality Post Processing Effects Library For Unity
 * [MeshDecal](https://github.com/Fewes/MeshDecal) - A simple mesh decal component for Unity
 * [fluviofx](https://github.com/fluviofx/fluviofx) - Fluid dynamics for Unity's VFX graph
-* [UnityFx.Outline](https://github.com/Arvtesh/UnityFx.Outline) - Screen-space outlines for Unity3d.
 * [Unity-Built-in-Shaders](https://github.com/TwoTailsGames/Unity-Built-in-Shaders) - Unity Built in Shaders
 * [DynamicDecals](https://github.com/EricFreeman/DynamicDecals) - Decal solution for Unity's Built-In Render Pipeline
 * [Unity_LightBeamPerformance](https://github.com/kodai100/Unity_LightBeamPerformance) - This package can create light beam performance with Unity's timeline functionality.
-* [JasonMaToonRenderPipeline](https://github.com/Jason-Ma-233/JasonMaToonRenderPipeline) - JTRP : Unity HDRP ToonShading Render Pipeline
 * [NovaShader](https://github.com/CyberAgentGameEntertainment/NovaShader) - Multi-functional shader for the Particle System that supports Universal Render Pipeline (URP) of Unity.
-* [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean) - FFT ocean for Unity
 * [MinimalCompute](https://github.com/cinight/MinimalCompute) - Minimal test scenes contains compute shaders, compute buffers etc Playing with the transport between CPU <-> GPU
-* [UniToon](https://github.com/yoship1639/UniToon) - Physically-based Toon Shader for game applications. Compliant with Unity standard rendering functions. It is not targeted to be multifunctional in order to keep performance, but to be universally usable.
 * [unity-soft-walks](https://github.com/edualvarado/unity-soft-walks) - Soft Walks: Real-Time, Two-Ways Interaction between a Character and Loose Grounds - 2021 - Eurographics (Short-Paper)
 * [unity-universal-shadergraph-extensions](https://github.com/Zallist/unity-universal-shadergraph-extensions) - This plugin simply adds a Simple Lit material (SubTarget) to the Universal target for Shader Graph for URP
-* [Unity-URP-Outlines](https://github.com/Robinseibold/Unity-URP-Outlines) - A custom renderer feature for screen space outlines
 * [foliage-wind](https://github.com/happy-turtle/foliage-wind) - Foliage wind shader implementations for Unity's render pipelines HDRP and URP. Based on the demo project Book of the Dead by Unity.
 * [oit-unity](https://github.com/happy-turtle/oit-unity) - Order-independent Transparency Implementation in Unity with Per-Pixel Linked Lists
 * [AmplifyOcclusion-URP](https://github.com/neon-age/AmplifyOcclusion-URP) - Amplify Occlusion V2 ported to URP 2022.2
 * [VFX-Lab](https://github.com/neon-age/VFX-Lab) - Shaders and VFX experimentation in URP and BIRP
+
+### Effect-Highlighter
+* [Outline-Effect](https://github.com/cakeslice/Outline-Effect) - Outline Image Effect for Unity
+* [UltimateOutline](https://github.com/Shrimpey/UltimateOutline) - The easiest way to achieve outlines in unity.
+* [Outlined-Diffuse-Shader-Fixed](https://github.com/Shrimpey/Outlined-Diffuse-Shader-Fixed) - This is a fixed version of diffused outline shader from http://wiki.unity3d.com/index.php/Outlined_Diffuse_3
+* [UnityFx.Outline](https://github.com/Arvtesh/UnityFx.Outline) - Screen-space outlines for Unity3d.
+* [Unity-URP-Outlines](https://github.com/Robinseibold/Unity-URP-Outlines) - A custom renderer feature for screen space outlines
+* [Facepunch.Highlight](https://github.com/Facepunch/Facepunch.Highlight) - Mesh outline effect
 * [dx-highlighter](https://github.com/nothke/dx-highlighter) - A Deus Ex/System Shock inspired pulsing bounds item highlighter for Unity
+
+### Effect-Ocean
+* [crest-oceanrender](https://github.com/huwb/crest-oceanrender) - An advanced ocean system implemented in Unity3D
+* [Ocean_Community_Next_Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) - Next gen iteration of the unity community ocean shader
+* [Ceto](https://github.com/Scrawk/Ceto) - Ceto: Ocean system for Unity
+* [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean) - FFT ocean for Unity
+
+### Effect-Toon
+* [ToonShading](https://github.com/Kink3d/ToonShading) - A collection of "Toon" shaders for Unity based on a stepped PBR approximation.
+* [Arktoon-Shaders](https://github.com/synqark/Arktoon-Shaders) - Alternative Unity shaders made by synqark
+* [JasonMaToonRenderPipeline](https://github.com/Jason-Ma-233/JasonMaToonRenderPipeline) - JTRP : Unity HDRP ToonShading Render Pipeline
+* [UniToon](https://github.com/yoship1639/UniToon) - Physically-based Toon Shader for game applications. Compliant with Unity standard rendering functions. It is not targeted to be multifunctional in order to keep performance, but to be universally usable.
 * [MToon](https://github.com/Santarh/MToon) - Toon Shader with Unity Global Illumination
 
 ### Embedding
