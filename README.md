@@ -394,6 +394,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [KSFramework](https://github.com/mr-kelly/KSFramework) - KSFramework = KEngine + SLua(or xLua) , Unity3D Framework/Toolsets focus on hot reload
 * [UniGame.ViewSystem](https://github.com/UniGameTeam/UniGame.ViewSystem) - MVVM Views System for Unity3D
 * [UnityMvvmToolkit](https://github.com/ChebanovDD/UnityMvvmToolkit) - Brings data-binding to your Unity project
+* [PlayerLoopInterface](https://github.com/Baste-RainGames/PlayerLoopInterface) - A simple interface for interacting with Unity's player loop system
 
 ### Gameplay
 * [UnityArcRayCast](https://github.com/williamrjackson/UnityArcRayCast) - Arc raycast utility using projectile formulas
