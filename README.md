@@ -162,6 +162,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [buildtool](https://github.com/superunitybuild/buildtool) - A powerful automation tool for quickly and easily generating builds with Unity.
 * [setup-unity](https://github.com/pCYSl5EDgo/setup-unity) - Set up your GitHub Actions workflow with a specific version of the Unity Editor
 * [unity-actions](https://github.com/webbertakken/unity-actions) - Github actions for testing and building Unity projects
+* [trimmer](https://github.com/sttz/trimmer) - An editor, build and player configuration framework for the Unity game engine.
 
 ### Camera
 * [Unity Pixel Camera](https://github.com/ChemiKhazi/UnityPixelCamera) - A resolution independent pixel perfect camera for Unity
@@ -295,7 +296,6 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [EasyButtons](https://github.com/madsbangh/EasyButtons) - Add buttons to your inspector in Unity super easily with this simple attribute
 * [HierarchyDecorator](https://github.com/WooshiiDev/HierarchyDecorator) - Lightweight Unity Plugin transforming the Hierarchy into what it should be. Adds headers, styles, icons and more.
 * [Markup-Attributes](https://github.com/gasgiant/Markup-Attributes) - A Unity Editor extension for customizing inspector layout with attributes.
-* [trimmer](https://github.com/sttz/trimmer) - An editor, build and player configuration framework for the Unity game engine.
 
 ### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
