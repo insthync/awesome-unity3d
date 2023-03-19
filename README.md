@@ -126,6 +126,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [NavMeshAvoidance](https://github.com/OlegDzhuraev/NavMeshAvoidance) - About
 Custom Nav Mesh Avoidance to replace default one in Unity.
 * [CustomNavMesh](https://github.com/jadvrodrigues/CustomNavMesh) - Alternative to Unity's NavMesh system where the agents avoid each other.
+* [AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with the Unity Editor.
 
 ### Analyzer
 * [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) - A Memory Profiler, Debugger and Analyzer for Unity 2019.3 and newer.
