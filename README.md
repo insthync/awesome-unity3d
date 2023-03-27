@@ -161,6 +161,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 
 ### Audio Manager
 * [Unity_AudioRig](https://github.com/debox-dev/Unity_AudioRig) - Provides better AudioSource management from scripts, pooling, looping, fading, following object in 3d space and more.
+* [Unity-Audio-Manager](https://github.com/MathewHDYT/Unity-Audio-Manager) - Plugin, that allows to easily play/change/stop/mute/... sounds in 2D/3D
 
 ### Bolt
 * [Bolt.Addons.Community](https://github.com/RealityStop/Bolt.Addons.Community) - A community-driven project for extending Unity Bolt
