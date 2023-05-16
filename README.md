@@ -102,7 +102,6 @@ A categorized collection of awesome opensource unity3d resources (including some
 * [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - A Utility AI for C# and Unity
 * [EpPathFinding.cs](https://github.com/juhgiyo/EpPathFinding.cs) - A jump point search algorithm for grid based games in C#
 * [EpPathFinding3D.cs](https://github.com/juhgiyo/EpPathFinding3D.cs) - A 3D jump point search algorithm for cube based games in C#
-* [goap](https://github.com/sploreg/goap) - Goal Oriented Action Planning AI in Unity
 * [UnitySteer](https://github.com/ricardojmendez/UnitySteer) - Steering, obstacle avoidance and path following behaviors for the Unity Game Engine
 * [A Star Pathfinding for Unity](https://github.com/sharpaccent/Astar-for-Unity) - A Star Pathfinder, 3 axis, multithreaded for Unity
 * [openpath](https://github.com/mrzapp/openpath) - Open source pathfinding for Unity
@@ -127,6 +126,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 Custom Nav Mesh Avoidance to replace default one in Unity.
 * [CustomNavMesh](https://github.com/jadvrodrigues/CustomNavMesh) - Alternative to Unity's NavMesh system where the agents avoid each other.
 * [AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with the Unity Editor.
+* [GOAP](https://github.com/crashkonijn/GOAP) - A multi-threaded GOAP system for Unity3D
 
 ### Analyzer
 * [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) - A Memory Profiler, Debugger and Analyzer for Unity 2019.3 and newer.
