@@ -17,6 +17,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Camera](#camera)
 - [Character Controllers 2D](#character-controllers-2d)
 - [Character Controllers 3D](#character-controllers-3d)
+- [Code Gen](#code-gen)
 - [Controller Mappings](#controller-mappings)
 - [Console](#console)
 - [Dependency Injection](#dependency-injection)
@@ -160,6 +161,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [EZAddresser](https://github.com/Haruma-K/EZAddresser) - Automatic addressing system for Unity Addressable Asset System.
 
 ### Audio Manager
+* [LucidAudio](https://github.com/AnnulusGames/LucidAudio) - Simple audio player for unity
 * [Unity_AudioRig](https://github.com/debox-dev/Unity_AudioRig) - Provides better AudioSource management from scripts, pooling, looping, fading, following object in 3d space and more.
 
 ### Bolt
@@ -193,6 +195,9 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [Advanced Rigidbody FirstPerson Controller](https://github.com/Moe-Baker/Advanced-Rigidbody-FirstPerson-Controller) - Rigidbody Based FirstPerson Controller
 * [Erbium](https://github.com/mikhomak/Erbium) - Third Person Character Controller for unity
 * [unity-genshin-impact-movement-system](https://github.com/Wafflus/unity-genshin-impact-movement-system) - A movement system made in Unity that attempts to replicate Genshin Impact Movement.
+
+### Code Gen
+* [UnityCodeGen](https://github.com/AnnulusGames/UnityCodeGen) - Code Generation Library for Unity Editor
 
 ### Controller Mappings
 * [Dualshock 3 (PS3)](https://forum.unity.com/threads/ps3-button-map.89288/)
@@ -666,6 +671,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 ### Tweening
 * [DOTween (Recommend)](https://github.com/Demigiant/dotween) - A Unity C# animation engine. HOTween v2
+* [MagicTween](https://github.com/AnnulusGames/MagicTween) - Extremely fast tween library implemented in Unity ECS
+* [TweenPlayables](https://github.com/AnnulusGames/TweenPlayables) - Tween Animation Library for Unity Timeline
 * [LeanTween](https://github.com/dentedpixel/LeanTween) - LeanTween is an efficient animation engine for Unity
 * [GoKit](https://github.com/prime31/GoKit) - Lightweight tween library for Unity
 * [Uween](https://github.com/beinteractive/Uween) - Lightweight tween library for Unity
@@ -784,6 +791,7 @@ A gc-free closure implementation for unity
 * [UnityMarkdownViewer](https://github.com/gwaredd/UnityMarkdownViewer) - A markdown viewer for unity
 * [UnityClipboardImage](https://github.com/NullTale/UnityClipboardImage) - Small lib to read clipboard image data from unity
 * [UnityAsyncImageLoader](https://github.com/adrenak/UnityAsyncImageLoader) - Asynchronous Image Loader for Unity
+* [LucidRandom](https://github.com/AnnulusGames/LucidRandom) - Enhanced random number generator for Unity
 
 ### Video
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
