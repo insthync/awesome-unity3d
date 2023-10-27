@@ -128,6 +128,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [CustomNavMesh](https://github.com/jadvrodrigues/CustomNavMesh) - Alternative to Unity's NavMesh system where the agents avoid each other.
 * [AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with the Unity Editor.
 * [GOAP](https://github.com/crashkonijn/GOAP) - A multi-threaded GOAP system for Unity3D
+* [DotRecast](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
 
 ### Analyzer
 * [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) - A Memory Profiler, Debugger and Analyzer for Unity 2019.3 and newer.
