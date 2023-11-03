@@ -732,6 +732,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Auto9Slicer](https://github.com/kyubuns/Auto9Slicer) - Auto 9 slice sprite generator on Unity.
 * [UnityAccessibilityPlugin](https://github.com/mikrima/UnityAccessibilityPlugin) - The UI Accessibility Plugin (UAP) allows you to make your UI accessible to blind and visually impaired players on Windows, Android, iOS, Mac and WebGL.
 * [ReactUnity](https://github.com/ReactUnity/core) - React and HTML framework for Unity UI & UIToolkit.
+* [uPalette](https://github.com/Haruma-K/uPalette) - Centralized management & batch change system of colors for Unity.
 
 ### Utilities
 * [LINQ to GameObject](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ
