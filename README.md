@@ -54,6 +54,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Runtime Editor](#runtime-editor)
 - [Scriptable Object](#scriptable-object)
 - [Scriptings](#scriptings)
+- [Scene Transition](#scene-transition)
 - [Serializer](#serializer)
 - [Services](#services)
 - [Sounds](#sounds)
@@ -642,8 +643,11 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [UniScript](https://github.com/pjc0247/UniScript) - Brings C# scripting into Unity which acts as native code.
 * [SlowSharp](https://github.com/pjc0247/SlowSharp) - C# interpreter written in C#
 
+### Scene Transition
+* [UnityScreenNavigator](https://github.com/Haruma-K/UnityScreenNavigator) - Library for screen transitions, transition animations, transition history stacking, and screen lifecycle management in Unity's uGUI.
+
 ### Serializer
-* [fullserializer](https://github.com/jacobdufault/fullserializer) - A robust JSON serialization framework that just works with support for all major Unity export platforms
+* [fullserializer](https://github.)om/jacobdufault/fullserializer) - A robust JSON serialization framework that just works with support for all major Unity export platforms
 * [odin-serializer](https://github.com/TeamSirenix/odin-serializer) - Fast, robust, powerful and extendible .NET serializer built for Unity
 * [UnitySerializedDictionary](https://github.com/Prastiwar/UnitySerializedDictionary) - Serialized and drawed in editor Dictionary
 
