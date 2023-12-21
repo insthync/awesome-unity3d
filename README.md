@@ -370,6 +370,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [AmplifyOcclusion-URP](https://github.com/neon-age/AmplifyOcclusion-URP) - Amplify Occlusion V2 ported to URP 2022.2
 * [VFX-Lab](https://github.com/neon-age/VFX-Lab) - Shaders and VFX experimentation in URP and BIRP
 * [StarRailNPRShader](https://github.com/stalomeow/StarRailNPRShader) - Fan-made shaders for Unity URP attempting to replicate the shading of Honkai: Star Rail.
+* [URP_ShaderGraphCustomLighting](https://github.com/Cyanilux/URP_ShaderGraphCustomLighting) - Some custom lighting functions/sub-graphs for Shader Graph, Universal Render Pipeline
 
 ### Effect-Highlighter
 * [Outline-Effect](https://github.com/cakeslice/Outline-Effect) - Outline Image Effect for Unity
