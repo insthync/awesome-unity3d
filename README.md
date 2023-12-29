@@ -51,6 +51,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Plugins](#plugins)
 - [Procedural Generation Systems](#procedural-generation-systems)
 - [Pooling System](#pooling-system)
+- [Project Management](#project-management)
 - [Runtime Editor](#runtime-editor)
 - [Scriptable Object](#scriptable-object)
 - [Scriptings](#scriptings)
@@ -622,6 +623,9 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 ### Profobuf
 * [protobuf-net](https://github.com/mgravell/protobuf-net) - Protocol Buffers library for idiomatic .NET
 * [protobuf-unity](https://github.com/5argon/protobuf-unity) - Automatic .proto files compilation in Unity project to C# as you edit them
+
+### Project Management
+* [unity-desktop-lite](https://github.com/gblikas/unity-desktop-lite) - Unity in the browser, via Github Codespaces.
 
 ### Runtime Editor
 * [UnityRuntimeInspector](https://github.com/yasirkula/UnityRuntimeInspector) - Runtime Inspector and Hierarchy solution for Unity for debugging and runtime editing purposes
