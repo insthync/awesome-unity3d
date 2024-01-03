@@ -39,6 +39,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Light](#light)
 - [Lua](#lua)
 - [Lua Utilities](#lua-utilities)
+- [Machine Learning](#machine-learning)
 - [Media Player](#media-player)
 - [Meshes](#meshes)
 - [Modding](#modding)
@@ -492,6 +493,9 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 
 ### Lua Utilities
 * [LuaProfiler-For-Unity](https://github.com/ElPsyCongree/LuaProfiler-For-Unity) - LuaProfiler-For-Unity
+
+### Machine Learning
+* [MediaPipeUnityPlugin](https://github.com/homuler/MediaPipeUnityPlugin) - Unity plugin to run MediaPipe
 
 ### Media Player
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
