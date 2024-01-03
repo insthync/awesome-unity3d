@@ -694,6 +694,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 ### Tweening
 * [DOTween (Recommend)](https://github.com/Demigiant/dotween) - A Unity C# animation engine. HOTween v2
 * [MagicTween](https://github.com/AnnulusGames/MagicTween) - Extremely fast tween library implemented in Unity ECS
+* [PrimeTween](https://github.com/KyryloKuzyk/PrimeTween) - High-performance, allocation-free tween library for Unity. Create animations, delays, and sequences in one line of code.
 * [TweenPlayables](https://github.com/AnnulusGames/TweenPlayables) - Tween Animation Library for Unity Timeline
 * [LeanTween](https://github.com/dentedpixel/LeanTween) - LeanTween is an efficient animation engine for Unity
 * [GoKit](https://github.com/prime31/GoKit) - Lightweight tween library for Unity
