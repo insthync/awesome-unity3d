@@ -89,6 +89,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 * [SpriteDicing](https://github.com/Elringus/SpriteDicing) - Extension for Unity game engine to work with diced sprites
 * [DataRenderer2D](https://github.com/geniikw/DataRenderer2D) - make mesh like line, polygon, etc in unity3d
 * [UnitySpline2D](https://github.com/sinbad/UnitySpline2D) - 2D spline utility for Unity
+* [Aseprite Importer for Unity](https://github.com/2YY/aseprite-importer-for-unity) - Generate Animator Controller and Animation Clip from JSON that exported from Aseprite.
 
 ### 2D Bones / IK
 * [DragonBonesCSharp](https://github.com/DragonBones/DragonBonesCSharp) - DragonBones C# Runtime
