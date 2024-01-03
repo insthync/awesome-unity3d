@@ -252,6 +252,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [DMotion](https://github.com/gamedev-pro/dmotion) - A high level Animation Framework for Unity DOTS
 * [Spatial-Hashing](https://github.com/Sylmerria/Spatial-Hashing) - Spatial hashing for Unity using ECS/DOTS
 * [NativeTrees](https://github.com/bartofzo/NativeTrees) - Burst compatible Octree and Quadtree for Unity
+* [Pathfinding](https://github.com/bustedbunny/Pathfinding) - Pathfinding - using Unity Navmesh, ECS and Burst
 
 ### Dependency Injection
 * [Zenject](https://github.com/modesttree/Zenject) - Dependency Injection Framework for Unity3D
