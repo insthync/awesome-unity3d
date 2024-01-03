@@ -99,6 +99,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 * [EZSoftBone](https://github.com/EZhex1991/EZSoftBone) - A simple kinetic simulator for Unity, you can use it to simulate hair/tail/breast/skirt and other soft objects
 * [Automatic-DynamicBone](https://github.com/OneYoungMean/Automatic-DynamicBone) - unity bone cloth spring system,base by jobs.
 * [Aim-IK](https://github.com/ehsan-mohammadi/Aim-IK) - A Unity package, to procedurally orientate the character's head (and spine) in a direction without using any animation data.
+* [Hairibar.Ragdoll](https://github.com/hairibar/Hairibar.Ragdoll) - A package for animating ragdolls through keyframed animations.
 
 ### AI
 * [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai) - A library of common movement AI scripts known as Steering Behaviors. You can use these scripts to help your NPCs move around your game.
