@@ -394,6 +394,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [JasonMaToonRenderPipeline](https://github.com/Jason-Ma-233/JasonMaToonRenderPipeline) - JTRP : Unity HDRP ToonShading Render Pipeline
 * [UniToon](https://github.com/yoship1639/UniToon) - Physically-based Toon Shader for game applications. Compliant with Unity standard rendering functions. It is not targeted to be multifunctional in order to keep performance, but to be universally usable.
 * [MToon](https://github.com/Santarh/MToon) - Toon Shader with Unity Global Illumination
+* [GenshinCelShaderURP](https://github.com/Gaolingx/GenshinCelShaderURP)
 
 ### Embedding
 * [react-native-unity-view](https://github.com/f111fei/react-native-unity-view) - Show an unity view in react native
@@ -562,6 +563,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [zapnet](https://github.com/deadgg/zapnet) - ⚡ Zapnet is a Unity framework for game networking built with Lidgren
 * [Httx](https://github.com/whitesharx/httx/) - X-force HTTP/REST library for Unity. Zero dependency, fluent and extensible
 * [open-netcode](https://github.com/polartron/open-netcode) - Open Netcode is a feature rich networking package for Unity DOTS.
+* [Master Server Toolkit](https://github.com/aevien/master-server-toolkit) - This is a framework that allows you to create game servers and services for your game inside Unity. It allows you to avoid using third-party services such as Playful, PAN, or Smartfox server. This framework does not claim to be a substitute for all these systems. No way!
 
 ### Node Graph
 * [xNode](https://github.com/Siccity/xNode) - Lets you view and edit node graphs inside Unity
