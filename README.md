@@ -135,6 +135,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [GOAP](https://github.com/crashkonijn/GOAP) - A multi-threaded GOAP system for Unity3D
 * [DotRecast](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
 * [UnityBehaviorTreeVisualizer](https://github.com/Yecats/UnityBehaviorTreeVisualizer) - A tool built in Unity that draws a graph representation of behavior trees running in the scene
+* [MonoBehaviourTree](https://github.com/Qriva/MonoBehaviourTree) - Simple event driven Behaviour tree for Unity projects
 
 ### Analyzer
 * [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) - A Memory Profiler, Debugger and Analyzer for Unity 2019.3 and newer.
@@ -323,6 +324,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [Atlas](https://github.com/david-knopp/Atlas) - Atlas Utility library for Unity
 * [LucidEditor](https://github.com/AnnulusGames/LucidEditor) - Powerful Editor Extensions for Unity
 * [UnityGitPackageUpdater](https://github.com/QuantumCalzone/UnityGitPackageUpdater) - Easily update Unity packages hosted via git
+* [FastScriptReload](https://github.com/handzlikchris/FastScriptReload) - Hot Reload implementation for Unity. Iterate on code insanely fast without breaking play session. Supports any editor. 1. Play 2. Make change 3. See results
 
 ### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
