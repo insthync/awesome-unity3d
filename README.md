@@ -442,6 +442,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [Traverser](https://github.com/AitorSimona/Traverser) - Traverser is a free and open source player traversal toolkit featuring Locomotion, Parkour and Climbing. Includes procedural animation, physical animation, custom motion warping and root motion. It is self-contained in a set of scripts. Use the given abilities or expand the system through its shared ability workflow.
 * [ezy-slice](https://github.com/DavidArayan/ezy-slice) - An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
 * [UnityTimeRewinder](https://github.com/SitronX/UnityTimeRewinder) - Unity time rewind solution, that is easily customizable for any project.
+* [Depiction Engine For Unity](https://github.com/VIZ-Interactive/Depiction-Engine-Unity) - Versatile engine to create and stream large 3D worlds for game or geospatial applications
 
 ### Input
 * [InputManager](https://github.com/daemon3000/InputManager) - Custom InputManager for Unity
