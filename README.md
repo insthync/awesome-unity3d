@@ -39,6 +39,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Light](#light)
 - [Lua](#lua)
 - [Lua Utilities](#lua-utilities)
+- [Media Player](#media-player)
 - [Meshes](#meshes)
 - [Modding](#modding)
 - [Monetization](#monetization)
@@ -66,7 +67,6 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Vehicle](#vehicle)
 - [UI](#ui)
 - [Utilities](#utilities)
-- [Video](#video)
 - [VR/XR](#vrxr)
 - [Web View](#web-view)
 
@@ -492,6 +492,11 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 ### Lua Utilities
 * [LuaProfiler-For-Unity](https://github.com/ElPsyCongree/LuaProfiler-For-Unity) - LuaProfiler-For-Unity
 
+### Media Player
+* [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
+* [LibVLCSharp](https://github.com/videolan/LibVLCSharp) - LibVLCSharp is a cross-platform audio and video API for .NET platforms based on VideoLAN's LibVLC Library.
+* [FFmpegUnityBind2](https://github.com/Spirit30/FFmpegUnityBind2) - FFmpeg Unity Bind 2 is the most powerful Video, Audio, Images Editor for your app.
+
 ### Meshes
 * [UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier) - Mesh simplification for Unity.
 * [MeshDecimator](https://github.com/Whinarn/MeshDecimator) - A mesh decimation library for .NET and Unity.
@@ -823,10 +828,6 @@ A gc-free closure implementation for unity
 * [LucidRandom](https://github.com/AnnulusGames/LucidRandom) - Enhanced random number generator for Unity
 * [Unity-Ripgrep-Search-Tool](https://github.com/prime31/Unity-Ripgrep-Search-Tool) - Helper class for making your own search tools along with a built-in transient Ripgrep search window.
 * [Scene Reference Attribute](https://github.com/KyleBanks/scene-ref-attribute) - Unity C# attribute for serializing component and interface references within the scene or prefab during OnValidate.
-
-### Video
-* [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
-* [LibVLCSharp](https://github.com/videolan/LibVLCSharp) - LibVLCSharp is a cross-platform audio and video API for .NET platforms based on VideoLAN's LibVLC Library.
 
 ### VR/XR
 * [VRTK](https://github.com/thestonefox/VRTK) - A productive VR Toolkit for rapidly building VR solutions in Unity3d.
