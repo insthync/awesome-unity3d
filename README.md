@@ -528,6 +528,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [MelonLoader](https://github.com/LavaGang/MelonLoader) - The World's First Universal Mod Loader for Unity Games that is Compatible with both Il2Cpp and Mono.
 * [UnityDoorstop](https://github.com/NeighTools/UnityDoorstop) - Doorstop -- run C# before Unity does!
 * [MonoHook](https://github.com/Misaka-Mikoto-Tech/MonoHook) - hook C# method at runtime without modify dll file (such as UnityEditor.dll)
+* [ThunderKit](https://github.com/PassivePicasso/ThunderKit) - Mod Project Development Environment for Unity and Unity Games
 
 ### Monetization
 * [unity3d-levelup](https://github.com/soomla/unity3d-levelup) - Unity3D F2P game progression library - worlds, levels, missions, scores, records and more. Part of The SOOMLA Framework - for game design, economy modeling and faster development.
