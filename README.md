@@ -372,8 +372,8 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [oit-unity](https://github.com/happy-turtle/oit-unity) - Order-independent Transparency Implementation in Unity with Per-Pixel Linked Lists
 * [AmplifyOcclusion-URP](https://github.com/neon-age/AmplifyOcclusion-URP) - Amplify Occlusion V2 ported to URP 2022.2
 * [VFX-Lab](https://github.com/neon-age/VFX-Lab) - Shaders and VFX experimentation in URP and BIRP
-* [StarRailNPRShader](https://github.com/stalomeow/StarRailNPRShader) - Fan-made shaders for Unity URP attempting to replicate the shading of Honkai: Star Rail.
 * [URP_ShaderGraphCustomLighting](https://github.com/Cyanilux/URP_ShaderGraphCustomLighting) - Some custom lighting functions/sub-graphs for Shader Graph, Universal Render Pipeline
+* [FSR2Unity](https://github.com/ndepoel/FSR2Unity) - FSR 3.0 Upscaler integration for Unity built-in render pipeline, with support for DX11, Mac, Linux and consoles.
 
 ### Effect-Highlighter
 * [Outline-Effect](https://github.com/cakeslice/Outline-Effect) - Outline Image Effect for Unity
@@ -396,6 +396,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [JasonMaToonRenderPipeline](https://github.com/Jason-Ma-233/JasonMaToonRenderPipeline) - JTRP : Unity HDRP ToonShading Render Pipeline
 * [UniToon](https://github.com/yoship1639/UniToon) - Physically-based Toon Shader for game applications. Compliant with Unity standard rendering functions. It is not targeted to be multifunctional in order to keep performance, but to be universally usable.
 * [MToon](https://github.com/Santarh/MToon) - Toon Shader with Unity Global Illumination
+* [StarRailNPRShader](https://github.com/stalomeow/StarRailNPRShader) - Fan-made shaders for Unity URP attempting to replicate the shading of Honkai: Star Rail.
 * [GenshinCelShaderURP](https://github.com/Gaolingx/GenshinCelShaderURP)
 
 ### Embedding
