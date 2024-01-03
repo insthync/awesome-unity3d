@@ -136,6 +136,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 
 ### Analyzer
 * [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) - A Memory Profiler, Debugger and Analyzer for Unity 2019.3 and newer.
+* [CrashReporter](https://github.com/nskrkmz/CrashReporter) - This tool is employed to swiftly detect unhandled errors occurring within Unity projects and to save detailed reports of these errors to a remote redis database. (Suitable for beta testing and demo)
 
 ### Animation
 * [unity-animator-helpers](https://github.com/ashblue/unity-animator-helpers) - A micro-framework for changing Unity 3D's Animator parameters with ScriptableObject(s). Designed to make going from custom scripts to Animator parameters easy. Works with 2D or 3D projects
@@ -503,6 +504,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [OpenFracture](https://github.com/dgreenheck/OpenFracture) - Open source mesh slicing/fracturing utility for Unity
 * [UnityBVA](https://github.com/bilibili/UnityBVA) - A 3D cross-platform format for Unity
 * [VoxReader](https://github.com/sandrofigo/VoxReader) - Library to read .vox files created with MagicaVoxel.
+* [BMeshUnity](https://github.com/eliemichel/BMeshUnity) - A Unity package to make runtime procedural mesh generation more flexible.
 
 ### Modding
 * [dotPeek](https://www.jetbrains.com/decompiler/) - Free .NET Decompiler and Assembly Browser.
