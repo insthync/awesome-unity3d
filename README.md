@@ -3,8 +3,8 @@ A categorized collection of awesome opensource unity3d resources (including some
 
 [**Open Source Repositories**](#open-source-repositories)
 - [2D](#2d)
-- [2D Bones](#2d-bones)
-- [3D Bones](#3d-bones)
+- [2D Bones](#2d-bones--ik)
+- [3D Bones](#3d-bones--ik)
 - [AI](#ai)
 - [Analyzer](#analyzer)
 - [Animation](#animation)
