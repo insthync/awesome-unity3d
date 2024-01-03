@@ -423,6 +423,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [UniGame.ViewSystem](https://github.com/UniGameTeam/UniGame.ViewSystem) - MVVM Views System for Unity3D
 * [UnityMvvmToolkit](https://github.com/ChebanovDD/UnityMvvmToolkit) - Brings data-binding to your Unity project
 * [PlayerLoopInterface](https://github.com/Baste-RainGames/PlayerLoopInterface) - A simple interface for interacting with Unity's player loop system
+* [CosmosFramework](https://github.com/DonnYep/CosmosFramework) - CosmosFramework is a medium-lightweight plug-in Unity development framework . Has a rich Unity method extensions and toolchain. async/await syntax support, multi-network channel support.
 
 ### Gameplay
 * [UnityArcRayCast](https://github.com/williamrjackson/UnityArcRayCast) - Arc raycast utility using projectile formulas
