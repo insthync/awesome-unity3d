@@ -499,6 +499,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [unity-fracture](https://github.com/ElasticSea/unity-fracture) - Fracture any mesh at runtime
 * [OpenFracture](https://github.com/dgreenheck/OpenFracture) - Open source mesh slicing/fracturing utility for Unity
 * [UnityBVA](https://github.com/bilibili/UnityBVA) - A 3D cross-platform format for Unity
+* [VoxReader](https://github.com/sandrofigo/VoxReader) - Library to read .vox files created with MagicaVoxel.
 
 ### Modding
 * [dotPeek](https://www.jetbrains.com/decompiler/) - Free .NET Decompiler and Assembly Browser.
@@ -811,7 +812,6 @@ A gc-free closure implementation for unity
 * [LucidRandom](https://github.com/AnnulusGames/LucidRandom) - Enhanced random number generator for Unity
 * [Unity-Ripgrep-Search-Tool](https://github.com/prime31/Unity-Ripgrep-Search-Tool) - Helper class for making your own search tools along with a built-in transient Ripgrep search window.
 * [Scene Reference Attribute](https://github.com/KyleBanks/scene-ref-attribute) - Unity C# attribute for serializing component and interface references within the scene or prefab during OnValidate.
-* [VoxReader](https://github.com/sandrofigo/VoxReader) - Library to read .vox files created with MagicaVoxel.
 
 ### Video
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
