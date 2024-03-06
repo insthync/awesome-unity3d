@@ -614,6 +614,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [unity-deterministic-physics](https://github.com/Kimbatt/unity-deterministic-physics) - Cross-platform deterministic physics simulation in Unity, using DOTS physics and soft floats
 * [RaycastVisualization](https://github.com/nomnomab/RaycastVisualization) - This asset allows users to view raycasts as the user fires them.
 * [JoltPhysicsUnity](https://github.com/seep/JoltPhysicsUnity) - Jolt Physics bindings for Unity
+* [Cable-physics](https://github.com/Hrober0/Cable-physics) - Cable physics made with unity
 
 ### Playable
 * [YJZPlayableGraphView](https://github.com/terrynoya/YJZPlayableGraphView) - playable visualizer with GraphView
