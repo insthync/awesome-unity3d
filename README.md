@@ -675,6 +675,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - Yarn Spinner is a tool for building interactive dialogue in games! 
 * [UniScript](https://github.com/pjc0247/UniScript) - Brings C# scripting into Unity which acts as native code.
 * [SlowSharp](https://github.com/pjc0247/SlowSharp) - C# interpreter written in C#
+* [hybridclr](https://github.com/focus-creative-games/hybridclr) - a full-platform native c# hot update solution for Unity with complete features, zero cost, high performance, and low memory.
 
 ### Scene Transition
 * [UnityScreenNavigator](https://github.com/Haruma-K/UnityScreenNavigator) - Library for screen transitions, transition animations, transition history stacking, and screen lifecycle management in Unity's uGUI.
