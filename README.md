@@ -774,6 +774,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [UnityAccessibilityPlugin](https://github.com/mikrima/UnityAccessibilityPlugin) - The UI Accessibility Plugin (UAP) allows you to make your UI accessible to blind and visually impaired players on Windows, Android, iOS, Mac and WebGL.
 * [ReactUnity](https://github.com/ReactUnity/core) - React and HTML framework for Unity UI & UIToolkit.
 * [uPalette](https://github.com/Haruma-K/uPalette) - Centralized management & batch change system of colors for Unity.
+* [Rewired.UI.Hotkeys](https://github.com/am1goo/Rewired.UI.Hotkeys) - a plugin for Guavaman's Rewired Unity Asset that provides an easy-to-use API for showing controller hotkeys to the player at runtime based on their bindings and input method.
 
 ### Utilities
 * [LINQ to GameObject](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ
