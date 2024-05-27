@@ -136,6 +136,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [DotRecast](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
 * [UnityBehaviorTreeVisualizer](https://github.com/Yecats/UnityBehaviorTreeVisualizer) - A tool built in Unity that draws a graph representation of behavior trees running in the scene
 * [MonoBehaviourTree](https://github.com/Qriva/MonoBehaviourTree) - Simple event driven Behaviour tree for Unity projects
+* [N:ORCA](https://github.com/Nebukam/com.nebukam.orca) - ORCA / RVO2 Implementation for Unity — Multithreaded using the job system.
 
 ### Analyzer
 * [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) - A Memory Profiler, Debugger and Analyzer for Unity 2019.3 and newer.
@@ -255,6 +256,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [Spatial-Hashing](https://github.com/Sylmerria/Spatial-Hashing) - Spatial hashing for Unity using ECS/DOTS
 * [NativeTrees](https://github.com/bartofzo/NativeTrees) - Burst compatible Octree and Quadtree for Unity
 * [Pathfinding](https://github.com/bustedbunny/Pathfinding) - Pathfinding - using Unity Navmesh, ECS and Burst
+* [DOTS-Hybrid-Simulation-Worlds](https://github.com/tbg10101/DOTS-Hybrid-Simulation-Worlds) - A framework for using FixedUpdate in a simulation world which is linked to a GameObject-based presentation layer.
 
 ### Dependency Injection
 * [Zenject](https://github.com/modesttree/Zenject) - Dependency Injection Framework for Unity3D
