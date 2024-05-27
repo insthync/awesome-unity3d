@@ -33,6 +33,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Feedback Libraries](#feedback-libraries)
 - [Framework](#framework)
 - [Gameplay](#gameplay)
+- [Gizmos](#gizmos)
 - [Input](#input)
 - [Job System](#job-system)
 - [Level Editor](#level-editor)
@@ -450,6 +451,9 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [ezy-slice](https://github.com/DavidArayan/ezy-slice) - An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
 * [UnityTimeRewinder](https://github.com/SitronX/UnityTimeRewinder) - Unity time rewind solution, that is easily customizable for any project.
 * [Depiction Engine For Unity](https://github.com/VIZ-Interactive/Depiction-Engine-Unity) - Versatile engine to create and stream large 3D worlds for game or geospatial applications
+
+### Gizmos
+* [UGizmo](https://github.com/harumas/UGizmo) - Highly efficient gizmo drawer for Unity.
 
 ### Input
 * [InputManager](https://github.com/daemon3000/InputManager) - Custom InputManager for Unity
