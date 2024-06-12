@@ -283,6 +283,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [LeoECS](https://github.com/Leopotam/ecs) - LeoECS is a fast Entity Component System (ECS) Framework powered by C# with optional integration to Unity
 * [actors.unity](https://github.com/PixeyeHQ/actors.unity) - Actors is a framework empowering developers to make better games faster on Unity.
 * [Arch](https://github.com/genaray/Arch) - A high-performance C# based Archetype & Chunks Entity Component System (ECS) with optional multithreading.
+* [Friflo.Engine.ECS](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - High-performance C# ECS 🔥 with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ...
 
 ### Editor
 * [Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet) - Unity-QuickSheet enables you to use spreadsheet file data within Unity editor.
