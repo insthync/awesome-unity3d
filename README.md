@@ -882,6 +882,7 @@ A gc-free closure implementation for unity
 * [itch.io](https://itch.io/game-assets)
 * [Game Assets](https://game-asset.net/)
 * [Game Dev Market](https://www.gamedevmarket.net/)
+* [Kenney](https://kenney.nl/assets) - Free 2D, 3D, and Audio assets for personal and commercial use.
 * [Open Game Art](https://opengameart.org/)
 * [Unity Assetstore](https://assetstore.unity.com/) - Official asset store for unity.
 * [Unitylist](https://unitylist.com/) - Search for everything.
