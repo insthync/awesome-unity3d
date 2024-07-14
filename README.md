@@ -384,6 +384,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [VFX-Lab](https://github.com/neon-age/VFX-Lab) - Shaders and VFX experimentation in URP and BIRP
 * [URP_ShaderGraphCustomLighting](https://github.com/Cyanilux/URP_ShaderGraphCustomLighting) - Some custom lighting functions/sub-graphs for Shader Graph, Universal Render Pipeline
 * [FSR2Unity](https://github.com/ndepoel/FSR2Unity) - FSR 3.0 Upscaler integration for Unity built-in render pipeline, with support for DX11, Mac, Linux and consoles.
+* [HoyoToon](https://github.com/Melioli/HoyoToon) - Shader for Unity (Built-in Rendering Pipeline) attempting to replicate the shading of miHoYo developed games. This is for datamined assets, not custom-made ones nor the MMD variants.
 
 ### Effect-Highlighter
 * [Outline-Effect](https://github.com/cakeslice/Outline-Effect) - Outline Image Effect for Unity
