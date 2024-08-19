@@ -726,6 +726,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 ### Tweening
 * [DOTween (Recommend)](https://github.com/Demigiant/dotween) - A Unity C# animation engine. HOTween v2
 * [MagicTween](https://github.com/AnnulusGames/MagicTween) - Extremely fast tween library implemented in Unity ECS
+* [LitMotion](https://github.com/AnnulusGames/LitMotion) - Lightning-fast and Zero Allocation Tween Library for Unity.
 * [PrimeTween](https://github.com/KyryloKuzyk/PrimeTween) - High-performance, allocation-free tween library for Unity. Create animations, delays, and sequences in one line of code.
 * [TweenPlayables](https://github.com/AnnulusGames/TweenPlayables) - Tween Animation Library for Unity Timeline
 * [LeanTween](https://github.com/dentedpixel/LeanTween) - LeanTween is an efficient animation engine for Unity
@@ -852,6 +853,7 @@ A gc-free closure implementation for unity
 * [Unity-Ripgrep-Search-Tool](https://github.com/prime31/Unity-Ripgrep-Search-Tool) - Helper class for making your own search tools along with a built-in transient Ripgrep search window.
 * [Scene Reference Attribute](https://github.com/KyleBanks/scene-ref-attribute) - Unity C# attribute for serializing component and interface references within the scene or prefab during OnValidate.
 * [UnityPythonMediaPipeAvatar](https://github.com/ganeshsar/UnityPythonMediaPipeAvatar) - Creating a multi-threaded full body tracking solution supporting arbitrary humanoid avatars for Unity using Google Mediapipe Pose Python bindings.
+* [RapidEnum](https://github.com/hanachiru/RapidEnum) - Enum utility with SourceGenerator for C#/.NET
 
 ### VR/XR
 * [VRTK](https://github.com/thestonefox/VRTK) - A productive VR Toolkit for rapidly building VR solutions in Unity3d.
