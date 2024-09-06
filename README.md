@@ -907,6 +907,7 @@ A gc-free closure implementation for unity
 * [50 Tips and Best Practices for Unity (2016 Edition)](https://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php)
 * [Unity Package Manager 2018.3+](https://blogs.unity3d.com/2018/05/09/unity-packages-life-cycle/)
 * [Cracked Ice Shader](https://80.lv/articles/how-to-build-cracked-ice-in-material-editor/)
+* [Unity-Addressable](https://github.com/Wenrong274/Unity-Addressable)
 
 ## Books
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/) Free and Paid available
