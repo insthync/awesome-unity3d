@@ -10,7 +10,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Animation](#animation)
 - [Anti-Cheat](#anti-cheat)
 - [Art Tools](#art-tools)
-- [Asset Bundle](#asset-bundle)
+- [Asset Bundle / Addressable Assets](#asset-bundle--addressable-assets)
 - [Audio Manager](#audio-manager)
 - [Bolt](#bolt)
 - [Build Tools and CI](#build-tools-and-ci)
@@ -164,12 +164,13 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [Unity Psd Importer](https://github.com/ChemiKhazi/UnityPsdImporter) - Advanced PSD importer for Unity3D
 * [StableDiffusionUnityTools](https://github.com/KonH/StableDiffusionUnityTools) - Editor assets generation via Stable Diffusion
 
-### Asset Bundle
+### Asset Bundle / Addressable Assets
 * [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager) - An asset bundle manager for Unity
 * [unity-addressable-importer](https://github.com/favoyang/unity-addressable-importer) - A rule based addressable asset importer
 * [KEngine](https://github.com/mr-kelly/KEngine) - A unity asset bundle framework with LGPL license
 * [UnityAutoBundles](https://github.com/perholmes/UnityAutoBundles) - Extension to Unity's Addressables for making it easier to distribute large projects and keep mobile download size small.
 * [EZAddresser](https://github.com/Haruma-K/EZAddresser) - Automatic addressing system for Unity Addressable Asset System.
+* [SmartAddresser](https://github.com/CyberAgentGameEntertainment/SmartAddresser) - Automate Addressing, Labeling, and Version Control for Unity's Addressable Asset System.
 
 ### Audio Manager
 * [LucidAudio](https://github.com/AnnulusGames/LucidAudio) - Simple audio player for unity
