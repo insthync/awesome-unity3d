@@ -106,6 +106,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 * [TurboSequence](https://github.com/LukasFratzl/TurboSequence) - Skeletal Based GPU Crowds for UE5 🚀
 
 ### AI
+* [UnityHFSM](https://github.com/Inspiaaa/UnityHFSM) - A fast, tried-and-tested hierarchical finite state machine library for Unity, designed to be easy to use yet powerful without compromising performance.
 * [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai) - A library of common movement AI scripts known as Steering Behaviors. You can use these scripts to help your NPCs move around your game.
 * [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - A Utility AI for C# and Unity
 * [EpPathFinding.cs](https://github.com/juhgiyo/EpPathFinding.cs) - A jump point search algorithm for grid based games in C#
