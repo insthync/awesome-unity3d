@@ -628,6 +628,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [RaycastVisualization](https://github.com/nomnomab/RaycastVisualization) - This asset allows users to view raycasts as the user fires them.
 * [JoltPhysicsUnity](https://github.com/seep/JoltPhysicsUnity) - Jolt Physics bindings for Unity
 * [Cable-physics](https://github.com/Hrober0/Cable-physics) - Cable physics made with unity
+* [Box2D.NET](https://github.com/ikpil/Box2D.NET) - a port of Box2D, is a 2D physics engine for games, .NET C#, Unity3D, servers
 
 ### Playable
 * [YJZPlayableGraphView](https://github.com/terrynoya/YJZPlayableGraphView) - playable visualizer with GraphView
