@@ -189,6 +189,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [setup-unity](https://github.com/pCYSl5EDgo/setup-unity) - Set up your GitHub Actions workflow with a specific version of the Unity Editor
 * [unity-actions](https://github.com/webbertakken/unity-actions) - Github actions for testing and building Unity projects
 * [trimmer](https://github.com/sttz/trimmer) - An editor, build and player configuration framework for the Unity game engine.
+* [Unity-GitHub-Build-Automation](https://github.com/TolinSimpson/Unity-GitHub-Build-Automation/tree/main) - Automate desktop builds & release to GitHub, with update checker, signing & installer generation.
 
 ### Camera
 * [Unity Pixel Camera](https://github.com/ChemiKhazi/UnityPixelCamera) - A resolution independent pixel perfect camera for Unity
