@@ -438,6 +438,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [UnityMvvmToolkit](https://github.com/ChebanovDD/UnityMvvmToolkit) - Brings data-binding to your Unity project
 * [PlayerLoopInterface](https://github.com/Baste-RainGames/PlayerLoopInterface) - A simple interface for interacting with Unity's player loop system
 * [CosmosFramework](https://github.com/DonnYep/CosmosFramework) - CosmosFramework is a medium-lightweight plug-in Unity development framework . Has a rich Unity method extensions and toolchain. async/await syntax support, multi-network channel support.
+* [UnityNeuroSpeech](https://github.com/HardCodeDev777/UnityNeuroSpeech) -  World’s first Unity framework that lets you talk to AI in real time — locally.
 
 ### Gameplay
 * [UnityArcRayCast](https://github.com/williamrjackson/UnityArcRayCast) - Arc raycast utility using projectile formulas
