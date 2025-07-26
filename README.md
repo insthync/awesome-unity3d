@@ -334,6 +334,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [LucidEditor](https://github.com/AnnulusGames/LucidEditor) - Powerful Editor Extensions for Unity
 * [UnityGitPackageUpdater](https://github.com/QuantumCalzone/UnityGitPackageUpdater) - Easily update Unity packages hosted via git
 * [FastScriptReload](https://github.com/handzlikchris/FastScriptReload) - Hot Reload implementation for Unity. Iterate on code insanely fast without breaking play session. Supports any editor. 1. Play 2. Make change 3. See results
+* [CustomToolbar](https://github.com/Alaxxxx/CustomToolbar) - An advanced and extensible toolbar for Unity.
 
 ### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
