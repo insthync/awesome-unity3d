@@ -86,21 +86,21 @@ A categorized collection of awesome opensource unity3d resources (including some
 ### 2D
 * [Unity2D-Components](https://github.com/cmilr/Unity2D-Components) - A constantly evolving array of Unity C# components for 2D games, including classes for pixel art cameras, events & messaging, saving & loading game data, collision handlers, object pools, and more.
 * [DeadSimple-Pixel-Perfect-Camera](https://github.com/cmilr/DeadSimple-Pixel-Perfect-Camera) - An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scenes in Unity. Punch in a few specs and you've got a working pixel perfect camera. It's that easy
-* [StaticBluredScreen](https://github.com/mob-sakai/StaticBluredScreen) - Non-realtime (=static) screen blur for Unity. Easy to use background for dialogs
-* [AtlasImage](https://github.com/mob-sakai/AtlasImage) - AtlasImage is a graphic component use SpriteAtlas for uGUI. In addition, add useful sprite selector and border editor to the inspector
-* [SpriteDicing](https://github.com/Elringus/SpriteDicing) - Extension for Unity game engine to work with diced sprites
-* [DataRenderer2D](https://github.com/geniikw/DataRenderer2D) - make mesh like line, polygon, etc in unity3d
-* [UnitySpline2D](https://github.com/sinbad/UnitySpline2D) - 2D spline utility for Unity
-* [Aseprite Importer for Unity](https://github.com/2YY/aseprite-importer-for-unity) - Generate Animator Controller and Animation Clip from JSON that exported from Aseprite.
+* [StaticBluredScreen](https://github.com/mob-sakai/StaticBluredScreen) - Non-realtime (=static) screen blur for Unity. Easy to use background for dialogs.
+* [AtlasImage](https://github.com/mob-sakai/AtlasImage) - AtlasImage is a graphic component that uses SpriteAtlas for uGUI. In addition, it adds useful sprite selectors and a border editor to the inspector.
+* [SpriteDicing](https://github.com/Elringus/SpriteDicing) - Extension for the Unity game engine to work with diced sprites.
+* [DataRenderer2D](https://github.com/geniikw/DataRenderer2D) - Creates meshes like lines, polygons, etc. in Unity.
+* [UnitySpline2D](https://github.com/sinbad/UnitySpline2D) - 2D spline utility for Unity.
+* [Aseprite Importer for Unity](https://github.com/2YY/aseprite-importer-for-unity) - Generates Animator Controllers and Animation Clips from JSON files exported from Aseprite.
 
 ### 2D Bones / IK
 * [DragonBonesCSharp](https://github.com/DragonBones/DragonBonesCSharp) - DragonBones C# Runtime
 * [Spine Runtimes](https://github.com/EsotericSoftware/spine-runtimes) - Collection of Spine runtimes including with Unity3d version.
-* [UnityVoxelTools](https://github.com/meniku/UnityVoxelTools) - Collection of Voxel Utilities for Unity
+* [UnityVoxelTools](https://github.com/meniku/UnityVoxelTools) - Collection of Voxel Utilities for Unity.
 
 ### 3D Bones / IK
-* [EZSoftBone](https://github.com/EZhex1991/EZSoftBone) - A simple kinetic simulator for Unity, you can use it to simulate hair/tail/breast/skirt and other soft objects
-* [Automatic-DynamicBone](https://github.com/OneYoungMean/Automatic-DynamicBone) - unity bone cloth spring system,base by jobs.
+* [EZSoftBone](https://github.com/EZhex1991/EZSoftBone) - A simple kinetic simulator for Unity; you can use it to simulate hair, tails, breasts, skirts, and other soft objects.
+* [Automatic-DynamicBone](https://github.com/OneYoungMean/Automatic-DynamicBone) - Unity bone cloth spring system, base by jobs.
 * [Aim-IK](https://github.com/ehsan-mohammadi/Aim-IK) - A Unity package, to procedurally orientate the character's head (and spine) in a direction without using any animation data.
 * [Hairibar.Ragdoll](https://github.com/hairibar/Hairibar.Ragdoll) - A package for animating ragdolls through keyframed animations.
 * [TurboSequence](https://github.com/LukasFratzl/TurboSequence) - Skeletal Based GPU Crowds for UE5 🚀
@@ -152,7 +152,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [reanimation](https://github.com/aarthificial/reanimation) - An alternative animator for Unity tailored for traditional animation
 * [AnimeTask](https://github.com/kyubuns/AnimeTask) - Task Animation Library for Unity
 * [Unity-Procedural-Animation](https://github.com/Sopiro/Unity-Procedural-Animation) - Procedural Animation in Unity
-* [unity-antagonistic-controller](https://github.com/edualvarado/unity-antagonistic-controller) - Generating Upper-Body Motion for Real-Time Characters Making their Way through Dynamic Environments 
+* [unity-antagonistic-controller](https://github.com/edualvarado/unity-antagonistic-controller) - Generating Upper-Body Motion for Real-Time Characters Making their Way through Dynamic Environments
 * [Mesh-Animation](https://github.com/codewriter-packages/Mesh-Animation) - Fast GPU vertex shader based animation library for Unity (VAT, Vertex Animation Texture, Morphing Animation)
 
 ### Anti-Cheat
@@ -227,7 +227,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 ### Console
 * [Unity3d-BeastConsole](https://github.com/pointcache/Unity3d-BeastConsole) - Console for all your unity needs
 * [consolation](https://github.com/mminer/consolation) - In-game debug console for Unity.
-* [Lunar Unity Mobile Console](https://github.com/SpaceMadness/lunar-unity-console) - High-performance Unity iOS/Android logger built with native platform UI 
+* [Lunar Unity Mobile Console](https://github.com/SpaceMadness/lunar-unity-console) - High-performance Unity iOS/Android logger built with native platform UI
 
 ### DOTS
 * [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
@@ -308,7 +308,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [UniOmni](https://github.com/lochrist/UniOmni) - Global search for Unity
 * [Readme](https://github.com/TinyPhoenix/Readme) - Readme component for Unity, attachable to any GameObject to document what you can't in a script or the file system
 * [Unity-AssetDependencyGraph](https://github.com/Unity-Harry/Unity-AssetDependencyGraph) - An Asset Dependency Graph for Unity
-* [MyBox](https://github.com/Deadcows/MyBox) - MyBox is a set of attributes, tools and extensions for Unity 
+* [MyBox](https://github.com/Deadcows/MyBox) - MyBox is a set of attributes, tools and extensions for Unity
 * [Unity-Finder](https://github.com/litefeel/Unity-Finder) - Find Asset in Unity.
 * [Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox) - Tools, custom attributes, drawers and extensions for Unity Editor.
 * [enhancer](https://github.com/xeleh/enhancer) - A collection of utilities to enhance the Unity Editor
@@ -368,7 +368,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [UnityPCSS](https://github.com/TheMasonX/UnityPCSS) - Nvidia's PCSS soft shadow algorithm implemented in Unity
 * [JourneySand](https://github.com/AtwoodDeng/JourneySand) - An Unity project to reproduce the sand rendering in Journey's style
 * [OBNI3D](https://github.com/alexbourgeois/OBNI3D) - Graphical pipeline allowing mesh deformation through shader and 3D noise volume
-* [FXAA](https://github.com/AmplifyCreations/FXAA) - FXAA Fast Approximate Anti-Aliasing 
+* [FXAA](https://github.com/AmplifyCreations/FXAA) - FXAA Fast Approximate Anti-Aliasing
 * [AmplifyColor](https://github.com/AmplifyCreations/AmplifyColor) - Full source-code for Amplify Color plugin for Unity
 * [AmplifyOcclusion](https://github.com/AmplifyCreations/AmplifyOcclusion) - Full source-code for Amplify Occlusion plugin for Unity
 * [AmplifyMotion](https://github.com/AmplifyCreations/AmplifyMotion) - Full source-code for Amplify Motion plugin for Unity
@@ -479,7 +479,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [HexTiles](https://github.com/RoryDungan/HexTiles) - Unity Hex Tile Editor
 * [giles](https://github.com/procore3d/giles) - GILES: A Runtime Level Editor for Unity3D
 * [floorplan](https://github.com/alexismorin/floorplan) - A Sims-Like Unity Level Design Plugin
-* [realtime-CSG-for-unity](https://github.com/LogicalError/realtime-CSG-for-unity) - Realtime-CSG, CSG level editor for Unity 
+* [realtime-CSG-for-unity](https://github.com/LogicalError/realtime-CSG-for-unity) - Realtime-CSG, CSG level editor for Unity
 * [PrefabPainter](https://github.com/AlexanderAmeye/PrefabPainter) - A basic prefab painter for the Unity3D game engine
 * [hedera](https://github.com/radiatoryang/hedera) - paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time
 * [Photosynthesizer](https://github.com/alexismorin/Photosynthesizer) - Unity plugin to procedurally sprout foliage throughout your scene.
@@ -585,7 +585,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [ET](https://github.com/egametang/ET) - Unity3D Client And C# Server Framework
 * [unity-fastpacedmultiplayer](https://github.com/JoaoBorks/unity-fastpacedmultiplayer) - Features a Networking Framework to be used on top of Unity Networking, in order to implement an Authoritative Server with Lag Compensation, Client-Side Prediction/Server Reconciliation and Entity Interpolation
 * [Entitas-Sync-Framework](https://github.com/RomanZhu/Entitas-Sync-Framework) - Networking framework for Entitas ECS. Targeted at turnbased games or other slow-paced genres
-* [RestClient](https://github.com/proyecto26/RestClient) - Simple HTTP and REST client for Unity based on Promises, also supports Callbacks! 
+* [RestClient](https://github.com/proyecto26/RestClient) - Simple HTTP and REST client for Unity based on Promises, also supports Callbacks!
 * [Teleport](https://github.com/debox-dev/Teleport) - A fast, lightweight, pure C# Unity realtime-game-networking framework
 * [EuNet](https://github.com/zestylife/EuNet) - Peer to peer network solution for multiplayer games.
 * [HouraiNetworking](https://github.com/HouraiTeahouse/HouraiNetworking) - Transport level library for peer-to-peer networking with multiple backends for the Unity.
@@ -688,7 +688,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 ### Scriptings
 * [UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) - Unity Scripting in C++
 * [unity-python](https://github.com/exodrifter/unity-python) - Python plugin for Unity3D
-* [YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - Yarn Spinner is a tool for building interactive dialogue in games! 
+* [YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - Yarn Spinner is a tool for building interactive dialogue in games!
 * [UniScript](https://github.com/pjc0247/UniScript) - Brings C# scripting into Unity which acts as native code.
 * [SlowSharp](https://github.com/pjc0247/SlowSharp) - C# interpreter written in C#
 * [hybridclr](https://github.com/focus-creative-games/hybridclr) - a full-platform native c# hot update solution for Unity with complete features, zero cost, high performance, and low memory.
@@ -776,7 +776,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Unity-UI-Rounded-Corners](https://github.com/Nobinator/Unity-UI-Rounded-Corners) - This components and shaders allows you to add rounded corners to UI element
 * [RapidGUI](https://github.com/fuqunaga/RapidGUI) - Unity OnGUI(IMGUI) extensions for Rapid prototyping/development
 * [ugui-mvvm](https://github.com/jbruening/ugui-mvvm) - Unity3D uGUI mvvm databinding via the standard IXChanged interfaces used in wpf (INotifyPropertyChanged, INotifyCollectionChanged, etc)
-* [Recyclable-Scroll-Rect](https://github.com/MdIqubal/Recyclable-Scroll-Rect) - Recyclable Scroll Rect reuses or recycles the least number of cells required to fill the viewport. As a result a huge number of items can be shown in the list without any performance hit. 
+* [Recyclable-Scroll-Rect](https://github.com/MdIqubal/Recyclable-Scroll-Rect) - Recyclable Scroll Rect reuses or recycles the least number of cells required to fill the viewport. As a result a huge number of items can be shown in the list without any performance hit.
 * [UnityGUI](https://github.com/coryleach/UnityGUI) - UGUI Panel Systems for navigation, animation and more
 * [UGUIExtend](https://github.com/L-Lawliet/UGUIExtend)
 * [unity-ugui-XCharts](https://github.com/monitor1394/unity-ugui-XCharts) - A charting and data visualization library for Unity.
@@ -870,7 +870,7 @@ A gc-free closure implementation for unity
 * [VRWorksAudio-Unity](https://github.com/Andy260/VRWorksAudio-Unity) - Unofficial implementation of NVIDIA's VRWorks - Audio for Unity3D
 * [Lightweight-VR](https://github.com/Spatial-Cinematics/Lightweight-VR) - An open sourced, light weight, VR input framework. This is basically an empty Unity project that's been setup for easy VR integration without having to pull down any packages. No need for Steam VR or OVR plugins.
 * [HPTK](https://github.com/jorgejgnz/HPTK) - Hand Physics Toolkit (HPTK) is a toolkit to build physical hand-driven interactions in a modular and scalable way.
-* [XRTK](https://github.com/XRTK/XRTK-Core) - The Official Mixed Reality Framework for Unity 
+* [XRTK](https://github.com/XRTK/XRTK-Core) - The Official Mixed Reality Framework for Unity
 * [unity-webxr-export](https://github.com/De-Panther/unity-webxr-export) - Develop and export WebXR experiences using Unity WebGL
 * [Simple-WebXR-Unity](https://github.com/Rufus31415/Simple-WebXR-Unity) - SimpleWebXR is a lightweight library that exposes the WebXR javascript API in your C# Unity code.
 * [ultimatexr-unity](https://github.com/VRMADA/ultimatexr-unity) - UltimateXR is a free, open source framework that facilitates the creation of VR applications.
