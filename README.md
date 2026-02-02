@@ -591,6 +591,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [HouraiNetworking](https://github.com/HouraiTeahouse/HouraiNetworking) - Transport level library for peer-to-peer networking with multiple backends for the Unity.
 * [Backroll](https://github.com/HouraiTeahouse/Backroll) - Unity C# Port of GGPO built atop Hourai Networking
 * [sand-socket-unity](https://github.com/ccadori/sand-socket-unity) - Sand Unity is a Unity3D client for [Sand](https://github.com/ccadori/sand-socket)
+* [PhoenixSharp](https://github.com/Mazyod/PhoenixSharp) - C# Phoenix Channels client for real-time communication with Elixir/Phoenix servers. Unity compatible.
 * [Pun2Task](https://github.com/TORISOUP/Pun2Task) - This library enables async/await in Photon Unity Networking 2.
 * [UnityWebSocket](https://github.com/psygames/UnityWebSocket) - The Best Unity WebSocket Plugin for All Platforms.
 * [graphQL-client-unity](https://github.com/Gazuntype/graphQL-client-unity) - This repository houses a unitypackage that can be included in your Unity Project to enable it communicate with a graphQL server.
