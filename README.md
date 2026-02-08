@@ -8,7 +8,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [AI](#ai)
 - [Analyzer](#analyzer)
 - [Animation](#animation)
-- [Anti-Cheat/Hack](#anti-cheat-hack)
+- [Anti-Cheat/Hack](#anti-cheathack)
 - [Art Tools](#art-tools)
 - [Asset Bundle / Addressable Assets](#asset-bundle--addressable-assets)
 - [Audio Manager](#audio-manager)
