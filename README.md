@@ -8,7 +8,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [AI](#ai)
 - [Analyzer](#analyzer)
 - [Animation](#animation)
-- [Anti-Cheat](#anti-cheat)
+- [Anti-Cheat/Hack](#anti-cheat-hack)
 - [Art Tools](#art-tools)
 - [Asset Bundle / Addressable Assets](#asset-bundle--addressable-assets)
 - [Audio Manager](#audio-manager)
@@ -155,7 +155,8 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [unity-antagonistic-controller](https://github.com/edualvarado/unity-antagonistic-controller) - Generating Upper-Body Motion for Real-Time Characters Making their Way through Dynamic Environments 
 * [Mesh-Animation](https://github.com/codewriter-packages/Mesh-Animation) - Fast GPU vertex shader based animation library for Unity (VAT, Vertex Animation Texture, Morphing Animation)
 
-### Anti-Cheat
+### Anti-Cheat/Hack
+* [obfuz](https://github.com/focus-creative-games/obfuz) - A powerful open-source code obfuscation plugin for Unity
 * [SafeValues](https://github.com/ookii-tsuki/SafeValues) - A simple Unity library for cheating prevention
 
 ### Art Tools
