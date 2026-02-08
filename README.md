@@ -106,6 +106,9 @@ A categorized collection of awesome opensource unity3d resources (including some
 * [TurboSequence](https://github.com/LukasFratzl/TurboSequence) - Skeletal Based GPU Crowds for UE5 🚀
 
 ### AI
+* [GOAP](https://github.com/crashkonijn/GOAP) - A multi-threaded GOAP system for Unity3D
+* [behaviac](https://github.com/Tencent/behaviac) - behaviac is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN)
+* [DotRecast](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
 * [UnityHFSM](https://github.com/Inspiaaa/UnityHFSM) - A fast, tried-and-tested hierarchical finite state machine library for Unity, designed to be easy to use yet powerful without compromising performance.
 * [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai) - A library of common movement AI scripts known as Steering Behaviors. You can use these scripts to help your NPCs move around your game.
 * [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - A Utility AI for C# and Unity
@@ -123,7 +126,6 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [NavMeshPlus](https://github.com/h8man/NavMeshPlus) - Unity NavMesh 2D Pathfinding
 * [NavMeshSurface2DBaker](https://github.com/SharlatanY/NavMeshSurface2DBaker) - NavMeshSurface2DBaker is a Unity Package that provides functionality to bake 2D colliders into NavMeshSurface components.
 * [Brainiac](https://github.com/daemon3000/Brainiac) - Behaviour tree editor for Unity3D
-* [behaviac](https://github.com/Tencent/behaviac) - behaviac is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN)
 * [ainav](https://github.com/gamemachine/ainav) - Recastnavigation in C#
 * [UnityBehaviorTreeImplementation](https://github.com/naelstrof/UnityBehaviorTreeImplementation) - An example of how to implement behavior trees within Unity.
 * [unity-navgen](https://github.com/idbrii/unity-navgen) - Tools for working with Unity's NavMeshComponents and generating navmesh: link generation, mesh cleanup, etc.
@@ -133,10 +135,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [UniTaskStateMachine](https://github.com/k-okawa/UniTaskStateMachine) - StateMachine for UniTask. StateMachine Editor Included.
 * [NavMeshAvoidance](https://github.com/OlegDzhuraev/NavMeshAvoidance) - About
 Custom Nav Mesh Avoidance to replace default one in Unity.
-* [CustomNavMesh](https://github.com/jadvrodrigues/CustomNavMesh) - Alternative to Unity's NavMesh system where the agents avoid each other.
 * [AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with the Unity Editor.
-* [GOAP](https://github.com/crashkonijn/GOAP) - A multi-threaded GOAP system for Unity3D
-* [DotRecast](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
 * [UnityBehaviorTreeVisualizer](https://github.com/Yecats/UnityBehaviorTreeVisualizer) - A tool built in Unity that draws a graph representation of behavior trees running in the scene
 * [MonoBehaviourTree](https://github.com/Qriva/MonoBehaviourTree) - Simple event driven Behaviour tree for Unity projects
 * [N:ORCA](https://github.com/Nebukam/com.nebukam.orca) - ORCA / RVO2 Implementation for Unity — Multithreaded using the job system.
