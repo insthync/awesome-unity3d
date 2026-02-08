@@ -168,6 +168,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [StableDiffusionUnityTools](https://github.com/KonH/StableDiffusionUnityTools) - Editor assets generation via Stable Diffusion
 
 ### Asset Bundle / Addressable Assets
+* [YooAsset](https://github.com/tuyoogame/YooAsset) - unity3d resources management system
 * [unity-addressable-importer](https://github.com/favoyang/unity-addressable-importer) - A rule based addressable asset importer
 * [SmartAddresser](https://github.com/CyberAgentGameEntertainment/SmartAddresser) - Automate Addressing, Labeling, and Version Control for Unity's Addressable Asset System.
 * [EZAddresser](https://github.com/Haruma-K/EZAddresser) - Automatic addressing system for Unity Addressable Asset System.
