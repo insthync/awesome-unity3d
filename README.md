@@ -466,7 +466,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [InControl](https://github.com/pbhogan/InControl) - An input manager for Unity that tames the cross-platform controller beast.
 * [InputBinder](https://github.com/RyanNielson/InputBinder) - Easily bind input events to methods in Unity.
 * [TouchKit](https://github.com/prime31/TouchKit) - Gestures and input handling made sane for Unity
-* [TouchScript (Recommend)](https://github.com/TouchScript/TouchScript) - Complete multitouch solution for Unity: Win8, TUIO, Mobile.
+* [TouchScript](https://github.com/TouchScript/TouchScript) - Complete multitouch solution for Unity: Win8, TUIO, Mobile.
 
 ### Job System
 * [ZeroAllocJobScheduler](https://github.com/genaray/ZeroAllocJobScheduler) - A high-performance alloc free c# Jobscheduler.
@@ -502,8 +502,8 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [VolumetricTracer](https://github.com/Fewes/VolumetricTracer) - A simple way to render soft, volumetric bullet tracers in Unity. Only needs a unit cube and a material to render and supports instancing.
 
 ### Lua
-* [slua (Recommend)](https://github.com/pangweiwei/slua) - Fastest lua binding via static code generating for Unity3D and mono.
-* [xLua (Recommend)](https://github.com/Tencent/xLua) - xLua is a hot-fix solution plugin for Unity3D, it supports android, ios, windows, osx, etc.
+* [xLua](https://github.com/Tencent/xLua) - xLua is a hot-fix solution plugin for Unity3D, it supports android, ios, windows, osx, etc.
+* [slua](https://github.com/pangweiwei/slua) - Fastest lua binding via static code generating for Unity3D and mono.
 * [UniLua](https://github.com/xebecnan/UniLua) - A pure C# implementation of Lua 5.2 focus on compatibility with Unity3D.
 * [MoonSharp](https://github.com/xanathar/moonsharp/) - An interpreter for the Lua language, written entirely in C# for the .NET, Mono, Xamarin and Unity3D platforms, including handy remote debugger facilities
 
@@ -730,7 +730,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [SpineTimeline](https://github.com/5argon/SpineTimeline) - Animate SkeletonAnimation or SkeletonGraphic with Unity's Timeline
 
 ### Tweening
-* [DOTween (Recommend)](https://github.com/Demigiant/dotween) - A Unity C# animation engine. HOTween v2
+* [DOTween](https://github.com/Demigiant/dotween) - A Unity C# animation engine. HOTween v2
 * [MagicTween](https://github.com/AnnulusGames/MagicTween) - Extremely fast tween library implemented in Unity ECS
 * [LitMotion](https://github.com/AnnulusGames/LitMotion) - Lightning-fast and Zero Allocation Tween Library for Unity.
 * [PrimeTween](https://github.com/KyryloKuzyk/PrimeTween) - High-performance, allocation-free tween library for Unity. Create animations, delays, and sequences in one line of code.
