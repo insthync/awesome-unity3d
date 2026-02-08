@@ -168,11 +168,12 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [StableDiffusionUnityTools](https://github.com/KonH/StableDiffusionUnityTools) - Editor assets generation via Stable Diffusion
 
 ### Asset Bundle / Addressable Assets
-* [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager) - An asset bundle manager for Unity
 * [unity-addressable-importer](https://github.com/favoyang/unity-addressable-importer) - A rule based addressable asset importer
-* [UnityAutoBundles](https://github.com/perholmes/UnityAutoBundles) - Extension to Unity's Addressables for making it easier to distribute large projects and keep mobile download size small.
-* [EZAddresser](https://github.com/Haruma-K/EZAddresser) - Automatic addressing system for Unity Addressable Asset System.
 * [SmartAddresser](https://github.com/CyberAgentGameEntertainment/SmartAddresser) - Automate Addressing, Labeling, and Version Control for Unity's Addressable Asset System.
+* [EZAddresser](https://github.com/Haruma-K/EZAddresser) - Automatic addressing system for Unity Addressable Asset System.
+* [Locus Bundle System For Unity - Version 2](https://github.com/locus84/Locus-Bundle-System-v2) - Simple Unity Addressables Alternative That Supports Synchronized API And Memory Management.
+* [UnityAutoBundles](https://github.com/perholmes/UnityAutoBundles) - Extension to Unity's Addressables for making it easier to distribute large projects and keep mobile download size small.
+* [AssetBundleManager](https://github.com/SadPandaStudios/AssetBundleManager) - An asset bundle manager for Unity
 
 ### Audio Manager
 * [LucidAudio](https://github.com/AnnulusGames/LucidAudio) - Simple audio player for unity
