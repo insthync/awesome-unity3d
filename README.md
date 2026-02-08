@@ -157,6 +157,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 
 ### Anti-Cheat/Hack
 * [obfuz](https://github.com/focus-creative-games/obfuz) - A powerful open-source code obfuscation plugin for Unity
+* [Ether-Uprotector](https://github.com/Ether2023/Ether-Uprotector)
 * [SafeValues](https://github.com/ookii-tsuki/SafeValues) - A simple Unity library for cheating prevention
 
 ### Art Tools
@@ -613,13 +614,10 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [NodeBasedDialogueSystem](https://github.com/merpheus-dev/NodeBasedDialogueSystem) - Node Based Dialogue System for Unity
 * [unity-dialogue-system](https://github.com/Wafflus/unity-dialogue-system) - A basic node based dialogue system made for Unity.
 
-### Obfuscation
-* [Ether-Uprotector](https://github.com/Ether2023/Ether-Uprotector)
-
 ### Package Manager
-* [Projeny](https://github.com/modesttree/Projeny) - A project and package manager for Unity.
 * [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) - A NuGet Package Manager for Unity
 * [OpenUPM](https://github.com/openupm/openupm) - OpenUPM - Open Source Unity Package Registry (UPM)
+* [Projeny](https://github.com/modesttree/Projeny) - A project and package manager for Unity.
 
 ### Physic
 * [BulletSharpUnity3d](https://github.com/Phong13/BulletSharpUnity3d) - A fork of the BulletSharp project to make the Bullet Physics Engine usable from C# code in Unity3d
