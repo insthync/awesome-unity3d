@@ -795,6 +795,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 ### Utilities
 * [R3](https://github.com/Cysharp/R3) - The new future of dotnet/reactive and UniRx.
 * [ZLinq](https://github.com/Cysharp/ZLinq) - Zero allocation LINQ with LINQ to Span, LINQ to SIMD, and LINQ to Tree (FileSystem, JSON, GameObject, etc.) for all .NET platforms and Unity, Godot.
+* [Eflatun.SceneReference](https://github.com/starikcetin/Eflatun.SceneReference) - Unity Scene References for Runtime and Editor. Strongly typed, robust, and reliable. Provides GUID, Path, Build Index, Name, and Address.
 * [Moments](https://github.com/Chman/Moments) - A quick GIF replay recorder for Unity
 * [FrameCapture](https://github.com/Chman/FrameCapture) - A simple frame-by-frame capture tool for Unity to record perfectly smooth, supersampled replays or cinematics.
 * [UniGif](https://github.com/WestHillApps/UniGif) - GIF image decoder for Unity.
@@ -842,7 +843,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Mathfs](https://github.com/FreyaHolmer/Mathfs) - Expanded Math Functionality for Unity
 * [Unity3D-Histogrammer](https://github.com/Thundernerd/Unity3D-Histogrammer) - A tool for Unity3D to help you pinpoint redundant data
 * [Unity3D-Humanizr](https://github.com/Thundernerd/Unity3D-Humanizr) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.
-* [unity-scene-reference](https://github.com/starikcetin/unity-scene-reference) - A SceneReference wrapper class that uses ISerializationCallbackReceiver and a custom PropertyDrawer to provide safe, user-friendly scene references in scripts.
 * [SceneKeeper](https://github.com/brunomikoski/SceneKeeper) - A simple tool that keeps your scene state (Hierarchy/Selection) exactly as you left in between switching scenes on editor or play mode.
 * [Unity3D-save-audioClip-to-MP3](https://github.com/Team-on/Unity3D-save-audioClip-to-MP3) - Save an audioclip to mp3 in unity3d. Also plugin can save audioclip to wav and convert wav to mp3.
 * [CandyCoded](https://github.com/CandyCoded/CandyCoded) - Custom Unity Components that are delightful
