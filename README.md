@@ -794,7 +794,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 ### Utilities
 * [R3](https://github.com/Cysharp/R3) - The new future of dotnet/reactive and UniRx.
-* [LINQ to GameObject](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ
+* [ZLinq](https://github.com/Cysharp/ZLinq) - Zero allocation LINQ with LINQ to Span, LINQ to SIMD, and LINQ to Tree (FileSystem, JSON, GameObject, etc.) for all .NET platforms and Unity, Godot.
 * [Moments](https://github.com/Chman/Moments) - A quick GIF replay recorder for Unity
 * [FrameCapture](https://github.com/Chman/FrameCapture) - A simple frame-by-frame capture tool for Unity to record perfectly smooth, supersampled replays or cinematics.
 * [UniGif](https://github.com/WestHillApps/UniGif) - GIF image decoder for Unity.
