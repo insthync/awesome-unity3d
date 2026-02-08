@@ -414,8 +414,6 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [GenshinCelShaderURP](https://github.com/Gaolingx/GenshinCelShaderURP)
 
 ### Embedding
-* [react-native-unity-view](https://github.com/f111fei/react-native-unity-view) - Show an unity view in react native
-* [react-native-unity-view](https://github.com/asmadsen/react-native-unity-view) - This is a fork of https://github.com/f111fei/react-native-unity-view to make it work with React Native >= 0.60.
 * [flutter-unity-view-widget](https://github.com/snowballdigital/flutter-unity-view-widget) - Embeddable unity game engine view for Flutter.
 
 ### Feedback Libraries
@@ -748,6 +746,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 ### UI
 * [FairyGUI-unity](https://github.com/fairygui/FairyGUI-unity) - A flexible UI framework for Unity
+* [ReactUnity](https://github.com/ReactUnity/core) - React and HTML framework for Unity UI & UIToolkit
 * [MiniMap](https://github.com/Area730/MiniMap) - Unity3D mini map (radar) system (Asset Store link - https://www.assetstore.unity3d.com/en/#!/content/33729 )
 * [LoopScrollRect](https://github.com/qiankanglai/LoopScrollRect) - UGUI ScrollRect reusing cells, to improve performance, loading time and draw calls.
 * [MaterialUI](https://github.com/InvexGames/MaterialUI) - MaterialUI is a UI kit for Unity that follows Google's official material design guidelines.
@@ -788,7 +787,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [PoiPoiTooltip](https://github.com/arket/PoiPoiTooltip) - PoiPoiTooltip is a simple tooltip. (Unity Asset)
 * [Auto9Slicer](https://github.com/kyubuns/Auto9Slicer) - Auto 9 slice sprite generator on Unity.
 * [UnityAccessibilityPlugin](https://github.com/mikrima/UnityAccessibilityPlugin) - The UI Accessibility Plugin (UAP) allows you to make your UI accessible to blind and visually impaired players on Windows, Android, iOS, Mac and WebGL.
-* [ReactUnity](https://github.com/ReactUnity/core) - React and HTML framework for Unity UI & UIToolkit.
 * [uPalette](https://github.com/Haruma-K/uPalette) - Centralized management & batch change system of colors for Unity.
 * [Rewired.UI.Hotkeys](https://github.com/am1goo/Rewired.UI.Hotkeys) - a plugin for Guavaman's Rewired Unity Asset that provides an easy-to-use API for showing controller hotkeys to the player at runtime based on their bindings and input method.
 
