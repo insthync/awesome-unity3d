@@ -793,6 +793,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Rewired.UI.Hotkeys](https://github.com/am1goo/Rewired.UI.Hotkeys) - a plugin for Guavaman's Rewired Unity Asset that provides an easy-to-use API for showing controller hotkeys to the player at runtime based on their bindings and input method.
 
 ### Utilities
+* [R3](https://github.com/Cysharp/R3) - The new future of dotnet/reactive and UniRx.
 * [LINQ to GameObject](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ
 * [Moments](https://github.com/Chman/Moments) - A quick GIF replay recorder for Unity
 * [FrameCapture](https://github.com/Chman/FrameCapture) - A simple frame-by-frame capture tool for Unity to record perfectly smooth, supersampled replays or cinematics.
@@ -804,7 +805,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Unity Size Explorer](https://github.com/aschearer/unitysizeexplorer) - Visualize how much space each asset in your Unity game takes and quickly optimize your game's file size.
 * [UnityStudio](https://github.com/RaduMC/UnityStudio) - Unity Studio is a tool for exploring, extracting and exporting assets from Unity games and apps.
 * [InGameReplay](https://github.com/FeNo/InGameReplay) - Allow you to record the transform of any objects to replay it
-* [UniRx](https://github.com/neuecc/UniRx) - Reactive Extensions for Unity
 * [Rant](https://github.com/TheBerkin/rant) - Robust text engine for procedural generation and postprocessing
 * [E7Unity](https://github.com/5argon/E7Unity) - Common Unity resources
 * [mmd-for-unity](https://github.com/mmd-for-unity-proj/mmd-for-unity) - MikuMikuDance for Unity
