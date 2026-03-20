@@ -139,6 +139,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [UnityBehaviorTreeVisualizer](https://github.com/Yecats/UnityBehaviorTreeVisualizer) - A tool built in Unity that draws a graph representation of behavior trees running in the scene
 * [MonoBehaviourTree](https://github.com/Qriva/MonoBehaviourTree) - Simple event driven Behaviour tree for Unity projects
 * [N:ORCA](https://github.com/Nebukam/com.nebukam.orca) - ORCA / RVO2 Implementation for Unity — Multithreaded using the job system.
+* [jahro-console/unity-agent-skills](https://github.com/jahro-console/unity-agent-skills) - Unity AI agentic skills set
 
 ### Analyzer
 * [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) - A Memory Profiler, Debugger and Analyzer for Unity 2019.3 and newer.
@@ -229,7 +230,8 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 ### Console
 * [Unity3d-BeastConsole](https://github.com/pointcache/Unity3d-BeastConsole) - Console for all your unity needs
 * [consolation](https://github.com/mminer/consolation) - In-game debug console for Unity.
-* [Lunar Unity Mobile Console](https://github.com/SpaceMadness/lunar-unity-console) - High-performance Unity iOS/Android logger built with native platform UI 
+* [Lunar Unity Mobile Console](https://github.com/SpaceMadness/lunar-unity-console) - High-performance Unity iOS/Android logger built with native platform UI
+* [jahro-console/unity-package](https://github.com/jahro-console/unity-package) — Unity console plugin & Jahro debugging platform
 
 ### DOTS
 * [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
