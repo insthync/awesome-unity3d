@@ -232,6 +232,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [consolation](https://github.com/mminer/consolation) - In-game debug console for Unity.
 * [Lunar Unity Mobile Console](https://github.com/SpaceMadness/lunar-unity-console) - High-performance Unity iOS/Android logger built with native platform UI
 * [jahro-console/unity-package](https://github.com/jahro-console/unity-package) — Unity console plugin & Jahro debugging platform
+* [CSharp Console](https://github.com/niqibiao/unity-csharpconsole) - Interactive Roslyn-powered C# REPL for Unity Editor and Runtime. Persistent session state, private member access, remote Player execution via HybridCLR, and an extensible command framework. No compilation wait.
 
 ### DOTS
 * [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
@@ -338,6 +339,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [LucidEditor](https://github.com/AnnulusGames/LucidEditor) - Powerful Editor Extensions for Unity
 * [UnityGitPackageUpdater](https://github.com/QuantumCalzone/UnityGitPackageUpdater) - Easily update Unity packages hosted via git
 * [FastScriptReload](https://github.com/handzlikchris/FastScriptReload) - Hot Reload implementation for Unity. Iterate on code insanely fast without breaking play session. Supports any editor. 1. Play 2. Make change 3. See results
+* [unity-cli-plugin](https://github.com/niqibiao/unity-cli-plugin) - AI coding agent plugin for Unity Editor supporting Claude Code and Codex CLI. 40+ commands for scene editing, components, assets, screenshots, and profiling; falls back to a full Roslyn C# REPL via unity-csharpconsole.
 
 ### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
