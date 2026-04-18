@@ -617,11 +617,13 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Dialogue](https://github.com/Siccity/Dialogue) - Node based dialogue system
 * [NodeBasedDialogueSystem](https://github.com/merpheus-dev/NodeBasedDialogueSystem) - Node Based Dialogue System for Unity
 * [unity-dialogue-system](https://github.com/Wafflus/unity-dialogue-system) - A basic node based dialogue system made for Unity.
+* [VisualStateMachineV2](https://github.com/PaulNonatomic/VisualStateMachineV2) - A node-based editor for designing state machines in Unity
 
 ### Package Manager
 * [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) - A NuGet Package Manager for Unity
 * [OpenUPM](https://github.com/openupm/openupm) - OpenUPM - Open Source Unity Package Registry (UPM)
 * [Projeny](https://github.com/modesttree/Projeny) - A project and package manager for Unity.
+* [Pkglnk](https://github.com/PaulNonatomic/pkglnk-unity) - Browse, search, and install Unity packages from the pkglnk.dev package directory
 
 ### Physic
 * [BulletSharpUnity3d](https://github.com/Phong13/BulletSharpUnity3d) - A fork of the BulletSharp project to make the Bullet Physics Engine usable from C# code in Unity3d
@@ -690,6 +692,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture) - Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy
 * [ScriptableObjectCollection](https://github.com/brunomikoski/ScriptableObjectCollection) - A library to help improve the usability of Unity3D Scriptable Objects by grouping then into a collection and exposing then by code or nice inspectors!
 * [GenericUnityObjects](https://github.com/SolidAlloy/GenericUnityObjects) - Generic ScriptableObjects
+* [ServiceKit](https://github.com/PaulNonatomic/ServiceKit) - A lightweight, ScriptableObject-based dependency injection and service locator framework for Unity
 
 ### Scriptings
 * [hybridclr](https://github.com/focus-creative-games/hybridclr) - HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotupdate.
