@@ -341,6 +341,7 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [FastScriptReload](https://github.com/handzlikchris/FastScriptReload) - Hot Reload implementation for Unity. Iterate on code insanely fast without breaking play session. Supports any editor. 1. Play 2. Make change 3. See results
 * [unity-cli-plugin](https://github.com/niqibiao/unity-cli-plugin) - AI coding agent plugin for Unity Editor supporting Claude Code and Codex CLI. 40+ commands for scene editing, components, assets, screenshots, and profiling; falls back to a full Roslyn C# REPL via unity-csharpconsole.
 
+* [com.unity.ide.antigravity](https://github.com/BadranRaza/com.unity.ide.antigravity) - Unity Editor integration for Google Antigravity IDE (the VS Code-based code editor split off from the standalone Antigravity 2.0 agent app at I/O 2026). Detects the IDE vs the agent app via resources/app/package.json manifest verification.
 ### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
 * [unity-frosted-glass](https://github.com/andydbc/unity-frosted-glass) - frosted glass material made in unity
