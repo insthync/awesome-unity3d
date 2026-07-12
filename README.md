@@ -155,8 +155,8 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [Unity-Procedural-Animation](https://github.com/Sopiro/Unity-Procedural-Animation) - Procedural Animation in Unity
 * [unity-antagonistic-controller](https://github.com/edualvarado/unity-antagonistic-controller) - Generating Upper-Body Motion for Real-Time Characters Making their Way through Dynamic Environments 
 * [Mesh-Animation](https://github.com/codewriter-packages/Mesh-Animation) - Fast GPU vertex shader based animation library for Unity (VAT, Vertex Animation Texture, Morphing Animation)
-* [Body-motion-capture-and-animation-in-Unity](https://github.com/ShutovKS/Body-motion-capture-and-animation-in-Unity) - Body motion capture with Python and OpenCV, real-time data transfer to Unity, and character animation using IK
-* [Hand-motion-capture-and-animation-in-Unity](https://github.com/ShutovKS/Hand-motion-capture-and-animation-in-Unity) - Hand motion capture with Python and OpenCV, real-time data transfer to Unity, and hand animation
+* [Body-motion-capture-and-animation-in-Unity](https://github.com/SkS-GameDev/Body-motion-capture-and-animation-in-Unity) - Body motion capture with Python and OpenCV, real-time data transfer to Unity, and character animation using IK
+* [Hand-motion-capture-and-animation-in-Unity](https://github.com/SkS-GameDev/Hand-motion-capture-and-animation-in-Unity) - Hand motion capture with Python and OpenCV, real-time data transfer to Unity, and hand animation
 
 ### Anti-Cheat/Hack
 * [obfuz](https://github.com/focus-creative-games/obfuz) - A powerful open-source code obfuscation plugin for Unity
