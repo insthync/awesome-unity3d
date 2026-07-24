@@ -5,7 +5,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [2D](#2d)
 - [2D Bones](#2d-bones--ik)
 - [3D Bones](#3d-bones--ik)
-- [AI](#ai)
+- [AI Agent](#ai-agent)
 - [Analyzer](#analyzer)
 - [Animation](#animation)
 - [Anti-Cheat/Hack](#anti-cheathack)
@@ -33,6 +33,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 - [Feedback Libraries](#feedback-libraries)
 - [Framework](#framework)
 - [Gameplay](#gameplay)
+- [Gameplay - AI](#gameplay---ai)
 - [Gizmos](#gizmos)
 - [Input](#input)
 - [Job System](#job-system)
@@ -105,42 +106,11 @@ A categorized collection of awesome opensource unity3d resources (including some
 * [Hairibar.Ragdoll](https://github.com/hairibar/Hairibar.Ragdoll) - A package for animating ragdolls through keyframed animations.
 * [TurboSequence](https://github.com/LukasFratzl/TurboSequence) - Skeletal Based GPU Crowds for UE5 🚀
 
-### AI
-* [GOAP](https://github.com/crashkonijn/GOAP) - A multi-threaded GOAP system for Unity3D
-* [behaviac](https://github.com/Tencent/behaviac) - behaviac is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN)
-* [DotRecast](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
-* [UnityHFSM](https://github.com/Inspiaaa/UnityHFSM) - A fast, tried-and-tested hierarchical finite state machine library for Unity, designed to be easy to use yet powerful without compromising performance.
-* [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai) - A library of common movement AI scripts known as Steering Behaviors. You can use these scripts to help your NPCs move around your game.
-* [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - A Utility AI for C# and Unity
-* [EpPathFinding.cs](https://github.com/juhgiyo/EpPathFinding.cs) - A jump point search algorithm for grid based games in C#
-* [EpPathFinding3D.cs](https://github.com/juhgiyo/EpPathFinding3D.cs) - A 3D jump point search algorithm for cube based games in C#
-* [UnitySteer](https://github.com/ricardojmendez/UnitySteer) - Steering, obstacle avoidance and path following behaviors for the Unity Game Engine
-* [A Star Pathfinding for Unity](https://github.com/sharpaccent/Astar-for-Unity) - A Star Pathfinder, 3 axis, multithreaded for Unity
-* [openpath](https://github.com/mrzapp/openpath) - Open source pathfinding for Unity
-* [unity-path-finding](https://github.com/mattatz/unity-path-finding) - Shortest path finding with Dijkstra's algorithm for Unity.
-* [NPBehave](https://github.com/meniku/NPBehave) - Event Driven Behavior Trees for Unity 3D
-* [fluid-behavior-tree](https://github.com/ashblue/fluid-behavior-tree) - A pure code behavior tree micro-framework built for Unity3D projects. Granting developers the power to dictate their GUI presentation
-* [Unity3d-Finite-State-Machine](https://github.com/thefuntastic/Unity3d-Finite-State-Machine) -
-An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on usability, without sacrificing utility
-* [Path-Creator](https://github.com/SebLague/Path-Creator) - Path creation asset for Unity game development
-* [NavMeshPlus](https://github.com/h8man/NavMeshPlus) - Unity NavMesh 2D Pathfinding
-* [NavMeshSurface2DBaker](https://github.com/SharlatanY/NavMeshSurface2DBaker) - NavMeshSurface2DBaker is a Unity Package that provides functionality to bake 2D colliders into NavMeshSurface components.
-* [Brainiac](https://github.com/daemon3000/Brainiac) - Behaviour tree editor for Unity3D
-* [ainav](https://github.com/gamemachine/ainav) - Recastnavigation in C#
-* [UnityBehaviorTreeImplementation](https://github.com/naelstrof/UnityBehaviorTreeImplementation) - An example of how to implement behavior trees within Unity.
-* [unity-navgen](https://github.com/idbrii/unity-navgen) - Tools for working with Unity's NavMeshComponents and generating navmesh: link generation, mesh cleanup, etc.
-* [Unity-Character-Mechanism](https://github.com/MorelAntoine/Unity-Character-Mechanism) - Framework aiming to facilitate the code development of a character in Unity
-* [CustomNavMesh](https://github.com/jadvrodrigues/CustomNavMesh) - Alternative to Unity's NavMesh system where the agents avoid each other.
-* [PathFinder3D](https://github.com/TheCyaniteProject/PathFinder3D) - 3D A* Pathfinding that doesn't need baked navmeshes and can be used with dynamically created terrain (MapMagic or other)
-* [UniTaskStateMachine](https://github.com/k-okawa/UniTaskStateMachine) - StateMachine for UniTask. StateMachine Editor Included.
-* [NavMeshAvoidance](https://github.com/OlegDzhuraev/NavMeshAvoidance) - About
-Custom Nav Mesh Avoidance to replace default one in Unity.
+### AI Agent
 * [AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with the Unity Editor.
-* [UnityBehaviorTreeVisualizer](https://github.com/Yecats/UnityBehaviorTreeVisualizer) - A tool built in Unity that draws a graph representation of behavior trees running in the scene
-* [MonoBehaviourTree](https://github.com/Qriva/MonoBehaviourTree) - Simple event driven Behaviour tree for Unity projects
-* [N:ORCA](https://github.com/Nebukam/com.nebukam.orca) - ORCA / RVO2 Implementation for Unity — Multithreaded using the job system.
 * [jahro-console/unity-agent-skills](https://github.com/jahro-console/unity-agent-skills) - Unity AI agentic skills set
 * [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) - Open-source MCP server connecting AI agents (Claude, Cursor, GitHub Copilot, Gemini, and more) to the Unity Editor and runtime, with 100+ built-in tools.
+* [unity-cli-plugin](https://github.com/niqibiao/unity-cli-plugin) - AI coding agent plugin for Unity Editor supporting Claude Code and Codex CLI. 40+ commands for scene editing, components, assets, screenshots, and profiling; falls back to a full Roslyn C# REPL via unity-csharpconsole.
 
 ### Analyzer
 * [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) - A Memory Profiler, Debugger and Analyzer for Unity 2019.3 and newer.
@@ -343,7 +313,6 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [LucidEditor](https://github.com/AnnulusGames/LucidEditor) - Powerful Editor Extensions for Unity
 * [UnityGitPackageUpdater](https://github.com/QuantumCalzone/UnityGitPackageUpdater) - Easily update Unity packages hosted via git
 * [FastScriptReload](https://github.com/handzlikchris/FastScriptReload) - Hot Reload implementation for Unity. Iterate on code insanely fast without breaking play session. Supports any editor. 1. Play 2. Make change 3. See results
-* [unity-cli-plugin](https://github.com/niqibiao/unity-cli-plugin) - AI coding agent plugin for Unity Editor supporting Claude Code and Codex CLI. 40+ commands for scene editing, components, assets, screenshots, and profiling; falls back to a full Roslyn C# REPL via unity-csharpconsole.
 
 * [com.unity.ide.antigravity](https://github.com/BadranRaza/com.unity.ide.antigravity) - Unity Editor integration for Google Antigravity IDE (the VS Code-based code editor split off from the standalone Antigravity 2.0 agent app at I/O 2026). Detects the IDE vs the agent app via resources/app/package.json manifest verification.
 ### Effect and Shaders
@@ -467,6 +436,40 @@ Custom Nav Mesh Avoidance to replace default one in Unity.
 * [ezy-slice](https://github.com/DavidArayan/ezy-slice) - An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
 * [UnityTimeRewinder](https://github.com/SitronX/UnityTimeRewinder) - Unity time rewind solution, that is easily customizable for any project.
 * [Depiction Engine For Unity](https://github.com/VIZ-Interactive/Depiction-Engine-Unity) - Versatile engine to create and stream large 3D worlds for game or geospatial applications
+
+### Gameplay - AI
+* [GOAP](https://github.com/crashkonijn/GOAP) - A multi-threaded GOAP system for Unity3D
+* [behaviac](https://github.com/Tencent/behaviac) - behaviac is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN)
+* [DotRecast](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
+* [UnityHFSM](https://github.com/Inspiaaa/UnityHFSM) - A fast, tried-and-tested hierarchical finite state machine library for Unity, designed to be easy to use yet powerful without compromising performance.
+* [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai) - A library of common movement AI scripts known as Steering Behaviors. You can use these scripts to help your NPCs move around your game.
+* [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - A Utility AI for C# and Unity
+* [EpPathFinding.cs](https://github.com/juhgiyo/EpPathFinding.cs) - A jump point search algorithm for grid based games in C#
+* [EpPathFinding3D.cs](https://github.com/juhgiyo/EpPathFinding3D.cs) - A 3D jump point search algorithm for cube based games in C#
+* [UnitySteer](https://github.com/ricardojmendez/UnitySteer) - Steering, obstacle avoidance and path following behaviors for the Unity Game Engine
+* [A Star Pathfinding for Unity](https://github.com/sharpaccent/Astar-for-Unity) - A Star Pathfinder, 3 axis, multithreaded for Unity
+* [openpath](https://github.com/mrzapp/openpath) - Open source pathfinding for Unity
+* [unity-path-finding](https://github.com/mattatz/unity-path-finding) - Shortest path finding with Dijkstra's algorithm for Unity.
+* [NPBehave](https://github.com/meniku/NPBehave) - Event Driven Behavior Trees for Unity 3D
+* [fluid-behavior-tree](https://github.com/ashblue/fluid-behavior-tree) - A pure code behavior tree micro-framework built for Unity3D projects. Granting developers the power to dictate their GUI presentation
+* [Unity3d-Finite-State-Machine](https://github.com/thefuntastic/Unity3d-Finite-State-Machine) -
+An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on usability, without sacrificing utility
+* [Path-Creator](https://github.com/SebLague/Path-Creator) - Path creation asset for Unity game development
+* [NavMeshPlus](https://github.com/h8man/NavMeshPlus) - Unity NavMesh 2D Pathfinding
+* [NavMeshSurface2DBaker](https://github.com/SharlatanY/NavMeshSurface2DBaker) - NavMeshSurface2DBaker is a Unity Package that provides functionality to bake 2D colliders into NavMeshSurface components.
+* [Brainiac](https://github.com/daemon3000/Brainiac) - Behaviour tree editor for Unity3D
+* [ainav](https://github.com/gamemachine/ainav) - Recastnavigation in C#
+* [UnityBehaviorTreeImplementation](https://github.com/naelstrof/UnityBehaviorTreeImplementation) - An example of how to implement behavior trees within Unity.
+* [unity-navgen](https://github.com/idbrii/unity-navgen) - Tools for working with Unity's NavMeshComponents and generating navmesh: link generation, mesh cleanup, etc.
+* [Unity-Character-Mechanism](https://github.com/MorelAntoine/Unity-Character-Mechanism) - Framework aiming to facilitate the code development of a character in Unity
+* [CustomNavMesh](https://github.com/jadvrodrigues/CustomNavMesh) - Alternative to Unity's NavMesh system where the agents avoid each other.
+* [PathFinder3D](https://github.com/TheCyaniteProject/PathFinder3D) - 3D A* Pathfinding that doesn't need baked navmeshes and can be used with dynamically created terrain (MapMagic or other)
+* [UniTaskStateMachine](https://github.com/k-okawa/UniTaskStateMachine) - StateMachine for UniTask. StateMachine Editor Included.
+* [NavMeshAvoidance](https://github.com/OlegDzhuraev/NavMeshAvoidance) - About
+Custom Nav Mesh Avoidance to replace default one in Unity.
+* [UnityBehaviorTreeVisualizer](https://github.com/Yecats/UnityBehaviorTreeVisualizer) - A tool built in Unity that draws a graph representation of behavior trees running in the scene
+* [MonoBehaviourTree](https://github.com/Qriva/MonoBehaviourTree) - Simple event driven Behaviour tree for Unity projects
+* [N:ORCA](https://github.com/Nebukam/com.nebukam.orca) - ORCA / RVO2 Implementation for Unity — Multithreaded using the job system.
 
 ### Gizmos
 * [UGizmo](https://github.com/harumas/UGizmo) - Highly efficient gizmo drawer for Unity.
