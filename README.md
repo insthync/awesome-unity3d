@@ -163,7 +163,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 * [UnityBuildManager](https://github.com/Team-on/UnityBuildManager) - Utility for running builds sequence & pushing them to markets & keeping changelog
 * [buildtool](https://github.com/superunitybuild/buildtool) - A powerful automation tool for quickly and easily generating builds with Unity.
 * [setup-unity](https://github.com/pCYSl5EDgo/setup-unity) - Set up your GitHub Actions workflow with a specific version of the Unity Editor
-* [unity-actions](https://github.com/webbertakken/unity-actions) - Github actions for testing and building Unity projects
+* [unity-builder](https://github.com/game-ci/unity-builder) - Github action for testing and building Unity projects (formerly webbertakken/unity-actions)
 * [trimmer](https://github.com/sttz/trimmer) - An editor, build and player configuration framework for the Unity game engine.
 * [Unity-GitHub-Build-Automation](https://github.com/TolinSimpson/Unity-GitHub-Build-Automation/tree/main) - Automate desktop builds & release to GitHub, with update checker, signing & installer generation.
 * [Builds-Manager](https://github.com/SkS-GameDev/Builds-Manager) - A tool to accelerate game build creation for multiple platforms and simplify Scripting Define Symbols across builds
