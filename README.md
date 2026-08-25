@@ -115,6 +115,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 ### Analyzer
 * [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) - A Memory Profiler, Debugger and Analyzer for Unity 2019.3 and newer.
 * [CrashReporter](https://github.com/nskrkmz/CrashReporter) - This tool is employed to swiftly detect unhandled errors occurring within Unity projects and to save detailed reports of these errors to a remote redis database. (Suitable for beta testing and demo)
+* [Rekon](https://github.com/RekonOps/Rekon-unity) - Bug capture SDK for Unity. A rolling buffer records Play Mode continuously; one hotkey saves the last 60s of video, logs, and game state to a web dashboard and Jira.
 
 ### Animation
 * [unity-animator-helpers](https://github.com/ashblue/unity-animator-helpers) - A micro-framework for changing Unity 3D's Animator parameters with ScriptableObject(s). Designed to make going from custom scripts to Animator parameters easy. Works with 2D or 3D projects
