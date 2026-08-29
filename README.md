@@ -418,6 +418,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 * [PlayerLoopInterface](https://github.com/Baste-RainGames/PlayerLoopInterface) - A simple interface for interacting with Unity's player loop system
 * [CosmosFramework](https://github.com/DonnYep/CosmosFramework) - CosmosFramework is a medium-lightweight plug-in Unity development framework . Has a rich Unity method extensions and toolchain. async/await syntax support, multi-network channel support.
 * [UnityNeuroSpeech](https://github.com/HardCodeDev777/UnityNeuroSpeech) -  World’s first Unity framework that lets you talk to AI in real time — locally.
+* [GameFrameX](https://github.com/GameFrameX/GameFrameX) - A cross-engine game framework pairing Unity with its matching actor-model .NET server — one Protobuf protocol, one LuBan config pipeline, hot-update on both ends. Ships Godot client packages and AI-agent instruction docs (AGENTS.md/CLAUDE.md).
 
 ### Gameplay
 * [UnityArcRayCast](https://github.com/williamrjackson/UnityArcRayCast) - Arc raycast utility using projectile formulas
