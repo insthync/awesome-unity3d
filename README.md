@@ -208,6 +208,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 * [Lunar Unity Mobile Console](https://github.com/SpaceMadness/lunar-unity-console) - High-performance Unity iOS/Android logger built with native platform UI
 * [jahro-console/unity-package](https://github.com/jahro-console/unity-package) — Unity console plugin & Jahro debugging platform
 * [CSharp Console](https://github.com/niqibiao/unity-csharpconsole) - Interactive Roslyn-powered C# REPL for Unity Editor and Runtime. Persistent session state, private member access, remote Player execution via HybridCLR, and an extensible command framework. No compilation wait.
+* [Dev Console](https://github.com/kureysalp/Unity-Dev-Console) - Drop-down developer console for the editor and development builds. Self-registering typed commands, prefix suggestions, compiled out of release builds.
 
 ### DOTS
 * [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
