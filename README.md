@@ -705,6 +705,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [ScriptableObjectCollection](https://github.com/brunomikoski/ScriptableObjectCollection) - A library to help improve the usability of Unity3D Scriptable Objects by grouping then into a collection and exposing then by code or nice inspectors!
 * [GenericUnityObjects](https://github.com/SolidAlloy/GenericUnityObjects) - Generic ScriptableObjects
 * [ServiceKit](https://github.com/PaulNonatomic/ServiceKit) - A lightweight, ScriptableObject-based dependency injection and service locator framework for Unity
+* [DataForge LITE](https://github.com/Ragendom69/dataforge-lite) - Edit ScriptableObjects like a spreadsheet: one row per asset, one column per serialized field, with inline editing and Undo. Editor-only.
 
 ### Scriptings
 * [hybridclr](https://github.com/focus-creative-games/hybridclr) - HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotupdate.
@@ -915,6 +916,7 @@ A gc-free closure implementation for unity
 * [itch.io](https://itch.io/game-assets)
 * [Game Assets](https://game-asset.net/)
 * [Game Dev Market](https://www.gamedevmarket.net/)
+* [HyperCodeStore](https://hyper-code-store.com/) - Marketplace for complete Unity game templates and editor tools sold with full C# source; listings are human-reviewed.
 * [Kenney](https://kenney.nl/assets) - Free 2D, 3D, and Audio assets for personal and commercial use.
 * [Open Game Art](https://opengameart.org/)
 * [Unity Assetstore](https://assetstore.unity.com/) - Official asset store for unity.
