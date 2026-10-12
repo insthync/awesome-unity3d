@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/insthync-awesome-unity3d-badge.png)](https://mseep.ai/app/insthync-awesome-unity3d)
+
 # awesome-unity3d
 A categorized collection of awesome opensource unity3d resources (including some projects related to game development)
 
