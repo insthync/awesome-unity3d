@@ -439,6 +439,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 * [ezy-slice](https://github.com/DavidArayan/ezy-slice) - An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
 * [UnityTimeRewinder](https://github.com/SitronX/UnityTimeRewinder) - Unity time rewind solution, that is easily customizable for any project.
 * [Depiction Engine For Unity](https://github.com/VIZ-Interactive/Depiction-Engine-Unity) - Versatile engine to create and stream large 3D worlds for game or geospatial applications
+* [unity6-book-projects](https://github.com/LivelyPuer/unity6-book-projects) - Two complete Unity 6 (URP) sample games with full source: a physics arcade and a third-person action game with combo combat, skeleton AI (state machine, vision, attack tokens), a two-phase boss, save system with migrations and tests. Playable in the browser.
 
 ### Gameplay - AI
 * [GOAP](https://github.com/crashkonijn/GOAP) - A multi-threaded GOAP system for Unity3D
@@ -943,3 +944,4 @@ A gc-free closure implementation for unity
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/) Free and Paid available
 * [Unity in Action, Third Edition](https://www.manning.com/books/unity-in-action-third-edition) A book about creating 2D, 3D, and AR/VR games with the awesome Unity game platform.
 * [Framework design guidelines](https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/)
+* [Unity 6: From Your First Game to Release (in Russian)](https://www.litres.ru/book/maksim-boiko-34103572/unity-6-ot-pervoi-igry-do-publikatsii-74614187/) A hands-on Unity 6 book from C# basics to publishing; the source code of both games built in it is open: [unity6-book-projects](https://github.com/LivelyPuer/unity6-book-projects)
