@@ -111,6 +111,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 * [jahro-console/unity-agent-skills](https://github.com/jahro-console/unity-agent-skills) - Unity AI agentic skills set
 * [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) - Open-source MCP server connecting AI agents (Claude, Cursor, GitHub Copilot, Gemini, and more) to the Unity Editor and runtime, with 100+ built-in tools.
 * [unity-cli-plugin](https://github.com/niqibiao/unity-cli-plugin) - AI coding agent plugin for Unity Editor supporting Claude Code and Codex CLI. 40+ commands for scene editing, components, assets, screenshots, and profiling; falls back to a full Roslyn C# REPL via unity-csharpconsole.
+* [unity-ai-agent-rules](https://github.com/scoyoc5/unity-ai-agent-rules) - Cursor rules and AGENTS.md that stop common AI coding mistakes in Unity: missing `using` lines, made-up APIs, and Unity 6 vs 2022 LTS API mixups.
 
 ### Analyzer
 * [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) - A Memory Profiler, Debugger and Analyzer for Unity 2019.3 and newer.
