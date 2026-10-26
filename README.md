@@ -735,6 +735,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Google Play Games plugin for Unity](https://github.com/playgameservices/play-games-plugin-for-unity) - Google Play Games plugin for Unity
 * [Playerloop](https://github.com/playerloop/playerloop-unity) - The fastest way to start collecting bug reports from your players.
 * [Aptabase](https://github.com/aptabase/aptabase-unity) - Open Source, Privacy-first and lightweight analytics for Unity Games.
+* [LogBrew Unity](https://github.com/LogBrewCo/sdk/tree/main/unity/logbrew-unity) - Open-source UPM package that reports exceptions with breadcrumbs, logs, and traces from games to LogBrew, which has a free plan.
 
 ### Sounds
 * [usfxr](https://github.com/zeh/usfxr) - a C# library used to generate and play game-like procedural audio effects inside Unity. With usfxr, one can easily design and synthesize original sound in real time for actions such as item pickups, jumps, lasers, hits, explosions, and more, without ever leaving the Unity editor.
