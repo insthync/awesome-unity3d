@@ -921,6 +921,7 @@ A gc-free closure implementation for unity
 * [Game Dev Market](https://www.gamedevmarket.net/)
 * [HyperCodeStore](https://hyper-code-store.com/) - Marketplace for complete Unity game templates and editor tools sold with full C# source; listings are human-reviewed.
 * [Kenney](https://kenney.nl/assets) - Free 2D, 3D, and Audio assets for personal and commercial use.
+* [RespawnStack](https://respawnstack.com) - Curated directory of AI tools for game development (art, audio, code, production).
 * [Open Game Art](https://opengameart.org/)
 * [Unity Assetstore](https://assetstore.unity.com/) - Official asset store for unity.
 
