@@ -940,6 +940,7 @@ A gc-free closure implementation for unity
 
 * [Sonniss GDC 2018 Pack](https://sonniss.com/gameaudiogdc18/) - Free to use 30GB worth of audio files
 * [Soundza](https://soundza.com/) - Free sound effects, music loops and ambience in WAV/MP3, free for commercial use with no attribution needed.
+* [DailySounds](https://dailysounds.org/?ref=unity3d) - Free sound effects in MP3/WAV/OGG with no account, free for commercial games with credit optional.
 
 ## Articles
 * [50 Tips and Best Practices for Unity (2016 Edition)](https://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php)
