@@ -113,6 +113,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 * [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) - Open-source MCP server connecting AI agents (Claude, Cursor, GitHub Copilot, Gemini, and more) to the Unity Editor and runtime, with 100+ built-in tools.
 * [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) - Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
 * [unity-cli-plugin](https://github.com/niqibiao/unity-cli-plugin) - AI coding agent plugin for Unity Editor supporting Claude Code and Codex CLI. 40+ commands for scene editing, components, assets, screenshots, and profiling; falls back to a full Roslyn C# REPL via unity-csharpconsole.
+* [Satura Space](https://github.com/saturadev/satura-space) - Desktop app where coding agents open a Tuner on one object in Unity's real Inspector and test multiplayer in up to three clone editors, with a phone web app to tune and check on them.
 * [unity-ai-agent-rules](https://github.com/scoyoc5/unity-ai-agent-rules) - Cursor rules and AGENTS.md that stop common AI coding mistakes in Unity: missing `using` lines, made-up APIs, and Unity 6 vs 2022 LTS API mixups.
 
 ### Analyzer
