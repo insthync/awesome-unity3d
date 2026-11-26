@@ -936,6 +936,7 @@ A gc-free closure implementation for unity
 * [AssetForge](https://kenney.itch.io/assetforge) - Easily create simple assets in seconds (Paid).
 * [BFXR](https://www.bfxr.net/) - Make sound effects for computer games (Flash required)
 * [MagicaVoxel](https://ephtracy.github.io/) Free to use Voxel editor (even for commercial).
+* [Mint Polygon Reducer](https://mint.gg/polygon-reducer) - Free in-browser mesh simplifier for GLB, OBJ, STL and 3MF files with a wireframe compare view; useful for cutting triangle counts before importing into Unity.
 * [Mixamo](https://www.mixamo.com/) - Free to use animation mixing tool with free animations. Not allowed to use in open source projects.
 
 ### Audio
