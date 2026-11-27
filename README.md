@@ -110,6 +110,7 @@ A categorized collection of awesome opensource unity3d resources (including some
 * [AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with the Unity Editor.
 * [jahro-console/unity-agent-skills](https://github.com/jahro-console/unity-agent-skills) - Agent skills for AI-assisted Unity debugging — structured logging, runtime commands, variable watching, and more
 * [Unity-Skills](https://github.com/Besty0728/Unity-Skills) - AI automation skills specifically designed for Unity
+* [3AGameFactory](https://github.com/OpenDCAI/GameFactory-3A) - An open-source toolkit that helps coding agents generate Unity game code and assets, including 3D models and character animations.
 * [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) - Open-source MCP server connecting AI agents (Claude, Cursor, GitHub Copilot, Gemini, and more) to the Unity Editor and runtime, with 100+ built-in tools.
 * [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) - Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
 * [unity-cli-plugin](https://github.com/niqibiao/unity-cli-plugin) - AI coding agent plugin for Unity Editor supporting Claude Code and Codex CLI. 40+ commands for scene editing, components, assets, screenshots, and profiling; falls back to a full Roslyn C# REPL via unity-csharpconsole.
